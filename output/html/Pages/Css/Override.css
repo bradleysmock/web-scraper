@@ -1,0 +1,197 @@
+/*Fixes Ribbon Content*/
+#suiteBar {
+  display: none;
+}
+#s4-ribbonrow {
+  display: none;
+}
+#suiteBar *{
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+/* **************************************************** 
+This is breaking bootstrap only needs to be applied to 
+the ribbon to fix icons and other spacing issues.
+* {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+
+*:before,
+*:after {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+****************************************************  */
+.pageContentZone {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.small-font {
+  font-size: 11px;
+}
+
+.smaller-font {
+  font-size: 9px;
+}
+
+.small-control {
+  width: 100px !important;
+  height: 30px !important;
+}
+
+.smaller-control {
+  width: 30px !important;
+  height: 17px !important;
+}
+
+.buttonsRight{
+	float:right;
+	margin:30px 0;
+}
+
+#contentBox {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.dropdown-menu {
+    width: 450px;
+}
+
+.form-control {
+    width: 440px;
+}
+
+#s4-titlerow {
+    height: 80px;
+}
+
+pre {
+  width: 800px;
+}
+
+.tool-btn {
+  font-size: 8px;
+}
+
+.indent {
+  padding-left: 16px;
+  padding-right: 0px;
+  font-size: 10px;
+}
+
+.align {
+  margin-bottom: 7px !important;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.input-group-addon.active {
+  background-color: #337ab7;
+  color: #fff;
+}
+
+.toggle-box {
+  text-align: center;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  width: 24px;
+
+  background-color: #eee;
+
+  border: rgb(204,204,204) solid 1px;
+  border-radius: 4px;
+}
+
+.toggle-box.active {
+  background-color: #337ab7;
+  color: #fff;
+}
+
+.highlight-name {
+  background-color: #FFFFAA;
+}
+
+.highlight-code {
+  background-color: #FFFFAA;
+}
+
+.highlight-units {
+  background-color: #FFFFAA;
+}
+
+.error {
+  border-color: red !important;
+}
+
+.error_text {
+  color: red;
+}
+
+.attention {
+  color: white;
+  background-color: #002f51;
+  padding: 30px;
+}
+
+.attention .note {
+  color: #aaaaaa;
+  font-size: .8em;
+}
+
+.sidebar {
+  background-color: #e0e0e0;
+  padding: 20px;
+}
+
+.asterisk {
+  color: red;
+}
+
+#s4-bodyContainer {
+  background-color: white;
+}
+
+.workflowBox {
+  padding: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.course-notes {
+    font-style: italic;
+}
+
+#watermark {
+    display: none;    
+}
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+    
+   /* #watermark {
+        display:block;
+        opacity:0.4; 
+        position:fixed;
+        z-index:0; 
+        width: 800px; 
+        margin-top: 200px;         
+    }*/
+    
+    #content {
+        position:absolute;
+        z-index:1;
+    }
+    
+}
