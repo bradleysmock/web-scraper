@@ -1,14 +1,9 @@
 import fs from "fs";
 
-let directoryExists;
-export const getPageHtml = (html, pageAddress) => {
-
-    if (!fs.dir) {
+export const savePageHtml = (html, name) => {
+    if (!fs.existsSync('./output/html')) {
         fs.mkdirSync('./output/html');
-        directoryExists = true;
     }
 
-    const name = sanitize(pageAddress)
-    fs.writeFile(`./output/html/${name}.html`, html, () => {
-    })
+    fs.writeFile(`./output/html/${name}.html`, html, () => {});
 }

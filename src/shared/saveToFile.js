@@ -1,9 +1,17 @@
 import fs from "fs";
+import { join } from 'path';
 
-export const savePageHtml = (html, name) => {
-    if (!fs.existsSync('./output/html')) {
-        fs.mkdirSync('./output/html');
+export const saveToFile = (name, extension, content, location) => {
+  try {
+    if (!fs.existsSync(location)) {
+      fs.mkdirSync(location);
     }
-
-    fs.writeFile(`./output/html/${name}.html`, html, () => {});
+    const cleanName = name.replace(/\?/g, '-')
+      .replace(/=/g, '-')
+      .replace(/\&/g, '-');
+    const filePath = join(location, `${cleanName}.${extension}`);
+    fs.writeFile(filePath, content, () => {});
+  } catch (error) {
+    console.error(name, error);
+  }
 }

@@ -4,12 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "chromium": "node ./src/chromium/index.js",
+    "crawler": "node ./src/crawler/index.js",
+    "csr": "node ./src/csr/index.js",
+    "ssr": "node ./src/ssr/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodejs-web-scraper": "^6.1.2"
-  }
+    "crawler": "^1.4.0",
+    "headless-chrome-crawler": "^1.8.0",
+    "nodejs-web-scraper": "^6.1.2",
+    "path": "^0.12.7",
+    "puppeteer": "^19.4.1"
+  },
+  "type": "module"
 }
