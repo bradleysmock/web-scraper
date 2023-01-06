@@ -4,6 +4,7 @@ import {saveToFile} from "../shared/saveToFile.js";
 (async () => {
 
   const errors = [];
+  const pageLinks = [];
 
   const crawler = await HCCrawler.launch({
     maxDepth: 2,
@@ -48,6 +49,8 @@ import {saveToFile} from "../shared/saveToFile.js";
       const name = url.slice(url.lastIndexOf('/') + 1).replace('.aspx','').toLowerCase();
       const html = result?.html;
 
+      pageLinks.push({ old: url, new: `${name}.html` })
+
       saveToFile(
           name,
           'html',
@@ -71,5 +74,6 @@ import {saveToFile} from "../shared/saveToFile.js";
   });
   await crawler.onIdle(); // Resolved when no queue is left
   await crawler.close(); // Close the crawler
-  saveToFile('errors', 'json', JSON.stringify(errors), './output/json')
+  saveToFile('errors', 'json', JSON.stringify(errors), './output/json');
+  saveToFile('oldToNew', 'json', JSON.stringify(pageLinks), './output/json');
 })();
