@@ -13,7 +13,7 @@ import {saveToFile} from "../shared/saveToFile.js";
       const result = await crawl();
 
       try {
-        await page.waitForSelector('a[ng-href]', {timeout: 2000});
+        await page.waitForSelector('a[ng-href]', {timeout: 4000});
 
         const links = await page.$$eval(
             'a[href], a[ng-href]',
