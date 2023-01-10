@@ -6,7 +6,7 @@ import {saveToFile} from "../shared/saveToFile.js";
   const errors = [];
 
   const crawler = await HCCrawler.launch({
-    maxDepth: 2,
+    maxDepth: 5,
     maxConcurrency: 1,
 
     customCrawl: async (page, crawl) => {
