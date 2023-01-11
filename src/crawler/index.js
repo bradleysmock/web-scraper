@@ -1,5 +1,6 @@
 import HCCrawler from 'headless-chrome-crawler';
 import {saveToFile} from "../shared/saveToFile.js";
+import {existsSync} from "node:fs";
 
 (async () => {
 
@@ -19,7 +20,7 @@ import {saveToFile} from "../shared/saveToFile.js";
             'a[href], a[ng-href]',
             anchors => {
               return anchors.map(anchor => anchor.href)
-                .filter(href => href.startsWith('https://partners.wgu.edu') && !href.includes('Authenticate'))
+                .filter(href => href.startsWith('https://partners.wgu.edu') && !href.includes('authenticate'))
                 .map(href => href.endsWith('#') ? href.slice(0, href.length - 1) : href)
             }
         );
@@ -48,12 +49,17 @@ import {saveToFile} from "../shared/saveToFile.js";
       const name = url.slice(url.lastIndexOf('/') + 1).replace('.aspx','').toLowerCase();
       const html = result?.html;
 
+
+    if (!existsSync("./output/html/" + name)){ 
       saveToFile(
           name,
           'html',
           `${html}`,
           './output/html'
       );
+    }else {
+        console.log("skipping ", name)
+      }
     }),
 
     onError: (error) => {

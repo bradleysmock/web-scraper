@@ -10445,7 +10445,7 @@ return jQuery;
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x2AEFE80C1D56342ED4138A8D15D90EDB978596939BBC1F4407290D2AF367E5B252D13E43AF06C89007CAF48DBB956A90AAF3DB338B18983F5ACA4AD168617908,10 Jan 2023 14:55:37 -0000">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x154A15723E61A5979CAE5D8C2D8956D855AD46C7AA50EAEFBAB1ABB4ACE3F7C49780D7791F875EE95F5A4702C83EEE90F63965DC34BC08FEAB9B63A3C690FD57,11 Jan 2023 15:34:14 -0000">
 <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
 <input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false">
 <input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
@@ -10490,7 +10490,26 @@ var g_wsaQoSDataPoints = [];
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'STS#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "https:\u002f\u002fpartners.wgu.edu", siteAbsoluteUrl: "https:\u002f\u002fpartners.wgu.edu", serverRequestPath: "\u002fPages\u002fTransfer.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Partners", webTemplate: "1", tenantAppVersion: "0", isAppWeb: false, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2023-01-10T14:55:36.4559835Z") - new Date(), siteClientTag: "64$$15.0.4971.1001", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{65174ace-f8ad-4bb1-a984-83e1bc9ebbe4}",pageItemId:71, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};var L_Menu_BaseUrl="";
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "https:\u002f\u002fpartners.wgu.edu", siteAbsoluteUrl: "https:\u002f\u002fpartners.wgu.edu", serverRequestPath: "\u002fPages\u002fTransfer.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Partners", webTemplate: "1", tenantAppVersion: "0", isAppWeb: false, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2023-01-11T15:34:13.6899765Z") - new Date(), siteClientTag: "64$$15.0.4971.1001", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{65174ace-f8ad-4bb1-a984-83e1bc9ebbe4}",pageItemId:71, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};function CallServer_24673676(arg, context) {WebForm_DoCallback('ctl00$ctl21',arg,SP.UI.MyLinksRibbon.MyLinksRibbonPageComponent.ribbonActionCallback,context,null,false); }function _myLinksRibbonLoad2()
+{
+    var fnd = function () {
+        try {
+            mylinks_init.MyLinksInit('CallServer_24673676'); 
+        } 
+        catch (Ex)
+        { }
+    };
+    RegisterSod('mylinks_init', '/_layouts/15/SP.UI.MyLinksRibbon.js');
+    LoadSodByKey('mylinks_init', fnd);
+}
+
+function _myLinksRibbonLoad1()
+{
+    ExecuteOrDelayUntilScriptLoaded(_myLinksRibbonLoad2, 'SP.Ribbon.js');
+}
+
+_spBodyOnLoadFunctionNames.push('_myLinksRibbonLoad1');
+var L_Menu_BaseUrl="";
 var L_Menu_LCID="1033";
 var L_Menu_SiteTheme="null";
 document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var _spWebPartComponents = new Object();//]]>
@@ -11069,7 +11088,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health and Human Services </span>
-                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
+                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) --><div style="margin-left:40px;" ng-repeat="agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'})" class="ng-scope">
+                                <a ng-href="/Pages/Single.aspx?aid=22459&amp;pid=167" class="ng-binding" href="/Pages/Single.aspx?aid=22459&amp;pid=167">AA General Transfer Studies (Health Professions Focus) transferred into:</a>
+                            </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health and Human Services  - CAAHEP or NLN CNEA accredited</span>
@@ -11081,7 +11102,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health Information Management</span>
-                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
+                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) --><div style="margin-left:40px;" ng-repeat="agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'})" class="ng-scope">
+                                <a ng-href="/Pages/Single.aspx?aid=22459&amp;pid=74" class="ng-binding" href="/Pages/Single.aspx?aid=22459&amp;pid=74">AA General Transfer Studies (Health Professions Focus) transferred into:</a>
+                            </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health Information Management - CAHIIM Block Bridge</span>
@@ -11105,7 +11128,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health Services Coordination </span>
-                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
+                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) --><div style="margin-left:40px;" ng-repeat="agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'})" class="ng-scope">
+                                <a ng-href="/Pages/Single.aspx?aid=22459&amp;pid=124" class="ng-binding" href="/Pages/Single.aspx?aid=22459&amp;pid=124">AA General Transfer Studies (Health Professions Focus) transferred into:</a>
+                            </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Information Technology</span>
@@ -11570,7 +11595,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health and Human Services </span>
-                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
+                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) --><div style="margin-left:40px;" ng-repeat="agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'})" class="ng-scope">
+                                <a ng-href="/Pages/Single.aspx?aid=22459&amp;pid=167" class="ng-binding" href="/Pages/Single.aspx?aid=22459&amp;pid=167">AA General Transfer Studies (Health Professions Focus) transferred into:</a>
+                            </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health and Human Services  - CAAHEP or NLN CNEA accredited</span>
@@ -11582,7 +11609,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health Information Management</span>
-                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
+                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) --><div style="margin-left:40px;" ng-repeat="agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'})" class="ng-scope">
+                                <a ng-href="/Pages/Single.aspx?aid=22459&amp;pid=74" class="ng-binding" href="/Pages/Single.aspx?aid=22459&amp;pid=74">AA General Transfer Studies (Health Professions Focus) transferred into:</a>
+                            </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health Information Management - CAHIIM Block Bridge</span>
@@ -11606,7 +11635,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health Services Coordination </span>
-                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
+                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) --><div style="margin-left:40px;" ng-repeat="agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'})" class="ng-scope">
+                                <a ng-href="/Pages/Single.aspx?aid=22459&amp;pid=124" class="ng-binding" href="/Pages/Single.aspx?aid=22459&amp;pid=124">AA General Transfer Studies (Health Professions Focus) transferred into:</a>
+                            </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Information Technology</span>
@@ -12069,9 +12100,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                                 <a ng-href="/Pages/Single.aspx?aid=15919&amp;pid=168" class="ng-binding" href="/Pages/Single.aspx?aid=15919&amp;pid=168">AAS Accounting transferred into:</a>
                             </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
-                        </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
+                        </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health and Human Services </span>
-                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
+                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) --><div style="margin-left:40px;" ng-repeat="agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'})" class="ng-scope">
+                                <a ng-href="/Pages/Single.aspx?aid=22459&amp;pid=167" class="ng-binding" href="/Pages/Single.aspx?aid=22459&amp;pid=167">AA General Transfer Studies (Health Professions Focus) transferred into:</a>
+                            </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health and Human Services  - CAAHEP or NLN CNEA accredited</span>
@@ -12081,9 +12114,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                                 <a ng-href="/Pages/Single.aspx?aid=21409&amp;pid=166" class="ng-binding" href="/Pages/Single.aspx?aid=21409&amp;pid=166">AAS Surgical Technology (CAAHEP Accredited Program) transferred into:</a>
                             </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
-                        </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
+                        </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health Information Management</span>
-                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
+                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) --><div style="margin-left:40px;" ng-repeat="agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'})" class="ng-scope">
+                                <a ng-href="/Pages/Single.aspx?aid=22459&amp;pid=74" class="ng-binding" href="/Pages/Single.aspx?aid=22459&amp;pid=74">AA General Transfer Studies (Health Professions Focus) transferred into:</a>
+                            </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health Information Management - CAHIIM Block Bridge</span>
@@ -12105,9 +12140,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                                 <a ng-href="/Pages/Single.aspx?aid=21409&amp;pid=150" class="ng-binding" href="/Pages/Single.aspx?aid=21409&amp;pid=150">AAS Surgical Technology (CAAHEP Accredited Program) transferred into:</a>
                             </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
-                        </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
+                        </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health Services Coordination </span>
-                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
+                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) --><div style="margin-left:40px;" ng-repeat="agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'})" class="ng-scope">
+                                <a ng-href="/Pages/Single.aspx?aid=22459&amp;pid=124" class="ng-binding" href="/Pages/Single.aspx?aid=22459&amp;pid=124">AA General Transfer Studies (Health Professions Focus) transferred into:</a>
+                            </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Information Technology</span>
@@ -12572,7 +12609,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health and Human Services </span>
-                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
+                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) --><div style="margin-left:40px;" ng-repeat="agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'})" class="ng-scope">
+                                <a ng-href="/Pages/Single.aspx?aid=22459&amp;pid=167" class="ng-binding" href="/Pages/Single.aspx?aid=22459&amp;pid=167">AA General Transfer Studies (Health Professions Focus) transferred into:</a>
+                            </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health and Human Services  - CAAHEP or NLN CNEA accredited</span>
@@ -12584,7 +12623,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health Information Management</span>
-                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
+                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) --><div style="margin-left:40px;" ng-repeat="agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'})" class="ng-scope">
+                                <a ng-href="/Pages/Single.aspx?aid=22459&amp;pid=74" class="ng-binding" href="/Pages/Single.aspx?aid=22459&amp;pid=74">AA General Transfer Studies (Health Professions Focus) transferred into:</a>
+                            </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health Information Management - CAHIIM Block Bridge</span>
@@ -12608,7 +12649,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope ng-hide">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Health Services Coordination </span>
-                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
+                            <!-- ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) --><div style="margin-left:40px;" ng-repeat="agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'})" class="ng-scope">
+                                <a ng-href="/Pages/Single.aspx?aid=22459&amp;pid=124" class="ng-binding" href="/Pages/Single.aspx?aid=22459&amp;pid=124">AA General Transfer Studies (Health Professions Focus) transferred into:</a>
+                            </div><!-- end ngRepeat: agreement in filteredAgreements = (program.Agreements | filter:{Status: 'Approved'}) -->
                             <br>
                         </div><!-- end ngRepeat: program in programs --><div ng-repeat="program in programs" ng-show="program.College == college.Id &amp;&amp; filteredAgreements.length" class="ng-scope">
                             <span style="margin-left:20px; font-weight:bold;" class="ng-binding">BS Information Technology</span>
@@ -13029,7 +13072,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x71D4A87BCE3B4DE2C3B0914C231177C77C0728E2089FD550B31966DD9B320C47F5BF10D7C57565A4BEB5C9CCB60C8A3451EF2C7887F6BB0F1BB0DB5554161F66,10 Jan 2023 14:55:36 -0000';
+            formDigestElement.value = '0x502E228D60EED4D675F3465EB808BFE7566D8440A1C8E6EC5A3E05DA67E9CAB7E717902B77DE89AC7320F7A6CF8F0F486CE0D591176C3C2F3D185DEAD2153CD5,11 Jan 2023 15:34:13 -0000';
             g_updateFormDigestPageLoaded = new Date();
         }
         //]]>
@@ -13102,7 +13145,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
 
 <script type="text/javascript">
 //<![CDATA[
-var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);var _fV4UI = true;
+
+WebForm_InitCallback();var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);var _fV4UI = true;
 function _RegisterWebPartPageCUI()
 {
     var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{65174ace-f8ad-4bb1-a984-83e1bc9ebbe4}",itemId: 71,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fPages",itemPermissions:{High:16,Low:196673}};
@@ -13155,7 +13199,7 @@ var _spWebPermMasks = {High:16,Low:196673};
             ExecuteOrDelayUntilScriptLoaded(
                 function() 
                 {                    
-                    Srch.ScriptApplicationManager.get_current().states = {"webUILanguageName":"en-US","webDefaultLanguageName":"en-US","contextUrl":"https://partners.wgu.edu","contextTitle":"Partners","supportedLanguages":[{"id":1025,"label":"Arabic"},{"id":1093,"label":"Bengali"},{"id":1026,"label":"Bulgarian"},{"id":1027,"label":"Catalan"},{"id":2052,"label":"Chinese (Simplified)"},{"id":1028,"label":"Chinese (Traditional)"},{"id":1050,"label":"Croatian"},{"id":1029,"label":"Czech"},{"id":1030,"label":"Danish"},{"id":1043,"label":"Dutch"},{"id":1033,"label":"English"},{"id":1035,"label":"Finnish"},{"id":1036,"label":"French"},{"id":1031,"label":"German"},{"id":1032,"label":"Greek"},{"id":1095,"label":"Gujarati"},{"id":1037,"label":"Hebrew"},{"id":1081,"label":"Hindi"},{"id":1038,"label":"Hungarian"},{"id":1039,"label":"Icelandic"},{"id":1057,"label":"Indonesian"},{"id":1040,"label":"Italian"},{"id":1041,"label":"Japanese"},{"id":1099,"label":"Kannada"},{"id":1042,"label":"Korean"},{"id":1062,"label":"Latvian"},{"id":1063,"label":"Lithuanian"},{"id":1086,"label":"Malay"},{"id":1100,"label":"Malayalam"},{"id":1102,"label":"Marathi"},{"id":1044,"label":"Norwegian"},{"id":1045,"label":"Polish"},{"id":1046,"label":"Portuguese (Brazil)"},{"id":2070,"label":"Portuguese (Portugal)"},{"id":1094,"label":"Punjabi"},{"id":1048,"label":"Romanian"},{"id":1049,"label":"Russian"},{"id":3098,"label":"Serbian (Cyrillic)"},{"id":2074,"label":"Serbian (Latin)"},{"id":1051,"label":"Slovak"},{"id":1060,"label":"Slovenian"},{"id":3082,"label":"Spanish (Spain)"},{"id":2058,"label":"Spanish (Mexico)"},{"id":1053,"label":"Swedish"},{"id":1097,"label":"Tamil"},{"id":1098,"label":"Telugu"},{"id":1054,"label":"Thai"},{"id":1055,"label":"Turkish"},{"id":1058,"label":"Ukrainian"},{"id":1056,"label":"Urdu"},{"id":1066,"label":"Vietnamese"}],"navigationNodes":[{"id":1001,"name":"Everything","url":"{searchcenterurl}/results.aspx","promptString":"Search everything"},{"id":1002,"name":"People","url":"{searchcenterurl}/peopleresults.aspx","promptString":"Search people"},{"id":1003,"name":"Conversations","url":"{searchcenterurl}/conversationresults.aspx","promptString":"Search conversations"},{"id":0,"name":"This Site","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"Search this site"}],"searchCenterUrl":"http://teamsage.wgu.edu/sites/Search/Pages","showAdminDetails":false,"defaultPagesListName":"Pages","isSPFSKU":false,"userAdvancedLanguageSettingsUrl":"/_layouts/15/regionalsetng.aspx?type=user\u0026Source=https%3A%2F%2Fpartners%2Ewgu%2Eedu%2FPages%2FTransfer%2Easpx%3Fiid%3D21\u0026ShowAdvLang=1","defaultQueryProperties":{"culture":1033,"uiLanguage":1033,"summaryLength":180,"desiredSnippetLength":90,"enableStemming":true,"enablePhonetic":false,"enableNicknames":false,"trimDuplicates":true,"bypassResultTypes":false,"enableInterleaving":true,"enableQueryRules":true,"processBestBets":true,"enableOrderingHitHighlightedProperty":false,"hitHighlightedMultivaluePropertyLimit":-1,"processPersonalFavorites":true}};
+                    Srch.ScriptApplicationManager.get_current().states = {"webUILanguageName":"en-US","webDefaultLanguageName":"en-US","contextUrl":"https://partners.wgu.edu","contextTitle":"Partners","supportedLanguages":[{"id":1025,"label":"Arabic"},{"id":1093,"label":"Bengali"},{"id":1026,"label":"Bulgarian"},{"id":1027,"label":"Catalan"},{"id":2052,"label":"Chinese (Simplified)"},{"id":1028,"label":"Chinese (Traditional)"},{"id":1050,"label":"Croatian"},{"id":1029,"label":"Czech"},{"id":1030,"label":"Danish"},{"id":1043,"label":"Dutch"},{"id":1033,"label":"English"},{"id":1035,"label":"Finnish"},{"id":1036,"label":"French"},{"id":1031,"label":"German"},{"id":1032,"label":"Greek"},{"id":1095,"label":"Gujarati"},{"id":1037,"label":"Hebrew"},{"id":1081,"label":"Hindi"},{"id":1038,"label":"Hungarian"},{"id":1039,"label":"Icelandic"},{"id":1057,"label":"Indonesian"},{"id":1040,"label":"Italian"},{"id":1041,"label":"Japanese"},{"id":1099,"label":"Kannada"},{"id":1042,"label":"Korean"},{"id":1062,"label":"Latvian"},{"id":1063,"label":"Lithuanian"},{"id":1086,"label":"Malay"},{"id":1100,"label":"Malayalam"},{"id":1102,"label":"Marathi"},{"id":1044,"label":"Norwegian"},{"id":1045,"label":"Polish"},{"id":1046,"label":"Portuguese (Brazil)"},{"id":2070,"label":"Portuguese (Portugal)"},{"id":1094,"label":"Punjabi"},{"id":1048,"label":"Romanian"},{"id":1049,"label":"Russian"},{"id":3098,"label":"Serbian (Cyrillic)"},{"id":2074,"label":"Serbian (Latin)"},{"id":1051,"label":"Slovak"},{"id":1060,"label":"Slovenian"},{"id":3082,"label":"Spanish (Spain)"},{"id":2058,"label":"Spanish (Mexico)"},{"id":1053,"label":"Swedish"},{"id":1097,"label":"Tamil"},{"id":1098,"label":"Telugu"},{"id":1054,"label":"Thai"},{"id":1055,"label":"Turkish"},{"id":1058,"label":"Ukrainian"},{"id":1056,"label":"Urdu"},{"id":1066,"label":"Vietnamese"}],"navigationNodes":[{"id":1001,"name":"Everything","url":"{searchcenterurl}/results.aspx","promptString":"Search everything"},{"id":1002,"name":"People","url":"{searchcenterurl}/peopleresults.aspx","promptString":"Search people"},{"id":1003,"name":"Conversations","url":"{searchcenterurl}/conversationresults.aspx","promptString":"Search conversations"},{"id":0,"name":"This Site","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"Search this site"}],"searchCenterUrl":"http://teamsage.wgu.edu/sites/Search/Pages","showAdminDetails":false,"defaultPagesListName":"Pages","isSPFSKU":false,"userAdvancedLanguageSettingsUrl":"https://mysage.wgu.edu:443/_layouts/15/EditProfile.aspx?Section=LanguageAndRegion\u0026UserSettingsProvider=234bf0ed%2D70db%2D4158%2Da332%2D4dfd683b4148\u0026ReturnUrl=https%3A%2F%2Fpartners%2Ewgu%2Eedu%2FPages%2FTransfer%2Easpx%3Fiid%3D21\u0026ShowAdvLang=1","defaultQueryProperties":{"culture":1033,"uiLanguage":1033,"summaryLength":180,"desiredSnippetLength":90,"enableStemming":true,"enablePhonetic":false,"enableNicknames":false,"trimDuplicates":true,"bypassResultTypes":false,"enableInterleaving":true,"enableQueryRules":true,"processBestBets":true,"enableOrderingHitHighlightedProperty":false,"hitHighlightedMultivaluePropertyLimit":-1,"processPersonalFavorites":true}};
                     Srch.U.trace(null, 'SerializeToClient', 'ScriptApplicationManager state initialized.');
                 }, 'Search.ClientControls.js');var g_clientIdDeltaPlaceHolderMain = "DeltaPlaceHolderMain";
 var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
