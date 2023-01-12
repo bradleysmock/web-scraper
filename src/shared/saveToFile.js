@@ -9,7 +9,8 @@ export const saveToFile = (name, extension, content, location) => {
     const cleanName = name.replace(/\?/g, '-')
       .replace(/=/g, '-')
       .replace(/\&/g, '-');
-    const filePath = join(location, `${cleanName}.${extension}`);
+   
+    const filePath = join(location, `${cleanName}${extension}`);
     fs.writeFile(filePath, content, () => {});
   } catch (error) {
     console.error(name, error);
