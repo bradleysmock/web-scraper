@@ -2,13 +2,14 @@ from bs4 import BeautifulSoup
 import os
 
 substitutions = [
-(".aspx", ""),
-('?', '-'),
-('=', '-'),
-('&', '-'),
-(" ", "-"),
-("%20", "-"),
-("https://partners.wgu.edu:443", "")]
+# (".aspx", ""),
+# ('?', '-'),
+# ('=', '-'),
+# ('&', '-'),
+# (" ", "-"),
+# ("%20", "-"),
+# ("https://partners.wgu.edu:443", "")
+(".css.html", ".css")]
 
 def processContent(name):
     with open(file, encoding="utf8") as f:
@@ -19,12 +20,12 @@ def processContent(name):
             href = a['href']
 
     # bracket this stuff with "is this the href I'm looking for"
-            if '/Pages/' in href: 
+            if '/pages/' in href: 
 
                 for search, replacement in substitutions: # make substitutions
                     href = href.replace(search, replacement)
 
-                href=f"{href}.html" # append .html
+                # href=f"{href}.html" # append .html
 
                 a['href'] = href.lower() # update back to model
 
@@ -36,12 +37,12 @@ def processContent(name):
             href = link['href']
 
     # bracket this stuff with "is this the href I'm looking for"
-            if '/Pages/' in href: 
+            if '/pages/' in href: 
 
                 for search, replacement in substitutions: # make substitutions
                     href = href.replace(search, replacement)
 
-                href=f"{href}.html" # append .html
+                # href=f"{href}.html" # append .html
 
                 link['href'] = href.lower() # update back to model
 
@@ -53,12 +54,12 @@ def processContent(name):
             href = ng['href']
 
     # bracket this stuff with "is this the href I'm looking for"
-            if '/Pages/' in href: 
+            if '/pages/' in href: 
 
                 for search, replacement in substitutions: # make substitutions
                     href = href.replace(search, replacement)
 
-                href=f"{href}.html" # append .html
+                # href=f"{href}.html" # append .html
 
                 ng['href'] = href.lower() # update back to model
 
