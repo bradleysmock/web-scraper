@@ -24,7 +24,7 @@ body,
 }
 body {
   margin: 0px;
-  overflow: hidden;
+  overflow: auto;
   /* [ReplaceColor(themeColor:"PageBackground")] */
   background-color: #fff;
   background-size: cover;
@@ -13864,7 +13864,7 @@ a.ms-missinglink {
 }
 .ms-inlineSearch-searchImgSpanBase {
   display: inline-block;
-  overflow: hidden;
+  overflow: auto;
   direction: ltr;
   vertical-align: middle;
   margin: 0px 0px 0px 4px;
