@@ -7,14 +7,14 @@ import {saveToFile} from "../shared/saveToFile.js";
   const pageLinks = [];
 
   const crawler = await HCCrawler.launch({
-    maxDepth: 2,
+    maxDepth: 5,
     maxConcurrency: 1,
 
     customCrawl: async (page, crawl) => {
       const result = await crawl();
 
       try {
-        await page.waitForSelector('a[ng-href]', {timeout: 2000});
+        await page.waitForSelector('a[ng-href]', {timeout: 4000});
 
         const links = await page.$$eval(
             'a[href], a[ng-href]',
