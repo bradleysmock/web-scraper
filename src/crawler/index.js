@@ -5,6 +5,7 @@ import {existsSync} from "node:fs";
 (async () => {
 
   const errors = [];
+  const pageLinks = [];
 
   const crawler = await HCCrawler.launch({
     maxDepth: 5,
@@ -49,8 +50,11 @@ import {existsSync} from "node:fs";
       const name = url.slice(url.lastIndexOf('/') + 1).replace('.aspx','').toLowerCase();
       const html = result?.html;
 
+      pageLinks.push({ old: url, new: `${name}.html` })
+
 
     if (!existsSync("./output/html/" + name)){ 
+
       saveToFile(
           name,
           'html',
@@ -77,5 +81,6 @@ import {existsSync} from "node:fs";
   });
   await crawler.onIdle(); // Resolved when no queue is left
   await crawler.close(); // Close the crawler
-  saveToFile('errors', 'json', JSON.stringify(errors), './output/json')
+  saveToFile('errors', 'json', JSON.stringify(errors), './output/json');
+  saveToFile('oldToNew', 'json', JSON.stringify(pageLinks), './output/json');
 })();
