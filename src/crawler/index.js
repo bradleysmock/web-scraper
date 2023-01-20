@@ -1,5 +1,6 @@
 import HCCrawler from 'headless-chrome-crawler';
 import {saveToFile} from "../shared/saveToFile.js";
+import {existsSync} from "node:fs";
 
 (async () => {
 
@@ -7,20 +8,20 @@ import {saveToFile} from "../shared/saveToFile.js";
   const pageLinks = [];
 
   const crawler = await HCCrawler.launch({
-    maxDepth: 2,
+    maxDepth: 5,
     maxConcurrency: 1,
 
     customCrawl: async (page, crawl) => {
       const result = await crawl();
 
       try {
-        await page.waitForSelector('a[ng-href]', {timeout: 2000});
+        await page.waitForSelector('a[ng-href]', {timeout: 4000});
 
         const links = await page.$$eval(
             'a[href], a[ng-href]',
             anchors => {
               return anchors.map(anchor => anchor.href)
-                .filter(href => href.startsWith('https://partners.wgu.edu') && !href.includes('Authenticate'))
+                .filter(href => href.startsWith('https://partners.wgu.edu') && !href.includes('authenticate'))
                 .map(href => href.endsWith('#') ? href.slice(0, href.length - 1) : href)
             }
         );
@@ -51,12 +52,18 @@ import {saveToFile} from "../shared/saveToFile.js";
 
       pageLinks.push({ old: url, new: `${name}.html` })
 
+
+    if (!existsSync("./output/html/" + name)){ 
+
       saveToFile(
           name,
           'html',
           `${html}`,
           './output/html'
       );
+    }else {
+        console.log("skipping ", name)
+      }
     }),
 
     onError: (error) => {
