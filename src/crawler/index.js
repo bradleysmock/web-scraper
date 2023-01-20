@@ -7,7 +7,7 @@ import {existsSync} from "node:fs";
   const errors = [];
 
   const crawler = await HCCrawler.launch({
-    maxDepth: 2,
+    maxDepth: 5,
     maxConcurrency: 1,
 
     customCrawl: async (page, crawl) => {
@@ -51,6 +51,7 @@ import {existsSync} from "node:fs";
 
 
     if (!existsSync("./output/html/" + name)){ 
+
       saveToFile(
           name,
           'html',
