@@ -14,20 +14,20 @@ import {existsSync} from "node:fs";
       const result = await crawl();
 
       try {
-        await page.waitForSelector('a[ng-href]', {timeout: 3000});
+        await page.waitForSelector('a[ng-href]', {timeout: 4000});
 
         const links = await page.$$eval(
             'a[href], a[ng-href]',
             anchors => {
               return anchors.map(anchor => anchor.href)
-                .filter(href => href.startsWith('https://partners.wgu.edu') && !href.includes('authenticate'))
+                .filter(href => href.startsWith('https://partners.wgu.edu') && !href.includes('authenticate')) 
                 .map(href => href.endsWith('#') ? href.slice(0, href.length - 1) : href)
             }
         );
 
         result.links = [...links];
       } catch (error) {
-        // console.error(page.url(), error);
+        console.error(page.url(), error);
         errors.push({ url: page.url(), error});
       }
 
@@ -50,7 +50,7 @@ import {existsSync} from "node:fs";
       const html = result?.html;
 
 
-    if (!existsSync("./output/html/pages" + name)){ 
+    if (!existsSync("./output/html/" + name)){ 
       saveToFile(
           name,
           'html',
