@@ -50,9 +50,7 @@ import {existsSync} from "node:fs";
       const html = result?.html;
 
 
-
     if (!existsSync("./output/html/pages" + name)){ 
-
       saveToFile(
           name,
           'html',
@@ -72,10 +70,9 @@ import {existsSync} from "node:fs";
 
   // Queue a request
   await crawler.queue({
-
-    url: 'https://partners.wgu.edu/Pages/Transfer.aspx?iid=1066',
-    allowedDomains: [ 'partners.wgu.edu' ],   delay: 1500,
-
+    url: 'https://partners.wgu.edu/Pages/Transfer.aspx?iid=1382',
+    allowedDomains: [ 'partners.wgu.edu' ],
+    delay: 1500,
     // waitFor: { selectorOrFunctionOrTimeout:  waitUntil: 'networkidle2', timeout: 60000 }
   });
   await crawler.onIdle(); // Resolved when no queue is left
