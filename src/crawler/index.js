@@ -50,13 +50,14 @@ import {existsSync} from "node:fs";
       const html = result?.html;
 
 
-    if (!existsSync("./output/html/" + name)){ 
+
+    if (!existsSync("./output/html/pages" + name)){ 
 
       saveToFile(
           name,
           'html',
           `${html}`,
-          './output/html'
+          './output/html/pages'
       );
     }else {
         console.log("skipping ", name)
@@ -71,7 +72,7 @@ import {existsSync} from "node:fs";
 
   // Queue a request
   await crawler.queue({
-    url: 'https://partners.wgu.edu/Pages/Partners.aspx',
+    url: 'https://partners.wgu.edu/Pages/Transfer.aspx?iid=1410',
     allowedDomains: [ 'partners.wgu.edu' ],
     delay: 1500,
     // waitFor: { selectorOrFunctionOrTimeout:  waitUntil: 'networkidle2', timeout: 60000 }
