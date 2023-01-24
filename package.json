@@ -8,7 +8,7 @@
     "crawler": "node ./src/crawler/index.js",
     "csr": "node ./src/csr/index.js",
     "ssr": "node ./src/ssr/index.js",
-    "serve": "httpserver -p 7979",
+    "serve": "(cd output/html &&httpserver -p 7979)",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
