@@ -8,7 +8,7 @@ substitutions = [
 ('&', '-'),
 (" ", "-"),
 ("%20", "-"),
-("PublishingImages", "images"),
+("https://partners.wgu.edu/PublishingImages", "images"),
 ("image/female", "images/female"),
 ("image/male", "images/male"),
 ("image/owl", "images/owl")]
