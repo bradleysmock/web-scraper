@@ -1,0 +1,1130 @@
+/* _lcid="1033" _version="15.0.4490"
+    _LocalBinding */
+.ms-comm-cat-header {
+    margin-bottom:24px;
+}
+.ms-comm-cat-tile {
+    margin-bottom:24px;
+}
+.ms-comm-cat-body {
+    display:inline-block;
+}
+.ms-comm-cat-image {
+    width:94px;
+    height:94px;
+    margin-top:5px;
+    margin-right:10px;
+}
+.ms-comm-cat-defaultImage {
+    /* [ReplaceColor(themeColor: "EmphasisBackground")] */ background-color: #0072c6;
+}
+.ms-comm-cat-detailsList {
+    list-style-type:none;
+    max-width:540px;
+}
+.ms-comm-cat-name {
+    font-size:1.33em; 
+    color:#0072c6;
+    line-height:20px;
+}
+.ms-comm-cat-counts {
+    /* [ReplaceColor(themeColor: "SubtleBodyText")] */ color:#777;
+    font-size:1em; 
+    line-height:20px;
+}
+.ms-comm-cat-countsNumbers {
+    /* [ReplaceColor(themeColor: "ContentAccent1")] */ color:#0072C6;
+}
+.ms-comm-cat-desc {
+    font-size:1em; 
+    /* [ReplaceColor(themeColor: "BodyText")] */ color:#444;
+    line-height:20px;
+}
+.ms-comm-cat-lastPost {
+    /* [ReplaceColor(themeColor: "SubtleBodyText")] */ color:#777;
+    font-size:1em; 
+    line-height:20px;
+}
+.ms-comm-tCat-tile {
+    float:left;
+    width:170px;
+    height:170px;
+}
+.ms-comm-sCat-imageContainer {
+    width:80px;
+    height:80px;
+    margin-right:18px;
+    float:left;
+    overflow:hidden;
+}
+.ms-comm-sCat-counts {
+    margin-bottom:8px;
+}
+.ms-comm-activityStats {
+    margin-bottom: 29px;
+}
+.ms-comm-activityStatsItem {
+    margin-bottom: 10px;
+}
+.ms-comm-activityStatsNumber {
+    /* [ReplaceColor(themeColor: "SubtleLines")] */ border-bottom: 1px solid #c6c6c6;
+    padding-bottom: 3px;
+    margin-bottom: 1px;
+    width: 170px;
+}
+.ms-comm-aboutUs {
+    line-height: 20px;
+}
+.ms-comm-aboutUsEstablishedLabel {
+    margin-top: 3px;
+    margin-bottom: 9px;
+}
+.ms-comm-aboutUsRulesMargin {
+    margin-bottom: 16px;
+}
+.ms-comm-aboutUsRulesHeading {
+    margin-top: -3px;
+}
+.ms-comm-aboutUsDescription {
+    margin-bottom: 16px;
+}
+.ms-comm-aboutUsRulesList {
+    list-style-type:disc;
+    margin: 6px 15px 7px 15px;
+}
+.ms-comm-membersList {
+    margin: 14px 0px 29px;
+}
+.ms-comm-membersListItem {
+    margin-bottom: 2px;
+}
+.ms-comm-memberColumn {
+    padding: 0px 16px 10px 0px;
+}
+.ms-comm-myMember {
+    margin: 12px 0px 9px;
+}
+.ms-comm-myMemberStatsItem {
+    margin-bottom: 1px;
+}
+.ms-comm-myMemberSince {
+    margin-bottom: 11px;
+}
+.ms-comm-myMemberScoreContainer {
+    margin-bottom: 25px;
+}
+.ms-comm-myMemberScore {
+    /* [ReplaceColor(themeColor: "SubtleLines")] */ border-bottom: 1px solid #c6c6c6;
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+    width: 170px;
+}
+.ms-comm-myMemberNextLevel {
+    margin: 23px 0px 26px;
+}
+.ms-comm-joinButtonContainer {
+    margin-bottom: 24px;
+}
+input.ms-comm-joinButton {
+    margin-left: 0px;
+}
+.ms-comm-joinDialogText {
+    margin-bottom: 16px;
+}
+.ms-comm-reportedContentContainer {
+    margin: 0px 0px 16px 36px;
+    overflow: auto;
+    max-height: 300px;
+}
+.ms-comm-ReportCommentItem {
+    margin-bottom: 8px;
+}
+.ms-comm-giftedBadgeContainer {
+    width:150px;
+    margin-top:3px;
+    margin-bottom:13px;
+}
+.ms-comm-giftedBadgeIcon {
+    float:left;
+    width:14px;
+}
+.ms-comm-activity {
+    margin-bottom: 18px;
+}
+div.ms-comm-wiki-divFormat1 {
+    max-width:690px;
+    margin:0px;
+}
+div.ms-webpartzone-cell {
+    margin:0px;
+}
+.ms-comm-homeWelcome {
+    margin-bottom: 5px;
+}
+.ms-commportal-titleArea {
+    /* [ReplaceColor(themeColor: "SubtleEmphasisBackground")] */ background-color: #f1f1f1;
+    height:90px;
+}
+.ms-commportal-titleTd {
+    vertical-align:bottom;
+    padding-left: 19px;
+}
+.ms-commportal-titleHeading {
+    padding-bottom:24px;
+}
+.ms-commportal-searchArea {
+    float:right;
+    padding:24px 20px 13px 30px;
+}
+.ms-commportal-descriptionArea {
+    padding:25px 20px 30px;
+}
+.ms-commportal-mainZoneArea {
+    padding:0px 10px 0px 19px;
+}
+div.ms-microfeed-fullMicrofeedDiv button[disabled][type="button"]
+{
+    cursor: default;
+}
+div.ms-microfeed-fullMicrofeedDiv a[disabled]
+{
+    cursor: default;
+    text-decoration: none;
+}
+.ms-microfeed-loadingImage
+{
+    margin-right: 4px;
+}
+.ms-microfeed-loadingSuggestionImage
+{
+    margin-left: 5px;
+    position: relative;
+    top: 3px;
+}
+.ms-microfeed-microblogpart
+{
+    min-width: 450px;
+    max-width: 620px;
+    position: relative;
+    margin-bottom: 15px;
+}
+.ms-microfeed-siteFeedMicroBlogPart
+{
+    margin-bottom: 18px;
+}
+.ms-microfeed-titleArea
+{
+    margin-bottom: 12px;
+}
+.ms-microfeed-siteFeedTitleArea
+{
+    margin-bottom: 15px;
+    margin-top: 1px;
+}
+.ms-microfeed-titlePivotControl
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+.ms-microfeed-titlePivotControl .ms-pivotControl-overflowDot
+{
+    vertical-align: middle;
+}
+.ms-microfeed-highlightedRefMention
+{
+    /* [ReplaceColor(themeColor: "SubtleEmphasisBackground")] */ background-color: #f1f1f1;
+}
+.ms-microfeed-fullMicrofeedDiv
+{
+    min-width: 450px;
+	margin-right: 4px;
+}
+.ms-microfeed-feedPart
+{
+    min-width: 450px;
+    max-width: 620px;
+    position: relative;
+}
+.ms-microfeed-thread
+{
+    clear: both;
+    margin-bottom: 30px;
+}
+.ms-microfeed-message
+{
+    padding: 0px 24px 0px 0px;
+    overflow: hidden;
+}
+.ms-microfeed-messageError
+{
+    margin-left: 10px;
+}
+.ms-microfeed-replyMessage
+{
+    padding-top: 9px;
+}
+.ms-microfeed-activityImage
+{
+    width: 11px;
+    height: 11px;
+    padding-right: 4px;
+}
+.ms-microfeed-activityImageDiv
+{
+    display: inline;
+    position: relative;
+    top: 1px;
+}
+.ms-microfeed-activityText
+{
+    margin-bottom: 8px;
+}
+.ms-microfeed-activityPostLink
+{
+    cursor: pointer;
+}
+.ms-microfeed-userThumbnailArea
+{
+    float: left;
+    padding-right: 4px;
+}
+.ms-microfeed-userThumbnailAreaRootPadding,
+.ms-microfeed-userThumbnailAreaReplyPadding
+{
+    padding-right: 8px;
+}
+.ms-microfeed-contentThumbnailArea
+{
+    position: relative;
+    top: 1px;
+}
+.ms-microfeed-messageBody
+{
+    valign: top;
+}
+.ms-microfeed-rootBody
+{
+    margin: 0px 0px 0px 63px;
+}
+.ms-microfeed-replyBody
+{
+    margin: 0px 0px 0px 51px;
+}
+.ms-microfeed-indentRootRef
+{
+    margin-left: 16px;
+}
+.ms-microfeed-oneLiner
+{
+    margin: 0px 0px 0px 15px;
+}
+.ms-microfeed-indentedPost
+{
+    margin-left: 63px;
+}
+div.ms-microfeed-messageBody a.ms-microfeed-userName
+{
+    overflow: auto;
+    margin-right: 5px;
+}
+.ms-microfeed-text
+{
+    word-wrap: break-word;
+    break-word: break-all;
+}
+.ms-microfeed-rootText
+{
+    min-width: 361px;
+    max-width: 531px;
+}
+.ms-microfeed-replyText
+{
+    min-width: 312px;
+    max-width: 482px;
+}
+.ms-microfeed-highlightedTextBoxElement
+{
+    /* [ReplaceColor(themeColor: "SubtleEmphasisBackground",opacity:"1.0")] */ background-color: #efefef;
+}
+.ms-microfeed-replyArea
+{
+    padding-left: 63px;
+    min-width: 380px; 
+    max-width: 560px;
+    clear: both;
+}
+.ms-microfeed-repliesDiv
+{
+    padding-top: 2px;
+}
+.ms-microfeed-newReplyDiv
+{
+    padding-top: 7px;
+}
+.ms-microfeed-postReplyButtonSpan
+{
+    padding-top: 7px;
+}
+.ms-microfeed-iconImage
+{
+   width: 11px; 
+   line-height: 11px; 
+}
+.ms-microfeed-postBox
+{
+    padding: 2px 5px 2px 5px;
+    width: 95%;
+    overflow: hidden;
+    resize: none;
+    background-color: transparent;
+    margin: 0px; 
+}
+.ms-microfeed-mentionHighlightDiv, .ms-microfeed-replyMentionHighlightDiv
+{
+    position: absolute;
+    left: 0px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border: 1px solid transparent;
+}
+.ms-microfeed-mentionHighlightDiv, .ms-microfeed-replyMentionHighlightDiv
+{
+    color: transparent;
+}
+.ms-core-needIEFilter .ms-microfeed-mentionHighlightDiv, .ms-core-needIEFilter .ms-microfeed-replyMentionHighlightDiv
+{
+    /* [ReplaceColor(themeColor: "BackgroundOverlay",opacity:"1.0")] */ color: #fff;
+}
+.ms-microfeed-shareWith
+{
+    padding-bottom: 5px;
+}
+.ms-microfeed-shareWithLabel, a.ms-microfeed-shareWithTarget
+{
+    vertical-align: inherit;
+}
+.ms-microfeed-replyBoxIndentDiv
+{
+    margin: 0px 0px 0px 51px;
+    valign: top;
+}
+textarea.ms-microfeed-rootOrReplyPostBox
+{
+    border: 1px solid transparent;
+    outline: 1px solid transparent;
+    word-wrap: break-word;
+}
+.ms-microfeed-elementsNoFocus
+{
+    padding: 2px;
+    /* [ReplaceColor(themeColor: "Lines")] */ border-top: 1px solid #ababab;
+}
+.ms-microfeed-focusBox
+{
+    margin: 0px;
+    /* [ReplaceColor(themeColor: "BackgroundOverlay",opacity:"1")] */ background-color: #fff;
+}
+.ms-microfeed-focusBoxInFocus,
+div#HashTagSuggestionsContainer
+{
+    /* [ReplaceColor(themeColor: "AccentLines")] */ border: 1px solid #2a8dd4;
+    outline: none;
+}
+.ms-microfeed-focusBoxNoFocus
+{
+    /* [ReplaceColor(themeColor: "Lines")] */ border: 1px solid #ababab;
+    outline: none;
+}
+.ms-microfeed-focusBoxNoFocus:hover
+{
+    /* [ReplaceColor(themeColor: "StrongLines")] */ border: 1px solid #92c0e0;
+    outline: 1px solid transparent;
+}
+.ms-microfeed-button, 
+.ms-microfeed-button:hover,
+.ms-microfeed-button:active
+{
+    border: 0px none;
+    background: none;
+    cursor: pointer;
+    min-width: 1px;
+    margin-left: 0px;
+}
+.ms-microfeed-button.ms-microfeed-seeMoreReplies,
+.ms-microfeed-button.ms-microfeed-seeMoreReplies:hover,
+.ms-microfeed-button.ms-microfeed-seeMoreReplies:active
+{
+    padding: 0px;
+    margin-left: -3px;
+}
+.ms-microfeed-footerButton
+{
+    padding: 0px;
+}
+.ms-microfeed-refreshButton,
+.ms-microfeed-deleteButton
+{
+    padding: 4px;
+}
+.ms-microfeed-editLinkButton
+{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.ms-microfeed-editLinkButtonImageParent
+{
+	height: SOCIALCOMMON_UPDATELINK_16X16X32_HEIGHTpx;
+    width: SOCIALCOMMON_UPDATELINK_16X16X32_WIDTHpx;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+.ms-microfeed-editLinkButtonImage
+{
+    left: -SOCIALCOMMON_UPDATELINK_16X16X32_LEFTpx; 
+    top: -SOCIALCOMMON_UPDATELINK_16X16X32_TOPpx;
+    position: absolute;
+}
+.ms-microfeed-deleteButtonImageParent
+{
+	height: 16px;
+    width: 16px;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+.ms-microfeed-deleteButtonImage
+{
+    left: -199px; 
+    top: -192px;
+    position: absolute;
+}
+.ms-microfeed-refreshButton img
+{
+    vertical-align: top;
+}
+.ms-microfeed-postButton
+{
+    margin-right: 0px;
+}
+.ms-microfeed-postButtonSpan
+{
+    margin-top: 4px;
+    position: absolute;
+    right: 0px;
+}
+.ms-microfeed-tooManyCharactersLabel
+{
+    color: #c00937;
+}
+.ms-microfeed-closeToLimitCharLabel
+{
+    color: #b0b2b2;
+}
+.ms-microfeed-characterLimit
+{
+    margin-right: 10px;   
+}
+.ms-microfeed-linkSeparator
+{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.ms-microfeed-rightAlignedDiv
+{
+    position: absolute;
+    right: 0px;
+}
+.ms-microfeed-SuggestionHR
+{
+    margin-top: 4px;
+    margin-bottom: 3px;
+}
+.ms-core-needIEFilter .ms-microfeed-typeAheadElementName
+{
+    /* [ReplaceColor(themeColor: "BackgroundOverlay",opacity:"1")] */ background-color: #fff;
+}
+.ms-microfeed-typeAheadElementSelected,
+div#HashTagSuggestionsContainer .ms-taxonomy-suggestion-holder .ms-taxonomy-suggestion-group .ms-taxonomy-highlighted
+{
+    /* [ReplaceColor(themeColor: "HoverBackground")] */ background-color: rgba( 205, 230, 247, 0.5 );
+}
+.ms-core-needIEFilter .ms-microfeed-typeAheadElementSelected,
+.ms-core-needIEFilter div#HashTagSuggestionsContainer .ms-taxonomy-suggestion-holder .ms-taxonomy-suggestion-group .ms-taxonomy-highlighted
+{
+    /* [ReplaceColor(THEME_COLOR_BACKGROUND_SOLID,opacity:"1")] */ background-color: #cde6f7;
+}
+.ms-microfeed-typeAheadSelectorsDiv,
+div#HashTagSuggestionsContainer
+{
+    /* [ReplaceColor(themeColor: "BackgroundOverlay",opacity:"1")] */ background-color: #fff;
+    position: relative;
+    z-index: 2;
+    padding: 4px 0px 4px 0px;
+     box-shadow: 0px 0px 6px 0px #999;
+    /* [ReplaceColor(themeColor: "AccentLines")] */ border: 1px solid #2a8dd4;
+	margin-left: -1px;
+	margin-right: -1px;
+}
+.ms-microfeed-mentionContainer
+{
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+}
+.ms-microfeed-warningImage
+{
+    float: left;
+    margin-left: 9px;
+    margin-right: 9px;
+    display: inline-block;
+    overflow: hidden;
+    height: 16px;
+    width: 16px;
+    /* [RecolorImage(themeColor: "BodyText",method:"Filling",includeRectangle:{x:161, y:178, width:16; height:16})] */ background: url("/_layouts/15/images/spcommon.png?rev=23") no-repeat -161px -178px;
+}
+.ms-microfeed-warningText
+{
+    margin-left: 34px;
+}
+.ms-microfeed-tooManyElementsWarning
+{
+    padding-top: 2px;
+    padding-bottom: 7px;
+    /* [ReplaceColor(themeColor: "Lines")] */ border-bottom: 1px solid #ababab;
+    font-weight: normal;
+    font-family: inherit;
+    font-size: 12px; 
+}
+.ms-microfeed-followingHeadingDiv
+{
+    padding: 2px 10px 4px 10px;
+}
+.ms-microfeed-mentionUserDiv
+{
+    cursor: pointer;
+    padding: 2px 10px 4px 20px;
+}
+.ms-linkOptionDiv
+{
+    cursor: pointer;
+    padding: 2px 10px 4px 10px;
+}
+.ms-microfeed-source
+{
+    margin-right: 5px;
+}
+.ms-microfeed-defaultTextColor
+{
+    color: inherit;
+}
+.ms-microfeed-pendingImage
+{
+    float: right;
+}
+.ms-microfeed-likesIndicatorText
+{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.ms-microfeed-likeImageParent
+{
+    margin-right: 4px;
+    margin-bottom: -1px;
+	height: SOCIALCOMMON_LIKE_11X11X32_HEIGHTpx;
+    width: SOCIALCOMMON_LIKE_11X11X32_WIDTHpx;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+.ms-microfeed-likeImage
+{
+    left: -SOCIALCOMMON_LIKE_11X11X32_LEFTpx; 
+    top: -SOCIALCOMMON_LIKE_11X11X32_TOPpx;
+    position: absolute;
+}
+.ms-microfeed-likeImageLikedByMe
+{
+    left: -SOCIALCOMMON_LIKEFULL_11X11X32_LEFTpx; 
+    top: -SOCIALCOMMON_LIKEFULL_11X11X32_TOPpx;
+    position: absolute;
+}
+.ms-microfeed-threadsDiv
+{
+    position: relative;
+}
+.ms-microfeed-confirmationDiv
+{
+    z-index: 1;
+    /* [ReplaceColor(themeColor: "SubtleLines")] */ border: 1px solid #c6c6c6;
+    float: none;
+    position: absolute;
+    /* [ReplaceColor(themeColor: "BackgroundOverlay",opacity:"1")] */ background-color: #fff;
+    max-width: 384px;
+}
+.ms-microfeed-confMessageDiv
+{
+    padding-left: 20px;
+    padding-top: 12px;
+    padding-right: 20px;
+    padding-bottom: 8px;
+}
+.ms-microfeed-rootConfDiv
+{
+    margin-left: 69px;
+    margin-top: 31px;
+}
+.ms-microfeed-replyConfDiv
+{
+    margin-left: 69px;
+    margin-top: 6px;
+}
+.ms-microfeed-confirmationDivButton
+{
+    margin-left: 0px;
+}
+.ms-microfeed-cancelButton
+{
+    margin-left: 10px;
+}
+.ms-microfeed-confirmationButtonDiv
+{
+    padding-top: 12px;
+    text-align: right;
+}
+.ms-microfeed-greyout
+{
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+}
+.ms-microfeed-noBottomBorder
+{
+    border-bottom: 0px none;
+}
+.ms-microfeed-title
+{
+    margin-bottom: 3px;
+    width: 100%;
+}
+.ms-microfeed-feedTitleSelector
+{
+    width: 160px;
+    float: left; 
+    border: 1;
+}
+.ms-microfeed-feedTitleLabel
+{
+    float: left;
+}
+.ms-microfeed-siteFeedTitleLabel.ms-microfeed-siteFeedTitleLabel
+{
+    text-decoration: none;
+}
+.ms-microfeed-viewDescription
+{
+    padding-bottom: 12px;
+}
+.ms-microfeed-processingDiv
+{
+    display: inline-block;
+}
+.ms-microfeed-processingImage
+{
+    margin-left: 20px;
+    margin-right: 4px;
+    vertical-align: middle;
+}
+.ms-microfeed-floatLeft
+{
+    float: left;
+}
+.ms-microfeed-seeMoreThreadsDivContainer
+{
+    position: relative;
+    float: left;
+    left: 50%;
+}
+.ms-microfeed-seeMoreThreadsDiv
+{
+    position: relative;
+    float: left;
+    left: -50%;
+    cursor: pointer;
+}
+.ms-microfeed-moreRepliesImageParent
+{
+    top: 4px;
+    height: 16px; 
+    width: 16px;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+.ms-microfeed-moreRepliesImageDown
+{
+    left: -73px; 
+    top: -238px;
+    position: absolute;
+}
+.ms-microfeed-moreRepliesImageUp
+{
+    left: -197px; 
+    top: -138px;
+    position: absolute;
+}
+.ms-microfeed-seeFullThread
+{
+    padding-bottom: 9px;
+    cursor: pointer;
+}
+.ms-microfeed-seeMoreRepliesDiv
+{
+    text-align: center;
+    valign: middle;
+    padding-top: 6px;
+    cursor: pointer;
+    padding-bottom: -2px;
+}
+.ms-microfeed-emptyThreadDiv
+{
+    margin-top: 9px;
+}
+.ms-microfeed-postBody
+{
+    white-space: pre-wrap;
+}
+.ms-microfeed-modalErrorDiv
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.ms-microfeed-errorMessage
+{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.ms-microfeed-errorOkButton
+{
+    margin-left: 0px;
+}
+.ms-microfeed-errorCancelButton
+{
+    margin-left: 10px;
+}
+.ms-microfeed-threadLinkInputBox
+{
+    width: 65%;
+    margin-bottom: 5px;
+}
+.ms-microfeed-threadLinkDiv
+{
+    padding-bottom: 8px;
+    padding-top: 1px;
+}
+.ms-microfeed-mysitemenu-control
+{
+    padding: 0px;
+    border: 0px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+.ms-microfeed-mysitemenu-image
+{
+    width: 11px;
+    height: 11px;
+    cursor: pointer;
+}
+.ms-microfeed-mysitemenu-ellipsisImage
+{
+    cursor: pointer;
+    left: -SOCIALCOMMON_ELLIPSIS_11X11X32_LEFTpx; 
+    top: -SOCIALCOMMON_ELLIPSIS_11X11X32_TOPpx;
+    position: absolute;
+}
+.ms-microfeed-mysitemenu-ellipsisImageParent
+{
+    height: SOCIALCOMMON_ELLIPSIS_11X11X32_HEIGHTpx;
+    width: SOCIALCOMMON_ELLIPSIS_11X11X32_WIDTHpx;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+.ms-microfeed-mysitemenu-titleImage
+{
+    padding-left: 7px;
+    width: 16px;
+    height: 16px;
+    vertical-align: bottom;
+}
+.ms-microfeed-mysitemenu-subtleEmphasis
+{
+    /* [ReplaceColor(themeColor: "SubtleEmphasisCommandLinks")] */ color: #262626;
+}
+.ms-microfeed-attachmentButton
+{
+    float: left;
+    padding-left: 5px;
+}
+.ms-microfeed-addImageButtonImageParent
+{
+	height: 16px;
+    width: 16px;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+.ms-microfeed-addImageButtonImage
+{
+    left: -109px; 
+    top: -214px;
+    position: absolute;
+}
+.ms-microfeed-imageAttachmentPreview
+{
+    max-width: 300px;
+    max-height: 300px;
+    padding-left: 2px;
+}
+.ms-microfeed-attachmentPreviewDiv
+{
+    min-width: 438px;
+    max-width: 608px;
+    padding-left: 5px;
+    padding-right: 1px;
+    padding-top: 8px;
+    padding-bottom: 4px;
+}
+.ms-microfeed-attachmentReplyPreviewDiv
+{
+    min-width: 324px;
+    max-width: 531px;
+    padding-left: 5px;
+    padding-right: 1px;
+    padding-top: 8px;
+    padding-bottom: 4px;
+}
+.ms-microfeed-attachmentDiv
+{
+    padding-bottom: 1px;
+    padding-top: 4px;
+	margin-top: 6px;
+	margin-bottom: 4px;
+} 
+.ms-microfeed-attachmentImage
+{
+    max-width: 300px;
+    max-height: 300px;
+}
+.ms-microfeed-smallAttachmentImage
+{
+    max-width: 144px;
+    max-height: 144px;
+}
+.ms-microfeed-displayLinkAsSpan
+{
+    margin-left: 7px;
+	margin-top: 4px;
+}
+.ms-microfeed-editLinkDiv
+{
+    padding-bottom: 2px;
+}
+.ms-microfeed-editLinkTextBox
+{
+    width: 78%;
+    margin-left: 1px;
+    margin-right: 4px;
+}
+input[type=text].ms-microfeed-editLinkTextBox
+{
+    border: 1px solid transparent;
+}
+input[type=text].ms-microfeed-editLinkTextBox:hover, input[type=text].ms-microfeed-editLinkTextBox:focus
+{
+    /* [ReplaceColor(themeColor: "StrongLines")] */ border: 1px solid #92c0e0;
+}
+.ms-microfeed-linkErrorMessageDiv
+{
+    padding-left: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.ms-microfeed-createTagInput
+{
+    width: 90%;
+    margin-left: 4px;
+    padding: 6px;
+}
+.ms-microfeed-privacyIcon
+{
+    padding-top: 5px;
+    padding-left: 12px;
+}
+.ms-microfeed-unsubscribe
+{
+    margin-bottom: 10px;
+}
+div.ms-microfeed-attachment
+{
+    display: inline-block;
+    width: 95%;
+}
+img.ms-microfeed-videoThumbnail
+{
+    vertical-align: top;
+    position: relative;
+}
+div.ms-microfeed-previewArea
+{
+    position:relative;
+    display: inline-block;
+    float: left;
+    margin-left: 1px;
+    margin-right: 10px;
+}
+div.ms-microfeed-videoPreviewArea
+{
+    overflow: hidden;
+    width: 120px;
+    height: 67px;
+}
+.ms-core-needIEFilter div.ms-microfeed-videoPlay
+{
+	 background-color: #000;
+    filter: alpha(opacity=70); -ms-filter: "alpha(opacity=70)";
+}
+div.ms-microfeed-videoPlay
+{
+    position:absolute; 
+    bottom:3px; 
+    right:3px; 
+    width:25px;
+    height:25px;
+    /* [ReplaceColor(themeColor: "TileBackgroundOverlay")] */ background-color: rgba( 0, 0, 0, 0.6 );
+     border:2.5px solid #FFFFFF;
+    border-radius:17px;
+}
+div.ms-microfeed-videoPlay a
+{
+    display: inline-block;
+}
+div.ms-microfeed-videoPlay a span
+{
+    display: block;
+    border-bottom: 6px solid transparent;
+     border-left: 9px solid #FFFFFF;  
+    border-top: 6px solid transparent;
+    margin-top: 7px;
+    margin-left: 9px; 
+}
+div.ms-microfeed-videoTime
+{
+    position:absolute; 
+    bottom:1px; 
+    padding:0px 4px 1px 3px;
+    /* [ReplaceColor(themeColor: "TileBackgroundOverlay")] */ background-color: rgba( 0, 0, 0, 0.6 );
+    /* [ReplaceColor(themeColor: "TileText")] */ color: #fff;
+}
+.ms-microfeed-embeddedVideo
+{
+    margin-top: 5px;
+}
+span.ms-microfeed-attachment-title
+{
+    display: block;
+    font-weight: bold;
+    text-decoration: none;
+}
+span.ms-microfeed-attachment-url
+{
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+	width: 300px;
+}
+span.ms-microfeed-attachment-description
+{
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 6px;
+}
+span.ms-microfeed-attachment-action
+{
+    display: block;
+    font-weight: bold;
+}
+iframe.ms-microfeed-attachment-inlineVideo
+{
+    width: 100%;
+    min-width: 200px; 
+    min-height: 200px; 
+}
+iframe.ms-microfeed-attachment-inlineDoc
+{
+    width: 100%;
+    height: 330px;
+	margin-top: 5px;
+}
+.ms-microfeed-LikerCalloutDiv
+{
+    max-height: 312px;
+    overflow: hidden;
+	margin-top: 18px;
+}
+.ms-microfeed-LikerCalloutDiv:hover
+{
+    overflow-y: auto;
+}
+.ms-microfeed-LikerAnchor
+{
+    text-decoration: none;
+}
+.ms-microfeed-welcomeText > div
+{
+    margin-bottom: 10px;
+}
+div#HashTagSuggestionsContainer
+{
+	color: inherit;
+	position: absolute;
+}
+div#HashTagSuggestionsContainer .ms-taxonomy-suggestion-group-title
+{
+	display:none;
+}
+div#HashTagSuggestionsContainer .ms-taxonomy-suggestion-holder .ms-taxonomy-suggestion-group .ms-taxonomy-table .ms-taxonomy-column .suggestion-match-text
+{
+	background-color: transparent;
+}
+div#HashTagSuggestionsContainer .ms-taxonomy-panel-resizer
+{
+	display: none;
+}
+div#HashTagSuggestionsContainer .ms-taxonomy-suggestion-holder .ms-taxonomy-suggestion-group .ms-taxonomy-table .ms-taxonomy-column .suggestion-path
+{
+	display: none;
+}
+div#HashTagSuggestionsContainer .ms-taxonomy-suggestion-holder .ms-taxonomy-suggestion-group .ms-taxonomy-table .ms-taxonomy-column .suggestion-non-match-text,
+div#HashTagSuggestionsContainer .ms-taxonomy-suggestion-holder .ms-taxonomy-suggestion-group .ms-taxonomy-table .ms-taxonomy-column .suggestion-match-text
+{
+	font-size: inherit;
+	color: inherit;
+}
+.ms-comm-feedsuggestions-reply
+{
+    margin: -7px 0px 0px 1px;
+}
+.ms-comm-feedsuggestions-post
+{
+    margin: -1px 0px 0px 1px;
+}
+.ms-rtestate-write .ms-socialentity
+{
+    /* [ReplaceColor(themeColor: "SubtleEmphasisBackground",opacity:"1")] */ background-color: #efefef; 
+    /* [ReplaceColor(themeColor: "SubtleEmphasisBackground")] */ background-color: #f1f1f1;
+    display: inline-block;
+}

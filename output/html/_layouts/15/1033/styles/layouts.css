@@ -1,0 +1,852 @@
+/* _lcid="1033" _version="15.0.4420"
+_LocalBinding */
+.ms-authoringcontrols td td.ms-viewselector,.ms-authoringcontrols td td.ms-viewselectorhover{
+/* [ReplaceColor(themeColor:"Dark2-Darker")] */ border:solid 1px #d2b47a;
+/* [RecolorImage(themeColor:"Accent6",method:"Tinting")] */ background-image:url("/_layouts/15/images/selectednav.gif?rev=23");
+background-repeat:repeat-x;
+/* [ReplaceColor(themeColor:"Light2")] */ background-color:#ffe6a0;
+font-weight:bold;
+padding:0px;
+}
+.ms-authoringcontrols td td.ms-viewselectorhover{
+/* [RecolorImage(themeColor:"Accent6-Darker",method:"Tinting",includeRectangle:{x:0,y:403,width:1,height:22})] */ background:url("/_layouts/15/images/bgximg.png?rev=23") repeat-x -0px -403px;
+/* [ReplaceColor(themeColor:"Light2-Lightest")] */ background-color:#ffbb47;
+}
+.ms-formula{
+font-size:8pt;
+font-family:Verdana,sans-serif;
+width:222px;
+height:135px;
+}
+.ms-templatepickerselected,.ms-templatepickerunselected{
+float:left;
+}
+.ms-templatepickerunselected{
+padding-top:2px;
+margin-right:1px;
+}
+.ms-templatepickerselected{
+margin-right:1px;
+}
+.ms-templatepickerunselected div{
+background-image:url("/_layouts/15/images/templatepickerunselected.gif?rev=23");
+background-repeat:repeat-x;
+/* [ReplaceColor(themeColor:"Light2-Lightest")] */ background-color:#bdbdbd;
+/* [ReplaceColor(themeColor:"Dark1-Lightest")] */ border:solid 1px #c4c4c4;
+border-bottom:none;
+padding:1px 5px 3px 5px;
+white-space:nowrap;
+}
+.ms-templatepickerselected div{
+background-image:url("/_layouts/15/images/templatepickerselected.gif?rev=23");
+background-repeat:repeat-x;
+/* [ReplaceColor(themeColor:"Light2")] */ background-color:#ffffff;
+/* [ReplaceColor(themeColor:"Dark1-Darker")] */ border:solid 1px #c2a770;
+border-bottom:none;
+padding:3px 5px 3px 5px;
+white-space:nowrap;
+}
+.ms-templatepickerselected div a{
+/* [ReplaceColor(themeColor:"Dark1")] */ color:#000000;
+}
+.ms-templatepickerunselected div a{
+/* [ReplaceColor(themeColor:"Dark1")] */ color:#000000;
+}
+.ms-templatepicker{
+width:420px;
+}
+.ms-templatepicker select{
+font-size:8pt;
+font-family:tahoma;
+height:175px;
+}
+.ms-lactiontable{
+width:100%;
+}
+.ms-laction{
+/* [ReplaceColor(themeColor:"Dark2-Lightest")] */ border-top:solid 1px #b8bed0;
+padding-left:2px;
+padding-right:2px;
+}
+.ms-lactionheader{
+padding:4px;
+}
+.ms-lactionitem{
+padding-left:4px;
+padding-right:4px;
+padding-top:3px;
+padding-bottom:3px;
+white-space:nowrap;
+}
+.ms-lactionitem a{
+/* [ReplaceColor(themeColor:"Hyperlink")] */ color:#003399;
+text-decoration:none;
+}
+.ms-lactionitem a:hover{
+/* [ReplaceColor(themeColor:"Dark2")] */ color:#000000;
+text-decoration:underline;
+}
+.ms-diffselected{
+/* [RecolorImage(themeColor:"Accent6",method:"Tinting")] */ background-image:url("/_layouts/15/images/SELECTEDNAV.GIF?rev=23");
+/* [ReplaceColor(themeColor:"Dark2-Lightest")] */ background-color:#ffe6a0;
+background-repeat:repeat-x;
+/* [ReplaceColor(themeColor:"Dark2-Lighter")] */ border:1px solid #d2b47a;
+}
+.ms-diffselected table{
+width:100%;
+/* [ReplaceColor(themeColor:"Light2-Lighter")] */ border:1px solid #ffffff;
+}
+.ms-diffselected .ms-lactionbullet{
+padding-left:3px;
+}
+.ms-diffselected .ms-lactionitem{
+padding-right:3px;
+}
+.ms-diffselected .ms-lactionitem a{
+/* [ReplaceColor(themeColor:"Dark2")] */ color:#000000;
+}
+.ms-versiondiffnum{
+font-weight:bold;
+}
+.ms-viewareaframe{
+vertical-align:top;
+height:100%;
+/* [ReplaceColor(themeColor:"Light1")] */ background-color:#ffffff;
+/* [ReplaceColor(themeColor:"Dark1-Lightest")] */ border:1px solid #6f9dd9;
+}
+.ms-formareaframe{
+vertical-align:top;
+height:100%;
+/* [ReplaceColor(themeColor:"Light1")] */ background-color:#ffffff;
+padding:8px;
+}
+.ms-selected
+{
+background-position:left top;
+color:#000000;
+background-image:url("/_layouts/15/images/filedialogselected.gif?rev=23");
+background-color:#FFE499;
+border-top:1px solid #FFE499;
+border-bottom:1px solid #FFE499;
+background-repeat:repeat-x;
+}
+.ms-selected SPAN{
+color:#000000;
+}
+.ms-propertysheet th.ms-vh2-nofilter-notextalign{
+font-family:tahoma;
+}
+.ms-inputformheader{
+padding-left:6px;
+}
+.ms-inputformdescription{
+width:475px;
+padding-right:9px;
+padding-left:6px;
+}
+.ms-inputformcontrols
+{
+width:375px;
+}
+.ms-halfinputformcontrols
+{
+width:150px;
+}
+.ms-dspadapterlist
+{
+padding-left:1cm;
+/* [ReplaceColor(themeColor:"Dark1-Lightest")] */ color:#7f7f7f;
+font-family:verdana;
+font-size:8pt;
+}
+.ms-authoringcontrols
+{
+}
+.ms-sectionheader
+{
+/* [ReplaceColor(themeColor:"Dark1-Lighter")] */ color:#525252;
+font-weight:bold;
+}
+.ms-linksectionheader
+{
+/* [ReplaceColor(themeColor:"Dark1")] */ color:#000000;
+font-family:tahoma;
+font-size:8pt;
+font-weight:bold;
+text-align:left;
+}
+.ms-sectionheader a,.ms-sectionheader a:hover,.ms-sectionheader a:visited
+{
+/* [ReplaceColor(themeColor:"Dark1-Lighter")] */ color:#525252;
+text-decoration:none;
+}
+.ms-sectionline
+{
+font-size:0px;
+}
+.ms-sectionline img:first-child
+{
+display:none;
+}
+.ms-sectionhighlight-top{
+ /* [ReplaceColor(themeColor:"Dark1-Darker")] */ border:1px solid #ff9932;
+border-left:0px solid;
+border-right:0px solid;
+ /* [ReplaceColor(themeColor:"Light1-Lightest")] */ background-color:#f7f3cd;
+font-family:tahoma;
+font-size:8pt;
+}
+.ms-sectionhighlight{
+ /* [ReplaceColor(themeColor:"Light1-Lightest")] */ background-color:#fffbd8;
+ /* [ReplaceColor(themeColor:"Dark1-Medium")] */ color:#4c4c4c;
+}
+.ms-sectionhighlight-line{
+height:1px;
+padding:0px;
+ /* [ReplaceColor(themeColor:"Dark1-Darker")] */ background-color:#ff9932;
+}
+table.ms-pageinformation,table.ms-createpageinformation{
+font-family:tahoma;
+font-size:8pt;
+height:115px;
+}
+table.ms-pageinformation{
+background-repeat:repeat-x;
+}
+table.ms-createpageinformation{
+/* [RecolorImage(themeColor:"Dark2")] */ background-image:url("/_layouts/15/images/creategraphic.jpg?rev=23");
+background-repeat:repeat-x;
+/* [ReplaceColor(themeColor:"Light1")] */ background-color:#ffffff;
+}
+.ms-pageinformation th,.ms-createpageinformation th{
+/* [ReplaceColor(themeColor:"Dark2")] */ color:#6f6f6f;
+text-align:left;
+}
+.ms-createpageinformation td#idItemHoverDescription{
+/* [ReplaceColor(themeColor:"Dark1-Darker")] */ color:#204d89;
+}
+.ms-pageinformation table td,.ms-createpageinformation table td{
+/* [ReplaceColor(themeColor:"Dark1")] */ color:#000000;
+text-align:left;
+font-family:tahoma;
+font-size:8pt;
+padding:3px 5px 3px 1px;
+}
+.ms-pageinformation table th
+{
+padding:3px 5px 0px 1px;
+font-weight:normal;
+}
+.ms-pageinformation h3.ms-standardheader{
+/* [ReplaceColor(themeColor:"Dark2")] */ color:#6f6f6f;
+font-size:11pt;
+font-family:Verdana;
+font-weight:normal;
+padding-bottom:4px;
+/* [ReplaceColor(themeColor:"Light2",themeShade:"0.02")] */ border-bottom:1px solid #f1f1f2;
+}
+.ms-storMeFree{
+background-color:#80f0dc;
+border-style:dashed;
+border-width:1px;
+border-color:white;
+}
+.ms-storMeUsed{
+background:#8ebbf5;
+border-style:solid;
+border-width:1px;
+border-color:white;
+}
+.ms-storMeEstimated{
+background-color:#83b0ec;
+border-style:dotted;
+border-width:1px;
+border-color:white;
+}
+.ms-informationtablehover{
+/* [ReplaceColor(themeColor:"Dark1-Medium")] */ border:solid 1px #add1ff;
+}
+.ms-informationtablehover td,.ms-informationtablehover th{
+/* [ReplaceColor(themeColor:"Light1-Lightest")] */ background-color:#ebf3ff;
+}
+.ms-informationtablehover td{
+/* [ReplaceColor(themeColor:"Light1")] */ border-top:solid 1px #ffffff;
+/* [ReplaceColor(themeColor:"Light1")] */ border-left:solid 1px #ffffff;
+}
+.ms-informationtablehover th{
+/* [ReplaceColor(themeColor:"Light1")] */ border-top:solid 1px #ffffff;
+}
+.ms-informationtablestatic{
+background-image:url("/_layouts/15/images/settingsbkg.jpg?rev=23");
+background-repeat:no-repeat;
+}
+.ms-pageinformationheader{
+font-weight:bold;
+/* [ReplaceColor(themeColor:"Dark1")] */ color:#000000;
+}
+.ms-itemstatic{
+/* [ReplaceColor(themeColor:"Light1")] */ border:1px solid #FFFFFF;
+background-color:transparent;
+}
+.ms-itemhover{
+/* [ReplaceColor(themeColor:"Dark1-Medium")] */ border:solid 1px #d2b47a;
+/* [RecolorImage(themeColor:"Accent6",method:"Tinting")] */ background-image:url("/_layouts/15/images/selectednav.gif?rev=23");
+background-repeat:repeat-x;
+/* [ReplaceColor(themeColor:"Light1-Lighter")] */ background-color:#94d5fe;
+cursor:pointer;
+}
+.ms-itemhover a{
+/* [ReplaceColor(themeColor:"Dark1")] */ color:#000000;
+text-decoration:underline;
+}
+.ms-addlocalwarning-chkperm
+{
+color:#FF0000;
+}
+.ms-chkperm-list{
+margin-top:10px;
+/* [ReplaceColor(themeColor:"Light1-Darker")] */ border-top:1px solid #d9d9d9;
+}
+.ms-chkperm-list .ms-vh2-nofilter{
+background:none;
+}
+.ms-vh2-nofilter-notextalign{
+font-weight:normal;
+text-decoration:none;
+vertical-align:top;
+}
+.ms-vh2-gridview{
+padding-top:2px;
+padding-bottom:2px;
+vertical-align:middle;
+}
+.ms-vh2-nofilter a,.ms-vh2-nofilter-notextalign a{
+/* [ReplaceColor(themeColor:"Dark1-Medium")] */ color:#7f7f7f;
+text-decoration:none;
+}
+.ms-vh2-nofilter a:hover,.ms-vh2-nofilter-notextalign a:hover{
+text-decoration:underline;
+}
+.ms-cbp{
+padding-left:3px;
+padding-right:8px;
+}
+.ms-gb h3.ms-standardheader{
+margin-top:1em;
+margin-bottom:6px;
+}
+.ms-gb .ms-standardheader{
+/* [ReplaceColor(themeColor:"Dark1")] */ color:#000000;
+}
+.ms-vh2-nofilter,.ms-vh2-nofilter-notextalign{
+/* [ReplaceColor(themeColor:"Dark1-Medium")] */ color:#666;
+font-size:8pt;
+font-family:Verdana,Arial,sans-serif;
+white-space:nowrap;
+background-repeat:repeat-x;
+padding:3px 8px 0px 3px;
+height:20px;
+}
+.ms-vh2-nofilter a{
+/* [ReplaceColor(themeColor:"Dark1-Medium")] */ color:#808080;
+}
+th .ms-selectedtitle .ms-vh2-nofilter,th .ms-selectedtitle .ms-vh2-nofilter a{
+/* [ReplaceColor(themeColor:"Dark1-Darker")] */ color:#4c4c4c;
+}
+.ms-vh2-nofilter{
+text-align:left;
+}
+.ms-errorcolor{
+color:#FF0000;
+}
+.ms-successcolor{
+color:#008000;
+}
+.ms-warning{
+color:#FF0000;
+font-weight:bold;
+}
+tr.ms-highlight
+{
+/* [ReplaceColor(themeColor:"Light1-Lightest")] */ background-color:#f2f2f2;
+}
+.UserButton{
+font-family:Verdana,Arial,Sans-Serif;
+font-size:8pt;
+}
+.ms-BuilderBackground
+{
+/* [ReplaceColor(themeColor:"Light1-Lightest")] */ background:#f2f2f2;
+/* [ReplaceColor(themeColor:"Dark1-Medium")] */ color:#4c4c4c;
+}
+.ms-subsmanageheader
+{
+/* [ReplaceColor(themeColor:"Light1-Lightest")] */ background-color:#f2f2f2;
+font-family:verdana;
+font-size:8pt;
+text-align:left;
+text-decoration:none;
+font-weight:bold;
+vertical-align:top;
+}
+.ms-subsmanagecell
+{
+/* [ReplaceColor(themeColor:"Dark1")] */ color:#000000;
+font-family:verdana;
+height:18px;
+vertical-align:top;
+}
+.ms-underline
+{
+vertical-align:top;
+/* [ReplaceColor(themeColor:"Light1-Medium")] */ border-bottom:1px solid #bfbfbf;
+padding:3px 4px 4px 4px;
+}
+.ms-underlineback
+{
+vertical-align:top;
+/* [ReplaceColor(themeColor:"Light1-Medium")] */ border-bottom:1px solid #bfbfbf;
+padding:3px 4px 4px 4px;
+/* [ReplaceColor(themeColor:"Light1-Lightest")] */ background-color:#f2f2f2;
+}
+.ms-smallheader,th.ms-smallheader
+{
+font-size:8pt;
+font-weight:bold;
+/* [ReplaceColor(themeColor:"Dark1")] */ color:#000000;
+font-family:verdana;
+text-align:left;
+}
+.ms-smallsectionline
+{
+padding:0px;
+/* [ReplaceColor(themeColor:"Light1-Medium")] */ background-color:#bfbfbf;
+}
+.ms-uploadcontrol{
+/* [ReplaceColor(themeColor:"Light1-Lightest")] */ background-color:#f2f2f2;
+}
+.ms-spaceBetContentAndButton
+{
+height:10px;
+}
+.ms-NarrowButtonHeightWidth
+{
+width:10em;
+height:2.1em !important;
+font:8pt tahoma;
+}
+.ms-summarystandardbody{
+margin-left:0px;
+margin-top:0px;
+margin-right:6px;
+}
+.ms-entity-resolved{
+color:#000000;
+text-decoration:underline;
+}
+.ms-featurestatus
+{
+width:100px;
+vertical-align:middle;
+}
+.ms-featurestatustext
+{
+padding:0px 4px 4px;
+/* [ReplaceColor(themeColor:"Dark1-Medium")] */ background-color:#003399;
+color:white;
+font-weight:bold;
+}
+.ms-featurealtrow
+{
+/* [ReplaceColor(themeColor:"Accent3-Lightest")] */ background-color:#f2f6fa;
+}
+.ms-webpartpickerpagebackground{
+/* [ReplaceColor(themeColor:"Dark1-Lightest")] */ background-color:#efebc2;
+}
+.ms-webpartpickerpageinnerbackground{
+/* [ReplaceColor(themeColor:"Light1-Lightest")] */ background-color:#f2f2f2;
+}
+.ms-webpartpickerpagetext{
+/* [ReplaceColor(themeColor:"Dark1-Lighter")] */ color:#656B77;
+text-align:left;
+}
+.ms-webpartpickerpagetext a{
+/* [ReplaceColor(themeColor:"Dark1-Medium")] */ color:#3966bf;
+text-align:left;
+}
+.ms-webpartpickerpageHeaderBorder a{
+/* [ReplaceColor(themeColor:"Dark1-Medium")] */ color:#3966bf;
+}
+.ms-viewtotalselect{
+width:104px;
+}
+.ms-wikifieldheader{
+font-family:tahoma;
+font-size:1.2em;
+margin-top:15px;
+margin-bottom:10px;
+/* [ReplaceColor(themeColor:"Dark1-Lighter")] */ color:#515151;
+padding:2px;
+}
+.ms-pickerdropdown
+{
+width:158px;
+margin-left:22px;
+color:#4c4c4c;
+font-size:10pt;
+font-family:Arial;
+border:1px solid #BFBFBF;
+border-top-style:solid!important;
+border-bottom-style:solid!important;
+}
+.ms-pickertitlesection
+{
+/* [ReplaceColor(themeColor:"Light1")] */ background:#ffffff url("/_layouts/15/images/siteTitleBKGD.gif?rev=23") repeat-y top right;
+}
+.ms-pickertitlesection .ms-descriptiontext
+{
+padding:8px 3px 8px 3px;
+height:14px;
+}
+.ms-pickeremptyresulttexttr .ms-descriptiontext{
+padding-left:5px;
+padding-top:6px;
+}
+.ms-pickerbodysection
+{
+/* [ReplaceColor(themeColor:"Light1-Lightest")] */ background:#ece9d8 url("/_layouts/15/images/viewheadergrad.gif?rev=23") repeat-x;
+/* [ReplaceColor(themeColor:"Light1-Darker")] */ border-top:solid 1px #a5a5a5;
+}
+.ms-pickerresultoutertable
+{
+table-layout:fixed;
+}
+.ms-pickerresultdiv
+{
+/* [ReplaceColor(themeColor:"Light1")] */ background-color:#FFFFFF;
+border-top-width:1px;
+border-bottom-width:1px;
+border-left-width:1px;
+border-right-width:1px;
+OVERFLOW:auto;
+width:100%;
+height:350px;
+}
+.ms-pickertreediv
+{
+/* [ReplaceColor(themeColor:"Light1")] */ background-color:#F1F1F2;
+border-top-width:1px;
+border-bottom-width:1px;
+border-left-width:1px;
+border-right-width:1px;
+OVERFLOW:auto;
+width:100%;
+height:100%;
+}
+.ms-pickerbuttonsection
+{
+background-color:#ffffff;
+}
+.ms-pickersearchbox
+{
+height:22px;
+color:#000000;
+border-top:1px solid #BFBFBF!important;
+border-left:1px solid #BFBFBF!important;
+border-bottom:1px solid #BFBFBF!important;
+border-right:0px solid #FFFFFF!important;
+border-style:solid!important;
+}
+.ms-pickersearchsummarytr td.ms-descriptiontext
+{
+padding-left:6px;
+padding-top:5px;
+/* [ReplaceColor(themeColor:"Dark1-Lighter")] */ color:#525252;
+font-weight:bold;
+}
+.ms-pickerwaittexttr td.ms-descriptiontext
+{
+text-align:center;
+}
+.ms-naveditor .ms-gb{
+padding:3px 3px 0 3px;
+height:22px;
+}
+.ms-naveditor .ms-gb{
+border-top:0;
+}
+.ms-naveditor .ms-gb img{
+margin-top:1em;
+}
+.ms-dialogBody
+{
+min-width:0;
+}
+.ms-dialogBodyMain
+{
+/* [ReplaceColor(themeColor:"Dark1-Medium")] */ border:1px solid #898989;
+}
+.ms-schedpickContainer
+{
+position:relative;
+width:500px;
+}
+.ms-schedpickLeft
+{
+width:20%;
+float:left;
+}
+.ms-schedpickRight
+{
+width:79%;
+float:right;
+}
+.ms-schedpickList
+{
+padding:0;
+margin:10px;
+margin-top:0;
+list-style-type:none;
+}
+.ms-schedpickList li
+{
+margin-bottom:5px;
+}
+.ms-schedpicklist-indent
+{
+margin-left:10px;
+margin-right:10px;
+}
+.ms-create-headerbox{
+vertical-align:top;
+height:112px;
+}
+.ms-create-headerboxint{
+padding:26px 20px 8px 20px;
+}
+.ms-create-h2,.ms-create-h2b,.ms-create-h2d{
+font-size:1.5em;
+font-family:Verdana,sans-serif;
+/* [ReplaceColor(themeColor:"Dark2")] */ color:#3b4f65;
+}
+.ms-create-h2,.ms-create-h2b{
+width:370px;
+line-height:1.5em;
+}
+.ms-create-h2b{
+/* [ReplaceColor(themeColor:"Accent1")] */ color:#0072bc;
+}
+.ms-create-h2d{
+/* [ReplaceColor(themeColor:"Dark1")] */ color:#000;
+margin-bottom:5px;
+}
+.ms-create-h3{
+font-size:1em;
+font-family:Verdana,sans-serif;
+/* [ReplaceColor(themeColor:"Dark2")] */ color:#3b4f65;
+}
+.ms-create-arrowcont{
+height:18px;
+width:80px;
+}
+.ms-create-lists{
+width:100%;
+height:100%;
+vertical-align:top;
+padding:4px 0px 4px;
+}
+.ms-create-header.ms-create-on{
+/* [RecolorImage(themeColor:"Accent1-Medium",method:"Filling")] */ background:url("/_layouts/15/images/create_upgradient.png?rev=23") repeat-x left bottom;
+}
+.ms-create-header.ms-create-on .ms-create-arrowcont{
+/* [RecolorImage(themeColor:"Accent1-Medium",method:"Tinting",includeRectangle:{x:40,y:108,width:35,height:18})] */ background:url("/_layouts/15/images/fgimg.png?rev=23") no-repeat -0px -108px;
+}
+.ms-create-header.ms-create-on .ms-create-headerbox{
+height:113px;
+}
+.ms-create-body.ms-create-on{
+/* [RecolorImage(themeColor:"Accent1-Medium",method:"Filling")] */ background:url("/_layouts/15/images/create_defaultgradient.png?rev=23") repeat-x left top;
+}
+.ms-create-body.ms-create-on .ms-create-arrowcont{
+/* [RecolorImage(themeColor:"Accent1-Medium",method:"Tinting",includeRectangle:{x:40,y:90,width:34,height:18})] */ background:url("/_layouts/15/images/fgimg.png?rev=23") no-repeat -0px -90px;
+}
+.ms-create-body.ms-create-on .ms-create-lists{
+padding-top:5px;
+}
+.ms-create-lists-table{
+max-width:1200px;
+}
+.ms-create-infoIcon{
+vertical-align:top;
+padding-right:10px;
+}
+.ms-create-infoText{
+vertical-align:top;
+width:600px;
+}
+.ms-create-sectionheader{
+font-size:1.5em;
+font-family:Verdana,sans-serif;
+/* [ReplaceColor(themeColor:"Dark2")] */ color:#3b4f65;
+margin:0px 9px 0px 1px;
+font-weight:normal;
+text-align:left;
+padding:0px 0px 5px 14px;
+/* [ReplaceColor(themeColor:"Accent1-Lightest")] */ border-bottom:1px solid #d8f1ff;
+}
+.ms-create-sectionlist{
+margin:0px;
+padding:0px;
+list-style-type:none;
+}
+.ms-create-listitem-a{
+font-size:1em;
+font-family:Verdana,sans-serif;
+/* [ReplaceColor(themeColor:"Hyperlink")] */ color:#0072bc;
+text-decoration:none;
+display:block;
+padding:4px 15px 4px 13px;
+border:1px solid transparent;
+margin-right:5px;
+}
+.ms-create-listitem-a:hover{
+/* [RecolorImage(themeColor:"Light1")] */ background:url("/_layouts/15/images/selbg.png?rev=23") repeat-x left top;
+/* [ReplaceColor(themeColor:"Accent1",themeTint:"0.05")] */ background-color:#f2faff;
+/* [ReplaceColor(themeColor:"Accent1-Lightest")] */ border-color:#c6e5f8;
+border-width:1px;
+border-style:solid;
+/* [ReplaceColor(themeColor:"Dark2")] */ color:#003759 !important;
+}
+.ms-create-listitem-a:hover > .ms-create-listitem-a-text{
+text-decoration:underline;
+}
+.ms-create-listitem-a-img{
+width:0px;
+height:0px;
+border:0px;
+display:inline-block;
+float:left;
+}
+.ms-rtedialog-input{
+font-size:1em;
+}
+.ms-rtedialog-textfield{
+min-width:286px;
+width:100%;
+}
+.ms-viewlsts .ms-vb-icon,.ms-viewlsts .ms-vb2{
+vertical-align:middle;
+}
+.ms-viewlsts th.ms-vh2-nofilter{
+/* [ReplaceColor(themeColor:"Dark2-Darker")] */ color:#3b4f65 !important;
+}
+.ms-wkflwbtn > span{
+vertical-align:middle;
+}
+.ms-ql-additionaltopsection{
+/* [ReplaceColor(themeColor:"Light2-Lightest")] */ border-bottom:1px solid #dbddde !important;
+margin-top:5px !important;
+}
+.ms-ql-additionaltopsection .s4-ql{
+margin-bottom:0px;
+}
+.ms-login-textbox{
+width:300px;
+}
+.ms-listedit{
+margin-left:10px;
+margin-top:8px;
+}
+.ms-listeditnav{
+padding:4px 0px;
+}
+.ms-listedit table.ms-pageinformation,.ms-listedit .ms-pageinformation table td,.ms-listedit .ms-propertysheet,.ms-listedit .ms-descriptiontext{
+font-family:Verdana,Helvetica,sans-serif;
+}
+.ms-listeditheader h3.ms-standardheader{
+padding:0px 4px 4px;
+}
+.ms-listeditheader table th{
+padding-left:4px;
+}
+table th.ms-listedit-listinfo{
+padding-left:0px;
+}
+.ms-listedit .ms-standardheader,.ms-listedit .ms-linksectionheader,.ms-listedit .ms-linksectionheader .ms-standardheader{
+font-family:Verdana,Tahoma,sans-serif;
+/* [ReplaceColor(themeColor:"Dark1-Medium")] */ color:#4c4c4c;
+font-size:10pt;
+font-weight:normal;
+}
+.ms-listedit td.ms-linksectionheader{
+background:transparent none;
+border:none;
+}
+.ms-listedit .ms-linksectiondescription,.ms-listedit .ms-linksectionitembullet{
+display:none;
+}
+.ms-listedit .ms-linksectionitemdescription{
+padding-left:0px;
+}
+.ms-listeditnav .ms-linksectionitemdescription{
+padding-left:0px;
+}
+.ms-listedit-sectiondescription{
+padding-left:4px;
+padding-top:4px;
+padding-bottom:4px;
+}
+.ms-listedit .ms-gb{
+/* [ReplaceColor(themeColor:"Light2-Lightest")] */ border-top-color:#b5bdc7;
+font-weight:normal;
+}
+.ms-listedit .ms-gb .ms-vh2-nofilter,.ms-listedit .ms-gb .ms-vh2{
+/* [ReplaceColor(themeColor:"Dark2")] */ color:#003759;
+/* [ReplaceColor(themeColor:"Light2")] */ background-color:#f5f5f5;
+background-image:none;
+padding-left:4px;
+}
+.ms-listedit .ms-vb2{
+padding-left:4px;
+}
+.ms-upload-overwrite-cb input,.ms-upload-overwrite-cb label{
+vertical-align:middle;
+}
+.ms-valign-middle-all *{
+vertical-align:middle;
+}
+div.ms-inputuserfield a
+{
+/* [ReplaceColor(themeColor:"BodyText")] */ color:#444;
+text-decoration:none;
+font-weight:normal;
+font-style:normal;
+}
+div.ms-inputuserfield
+{
+padding-left:1px;
+padding-top:2px;
+}
+.ms-dtinput,.ms-dttimeinput{
+vertical-align:middle;
+padding:0px 4px 0px 0px;
+}
+.ms-dttimeinput{
+direction:ltr;
+}
+.ms-detailsview{
+/* [ReplaceColor(themeColor:"SubtleLines")] */ border:1px solid #c6c6c6;
+text-align:left;
+}
+.ms-detailsview td{
+padding:4px;
+}
+.ms-long{
+width:386px;
+}
+.ms-usereditor{
+width:386px;
+}
+.ms-usereditorinline{
+width:186px;
+}
