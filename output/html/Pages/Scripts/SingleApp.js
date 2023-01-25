@@ -1,8 +1,8 @@
 (function (sp) {
     'use strict';
 
-    // var app = angular.module("wguApp", ['ngSanitize']);
-    // app.controller("singleControl", ['$scope', '$sce', function ($scope, $sce) {
+    var app = angular.module("wguApp", ['ngSanitize']);
+    app.controller("singleControl", ['$scope', '$sce', function ($scope, $sce) {
     //     $scope.program = undefined;
     //     $scope.agreement = undefined;
     //     $scope.institution = undefined;
@@ -26,17 +26,17 @@
     //             $('#dlgDetails').modal('show');
     //         });
     //     }
-    //
-    //     $scope.print = function () {
-    //         $(".WGUHeader").addClass("no-print");
-    //         $(".globalNav").addClass("no-print");
-    //         $("#suiteBar").addClass("no-print");
-    //         $('#printDisclaimer').show();
-    //         //var footerDiv = $('#s4-workspace > footer')[0].innerHTML;
-    //         //document.body.innerHTML += footerDiv;
-    //         window.print();
-    //     }
-    //
+
+        $scope.print = function () {
+            $(".WGUHeader").addClass("no-print");
+            $(".globalNav").addClass("no-print");
+            $("#suiteBar").addClass("no-print");
+            $('#printDisclaimer').show();
+            //var footerDiv = $('#s4-workspace > footer')[0].innerHTML;
+            //document.body.innerHTML += footerDiv;
+            window.print();
+        }
+
     //     $scope.calculate_difference = function () {
     //         //(program.Totals.General + program.Totals.Core + program.Totals.Fundamental + program.Totals.Additional) - program.Totals.Earned
     //         var dif = (handleNaN($scope.totalsearned.ge) + handleNaN($scope.totalsearned.core) + handleNaN($scope.totalsearned.fun) + handleNaN($scope.totalsearned.add)) - handleNaN($scope.totals.totce);
@@ -230,6 +230,6 @@
     //     }
     //
     //     init();
-    // }]);
+    }]);
 
 })(SP);

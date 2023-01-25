@@ -4,3 +4,9 @@ _satellite = {
     _runScript2: () => {},
     __registerScript: () => {},
 };
+
+_global = {};
+
+function details(courseId) {
+    console.log(courseId);
+}
