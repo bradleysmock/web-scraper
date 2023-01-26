@@ -2,45 +2,31 @@ from bs4 import BeautifulSoup
 import os
 
 substitutions = [
-(".aspx", ""),
-('?', '-'),
-('=', '-'),
-('&', '-'),
-(" ", "-"),
-("%20", "-"),
-("https://partners.wgu.edu/PublishingImages", "/images"),
-("images/female", "images/female"),
-("images/male", "images/male"),
-("images/owl", "images/owl")]
+# (".aspx", ""),
+# ('?', '-'),
+# ('=', '-'),
+# ('&', '-'),
+# (" ", "-"),
+# ("%20", "-"),
+("css.html", "css")]
 
 def processContent(name):
     with open(file, encoding="utf8") as f:
         soup = BeautifulSoup(f)
 
-        for img in soup.find_all('img', src=True): # find all anchor tags
+        for link in soup.find_all('link', href=True): # find all anchor tags
 
-            src = img['src']
-
-    # bracket this stuff with "is this the href I'm looking for"
-            if '/PublishingImages/' in src: 
-
-                for search, replacement in substitutions: # make substitutions
-                    src = src.replace(search, replacement)
-
-                img['src'] = src.lower() # update back to model
-
-    # end if block
+            href = link['href']
 
     # bracket this stuff with "is this the href I'm looking for"
-            if '/image/' in src: 
+            if '/pages/css' in href: 
 
                 for search, replacement in substitutions: # make substitutions
-                    src = src.replace(search, replacement)
+                    href = href.replace(search, replacement)
 
-                img['src'] = src.lower() # update back to model
+                link['href'] = href.lower() # update back to model
 
     # end if block
-
 
 
         modified = str(soup)
