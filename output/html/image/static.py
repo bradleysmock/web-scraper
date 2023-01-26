@@ -9,7 +9,7 @@ substitutions = [
 # (" ", "-"),
 ("%20", "-")
 # ("https://partners.wgu.edu:443", "")
-#(".css.html", ".css")
+#(".css", ".css")
 ]
 
 def processContent(name):

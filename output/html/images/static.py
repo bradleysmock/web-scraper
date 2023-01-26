@@ -8,7 +8,7 @@ substitutions = [
 # ('&', '-'),
 # (" ", "-"),
 # ("%20", "-"),
-("css.html", "css")]
+(.css", "css")]
 
 def processContent(name):
     with open(file, encoding="utf8") as f:
