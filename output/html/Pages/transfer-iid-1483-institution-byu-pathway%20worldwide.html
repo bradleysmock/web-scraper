@@ -3119,11 +3119,9 @@
                         i > 1 &&
                           toSelector(
                             // If the preceding token was a descendant combinator, insert an implicit any-element `*`
-                            tokens
-                              .slice(0, i - 1)
-                              .concat({
-                                value: tokens[i - 2].type === " " ? "*" : "",
-                              })
+                            tokens.slice(0, i - 1).concat({
+                              value: tokens[i - 2].type === " " ? "*" : "",
+                            })
                           ).replace(rtrim, "$1"),
                         matcher,
                         i < j && matcherFromTokens(tokens.slice(i, j)),
@@ -12273,7 +12271,7 @@
                           <a
                             class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode"
                             tabindex="0"
-                            href="/Pages/Transfer Guidelines.aspx"
+                            href="/Pages/transfer-guidelines.html"
                             ><span
                               class="additional-background ms-navedit-flyoutArrow"
                               ><span class="menu-item-text"
