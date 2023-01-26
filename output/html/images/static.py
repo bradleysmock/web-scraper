@@ -10,8 +10,8 @@ substitutions = [
 ("%20", "-"),
 ("https://partners.wgu.edu/PublishingImages", "/images"),
 ("images/female", "images/female"),
-("image/male", "images/male"),
-("image/owl", "images/owl")]
+("images/male", "images/male"),
+("images/owl", "images/owl")]
 
 def processContent(name):
     with open(file, encoding="utf8") as f:
