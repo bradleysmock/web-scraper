@@ -2,29 +2,35 @@ from bs4 import BeautifulSoup
 import os
 
 substitutions = [
-# (".aspx", ""),
-# ('?', '-'),
-# ('=', '-'),
-# ('&', '-'),
-# (" ", "-"),
-# ("%20", "-"),
-(.css", "css")]
+("%20", "-"),
+("%", "-"),
+("https://partners.wgu.edu/PublishingImages", "/images")]
 
 def processContent(name):
     with open(file, encoding="utf8") as f:
         soup = BeautifulSoup(f)
 
-        for link in soup.find_all('link', href=True): # find all anchor tags
+        for img in soup.find_all('img', src=True): # find all anchor tags
 
-            href = link['href']
+            src = img['src']
 
     # bracket this stuff with "is this the href I'm looking for"
-            if '/pages/css' in href: 
+            if '/PublishingImages/' in src: 
 
                 for search, replacement in substitutions: # make substitutions
-                    href = href.replace(search, replacement)
+                    src = src.replace(search, replacement)
 
-                link['href'] = href.lower() # update back to model
+                img['src'] = src.lower() # update back to model
+
+    # end if block
+
+    # bracket this stuff with "is this the href I'm looking for"
+            if '/image/' in src: 
+
+                for search, replacement in substitutions: # make substitutions
+                    src = src.replace(search, replacement)
+
+                img['src'] = src.lower() # update back to model
 
     # end if block
 
@@ -48,7 +54,6 @@ def writeNewFile(name, content):
     # with open(name + ".new", mode='w', encoding='utf-8') as of:
         of.write(content)
 
-
 for file in os.listdir("./"): # list all files in current folder
     try:
         if file.endswith(".html"): # only process .html (maybe add .aspx?)
@@ -64,3 +69,4 @@ for file in os.listdir("./"): # list all files in current folder
         raise hell
         
     
+
