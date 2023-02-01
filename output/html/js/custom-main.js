@@ -2367,6 +2367,7 @@ $(function () {
 
         const courseTitle = $(event.currentTarget).text()
             .replace(/\s{2,}/g,' ')
+            .replace(/[\n\r]+/g,' ')
             .trim();
         const courseData = popupData[courseTitle];
         const $modalBody = $('#dlgDetails .modal-body span');
