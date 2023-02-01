@@ -48,7 +48,7 @@ const popupData = {
         "units": "3",
         "description": "This is a Global Arts and Humanities course that contains three modules with corresponding lessons. This course is an invitation to see the world through the humanities, examine the humanities during the Information Age, and explore the global origins of musicâ€”essentially questioning what makes us human, and how people are connected across culture and time. Each module includes learning opportunities through readings, videos, audio, and other relevant resources."
     },
-    "World History; Divers Cultures and Global Connections ": {
+    "World History; Divers Cultures and Global Connections": {
         "name": "World History; Divers Cultures and Global Connections ",
         "code": "D266",
         "units": "3",
@@ -108,7 +108,7 @@ const popupData = {
         "units": "50",
         "description": "Each student entering the RN to BSN or RN to MSN program is awarded 50 CUs for possessing a current RN license."
     },
-    "Interprofessional Communication and Leadership in Healthcare ": {
+    "Interprofessional Communication and Leadership in Healthcare": {
         "name": "Interprofessional Communication and Leadership in Healthcare ",
         "code": "D235",
         "units": "2",
@@ -204,7 +204,7 @@ const popupData = {
         "units": "3",
         "description": "This introductory humanities course allows candidates to practice essential writing, communication, and critical thinking skills necessary to engage in civic and professional interactions as mature, informed adults. Whether through studying literature, visual and performing arts, or philosophy, all humanities courses stress the need to form reasoned, analytical, and articulate responses to cultural and creative works. Studying a wide variety of creative works allows candidates to more effectively enter the global community with a broad and enlightened perspective."
     },
-    "American Politics and the US Constitution ": {
+    "American Politics and the US Constitution": {
         "name": "American Politics and the US Constitution ",
         "code": "C963",
         "units": "3",
@@ -614,7 +614,7 @@ const popupData = {
         "units": "3",
         "description": "This introductory communication course allows candidates to become familiar with the fundamental communication theories and practices necessary to engage in healthy professional and personal relationships. Candidates will survey human communication on multiple levels and critically apply the theoretical grounding of the course to interpersonal, intercultural, small group, and public presentational contexts. The course also encourages candidates to consider the influence of language, perception, culture, and media on their daily communicative interactions. In addition to theory, candidates will engage in the application of effective communication skills through systematically preparing and delivering an oral presentation. By practicing these fundamental skills in human communication, candidates become more competent communicators as they develop more flexible, useful, and discriminatory communicative practices in a variety of contexts. Note: There are references within this video to Taskstream. If Taskstream is not part of your student experience, please disregard, and locate your task(s) within your course."
     },
-    "Applied Probability and Statistics ": {
+    "Applied Probability and Statistics": {
         "name": "Applied Probability and Statistics ",
         "code": "C955",
         "units": "3",
@@ -650,7 +650,7 @@ const popupData = {
         "units": "4",
         "description": "Principles of Management provides students with an introductory look at the discipline of management and its context within the business environment. Students of this course build on previously mastered competencies by taking a more in-depth look at management as a discipline and how it differs from leadership while further exploring the importance of communication within business. This course provides students with a business generalist overview in the areas of strategic decision-making and operational planning, managerial budgeting, change management, human capital management, staff development, and conflict management."
     },
-    "Business Environment Applications 2: Process, Logistics, and Operations ": {
+    "Business Environment Applications 2: Process, Logistics, and Operations": {
         "name": "Business Environment Applications 2: Process, Logistics, and Operations ",
         "code": "D079",
         "units": "2",
@@ -986,7 +986,7 @@ const popupData = {
         "units": "3",
         "description": "Marketing Strategy and Analytics is the capstone course for the marketing major. The course provides students with the opportunity to demonstrate competencies developed throughout the program by engaging in the design, implementation, and analysis of a marketing strategy. Students are given business scenarios using simulations and case studies to apply critical-thinking and decision-making skills. Students will analyze the business environment and make decisions about market segmentation, buyer behavior, and the marketing mix. Students will demonstrate the relationship between strategy and analytics by using marketing analytics to report marketing campaign results and make recommendations. This course provides students with real-world application to prepare them for the marketing industry."
     },
-    "Ethics in Technology ": {
+    "Ethics in Technology": {
         "name": "Ethics in Technology ",
         "code": "C961",
         "units": "3",
@@ -1027,14 +1027,14 @@ const popupData = {
     "Corporate Finance": {"name": "Corporate Finance", "code": "D362", "units": "3", "description": ""},
     "Financial Management I": {"name": "Financial Management I", "code": "D364", "units": "3", "description": ""},
     "Financial Management II": {"name": "Financial Management II", "code": "D365", "units": "3", "description": ""},
-    "Enterprise Risk Management ": {
+    "Enterprise Risk Management": {
         "name": "Enterprise Risk Management ",
         "code": "D368",
         "units": "3",
         "description": ""
     },
-    "Innovation in Finance ": {"name": "Innovation in Finance ", "code": "D367", "units": "3", "description": ""},
-    "Finance Capstone ": {"name": "Finance Capstone ", "code": "D369", "units": "3", "description": ""},
+    "Innovation in Finance": {"name": "Innovation in Finance ", "code": "D367", "units": "3", "description": ""},
+    "Finance Capstone": {"name": "Finance Capstone ", "code": "D369", "units": "3", "description": ""},
     "Introduction to Epidemiology": {
         "name": "Introduction to Epidemiology",
         "code": "D401 ",
@@ -1187,7 +1187,7 @@ const popupData = {
         "units": "3",
         "description": "This course will discuss geographic concepts, places and regions, physical and human systems, and the environment."
     },
-    "Advanced Data Management ": {
+    "Advanced Data Management": {
         "name": "Advanced Data Management ",
         "code": "D191",
         "units": "3",
@@ -1199,7 +1199,7 @@ const popupData = {
         "units": "4",
         "description": "Scripting and Programming - Applications for undergraduates explores the various aspects of the C++ programming language by examining its syntax, the development environment, and tools and techniques to solve some real-world problems."
     },
-    "Data Structures and Algorithms ": {
+    "Data Structures and Algorithms": {
         "name": "Data Structures and Algorithms ",
         "code": "C949",
         "units": "4",
@@ -1296,7 +1296,7 @@ const popupData = {
         "units": "2",
         "description": "Data Visualization covers the application of design principles, human perception, color theory, and effective storytelling in the context of data visualization. It addresses presenting data to others and advancing technology with visualization tools, enabling data scientists to share their findings and support organizational decision-making processes. Additionally, this course focuses on how to visually encode and present data to an audience."
     },
-    "Data Analytics ": {
+    "Data Analytics": {
         "name": "Data Analytics ",
         "code": "C756",
         "units": "4",
@@ -1314,7 +1314,7 @@ const popupData = {
         "units": "1",
         "description": "Version control is critical to maintaining software and enabling scalability solutions. A best practice for any programming project that requires multiple files uses version control. Version control enables teams to have collaborative workflows and enhances the software development lifecycle.â€¯ This course introduces students to the basics of publishing, retrieving, branching, and cloning.â€¯ There are no prerequisites for this course."
     },
-    "Introduction to Systems Thinking ": {
+    "Introduction to Systems Thinking": {
         "name": "Introduction to Systems Thinking ",
         "code": "D372",
         "units": "3",
@@ -1500,7 +1500,7 @@ const popupData = {
         "units": "1",
         "description": "Discrete Math-Logic is designed to help students develop competence in the use of logic and proofs and Boolean Algebra and Boolean functions. C955 Applied Probability and Statistics and C957 Applied Algebra are prerequisites for this course."
     },
-    "Discrete Math: Functions and Regluations ": {
+    "Discrete Math: Functions and Regluations": {
         "name": "Discrete Math: Functions and Regluations ",
         "code": "D421",
         "units": "1",
@@ -1623,19 +1623,19 @@ const popupData = {
         "units": "4",
         "description": ""
     },
-    "Software I â€“ C# ": {
+    "Software I â€“ C#": {
         "name": "Software I â€“ C# ",
         "code": "C968",
         "units": "6",
         "description": "Software I builds object-oriented programming expertise and introduces powerful new tools for C# application development. You will learn about and put into action class design, exception handling, and other object-oriented principles and constructs to develop software that meets business requirements. This course requires foundational knowledge of object-oriented programming. Scripting and Programming: Foundations and Scripting and Programming: Applications are prerequisites for this course."
     },
-    "Mobile Application Development Using C# ": {
+    "Mobile Application Development Using C#": {
         "name": "Mobile Application Development Using C# ",
         "code": "C971",
         "units": "3",
         "description": "Mobile Application Development Using C# introduces students to programming for mobile devices. Building on students' previous knowledge of programming in C#, this course investigates Xamarin.Forms and how it can be used to build a mobile application. This course explores a broad range of topics, including mobile user interface design and development, building applications that adapt to different mobile devices and platforms, managing data using a local database, and consuming REST-based web services. There are several prerequisites for this course: Software I, Software II, and UI Design."
     },
-    "Software II â€“ Advanced C# ": {
+    "Software II â€“ Advanced C#": {
         "name": "Software II â€“ Advanced C# ",
         "code": "C969",
         "units": "6",
@@ -2001,7 +2001,7 @@ const popupData = {
         "units": "3",
         "description": "Through a thematic approach, this course explores the history of human societies over 5,000 years. Candidates examine political and social structures, religious beliefs, economic systems, and patterns in trade, as well as many cultural attributes that came to distinguish different societies around the globe over time. Special attention is given to relationships between these societies and the way geographic and environmental factors influence human development."
     },
-    "Childrenâ€™s Literature ": {
+    "Childrenâ€™s Literature": {
         "name": "Childrenâ€™s Literature ",
         "code": "C970",
         "units": "3",
