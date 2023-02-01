@@ -49,7 +49,7 @@ const popupData = {
         "description": "This is a Global Arts and Humanities course that contains three modules with corresponding lessons. This course is an invitation to see the world through the humanities, examine the humanities during the Information Age, and explore the global origins of musicâ€”essentially questioning what makes us human, and how people are connected across culture and time. Each module includes learning opportunities through readings, videos, audio, and other relevant resources."
     },
     "World History; Divers Cultures and Global Connections": {
-        "name": "World History; Divers Cultures and Global Connections ",
+        "name": "World History; Divers Cultures and Global Connections",
         "code": "D266",
         "units": "3",
         "description": "This course will prepare you to demonstrate achievement of four competencies, which will earn you three competency units towards your degree. You will demonstrate competency through a performance assessment. There is no prerequisite for this course and no specific technical knowledge needed."
@@ -109,7 +109,7 @@ const popupData = {
         "description": "Each student entering the RN to BSN or RN to MSN program is awarded 50 CUs for possessing a current RN license."
     },
     "Interprofessional Communication and Leadership in Healthcare": {
-        "name": "Interprofessional Communication and Leadership in Healthcare ",
+        "name": "Interprofessional Communication and Leadership in Healthcare",
         "code": "D235",
         "units": "2",
         "description": "Interprofessional Communication and Leadership in Healthcare is designed to help students prepare for success in the online environment at Western Governors University and beyond. Student success starts with the social support and self-reflective awareness that will prepare them to handle the challenges of all academic programs. In this course, students will participate in group activities and complete several individual assignments. The group activities are aimed at finding support and gaining insight from other students. The assignments are intended to give the student an opportunity to reflect on where they are and where they would like to be. The activities in each group meeting are designed to give students several tools they can use to achieve success. This course is designed as a four-part intensive learning experience. Students will attend six group meetings during the term. At each meeting, students will engage in activities that will help them understand their own educational journey and find support and inspiration in the journey of others. There are no prerequisites for this course."
@@ -182,7 +182,7 @@ const popupData = {
     },
     "Leadership and Management in Complex Healthcare Systems": {
         "name": "Leadership and Management in Complex Healthcare Systems",
-        "code": "D030 ",
+        "code": "D030",
         "units": "3",
         "description": "Leadership and Management in Complex Healthcare Systems prepares graduate nurses to be thoughtful strategists and informed decision makers who serve as strong leaders in high performing healthcare systems. Students develop competencies for managing diverse teams in complex systems, monitoring and measuring organizational performance, allocating financial and human resources, and leading change towards a transformed healthcare system. Additionally, students acquire the knowledge and skills to become full partners with other healthcare professionals by demonstrating nurse contributions toward high-quality care to patients and populations, while working collaboratively with interprofessional teams."
     },
@@ -205,7 +205,7 @@ const popupData = {
         "description": "This introductory humanities course allows candidates to practice essential writing, communication, and critical thinking skills necessary to engage in civic and professional interactions as mature, informed adults. Whether through studying literature, visual and performing arts, or philosophy, all humanities courses stress the need to form reasoned, analytical, and articulate responses to cultural and creative works. Studying a wide variety of creative works allows candidates to more effectively enter the global community with a broad and enlightened perspective."
     },
     "American Politics and the US Constitution": {
-        "name": "American Politics and the US Constitution ",
+        "name": "American Politics and the US Constitution",
         "code": "C963",
         "units": "3",
         "description": "American Politics and the U.S. Constitution examines the evolution of representative government in the United States and the changing interpretations of the civil rights and civil liberties protected by the Constitution. This course will give candidates an understanding of the powers of the branches of the federal government, the continual tensions inherent in a federal system, the shifting relationship between state and federal governments, and the interactions between elected officials and the ever-changing electorate. This course will focus on such topics as the role of a free press in a democracy, the impact of changing demographics on American politics, and the debates over and expansion of civil rights. Upon completion of the course, candidates should be able to explain the basic functions of the federal government, describe the forces that shape American policy and politics, and be better prepared to participate in Americaâ€™s civic institutions. This course has no prerequisite."
@@ -518,7 +518,7 @@ const popupData = {
     },
     "Models of Care and Healthcare Trends": {
         "name": "Models of Care and Healthcare Trends",
-        "code": "D407 ",
+        "code": "D407",
         "units": "3",
         "description": ""
     },
@@ -560,13 +560,13 @@ const popupData = {
     },
     "Introduction to Gerontology": {
         "name": "Introduction to Gerontology",
-        "code": "D399 ",
+        "code": "D399",
         "units": "3",
         "description": ""
     },
     "Community and Public Health": {
         "name": "Community and Public Health",
-        "code": "D402 ",
+        "code": "D402",
         "units": "4",
         "description": ""
     },
@@ -615,7 +615,7 @@ const popupData = {
         "description": "This introductory communication course allows candidates to become familiar with the fundamental communication theories and practices necessary to engage in healthy professional and personal relationships. Candidates will survey human communication on multiple levels and critically apply the theoretical grounding of the course to interpersonal, intercultural, small group, and public presentational contexts. The course also encourages candidates to consider the influence of language, perception, culture, and media on their daily communicative interactions. In addition to theory, candidates will engage in the application of effective communication skills through systematically preparing and delivering an oral presentation. By practicing these fundamental skills in human communication, candidates become more competent communicators as they develop more flexible, useful, and discriminatory communicative practices in a variety of contexts. Note: There are references within this video to Taskstream. If Taskstream is not part of your student experience, please disregard, and locate your task(s) within your course."
     },
     "Applied Probability and Statistics": {
-        "name": "Applied Probability and Statistics ",
+        "name": "Applied Probability and Statistics",
         "code": "C955",
         "units": "3",
         "description": "Applied Probability and Statistics helps candidates develop competence in the fundamental concepts of basic statistics including introductory algebra and graphing; descriptive statistics; regression and correlation; and probability. Statistical data and probability are used in everyday life, science, business, information technology, and educational settings to make informed decisions about the validity of studies and the effect of data on decisions. This course discusses what constitutes sound research design and how to appropriately model phenomena using statistical data. Additionally, the content covers simple probability calculations based on events that occur in the business and IT industries. No prerequisites are required for this course."
@@ -651,7 +651,7 @@ const popupData = {
         "description": "Principles of Management provides students with an introductory look at the discipline of management and its context within the business environment. Students of this course build on previously mastered competencies by taking a more in-depth look at management as a discipline and how it differs from leadership while further exploring the importance of communication within business. This course provides students with a business generalist overview in the areas of strategic decision-making and operational planning, managerial budgeting, change management, human capital management, staff development, and conflict management."
     },
     "Business Environment Applications 2: Process, Logistics, and Operations": {
-        "name": "Business Environment Applications 2: Process, Logistics, and Operations ",
+        "name": "Business Environment Applications 2: Process, Logistics, and Operations",
         "code": "D079",
         "units": "2",
         "description": "Business Environment II: Logistics, Process, and Operations provides students with a generalist overview of the business environment as they explore themes of ethics, problem-solving, and innovative thinking. This course adds to the studentsâ€™ business skills and knowledge in a number of professional areas. The first part of the course uncovers a series of business processes like project and risk management. The second part gives an introductory-level look at the specialized areas of operations management, supply chains, and logistics. The course finishes with models of change management and how to use them to overcome barriers in organizations."
@@ -987,7 +987,7 @@ const popupData = {
         "description": "Marketing Strategy and Analytics is the capstone course for the marketing major. The course provides students with the opportunity to demonstrate competencies developed throughout the program by engaging in the design, implementation, and analysis of a marketing strategy. Students are given business scenarios using simulations and case studies to apply critical-thinking and decision-making skills. Students will analyze the business environment and make decisions about market segmentation, buyer behavior, and the marketing mix. Students will demonstrate the relationship between strategy and analytics by using marketing analytics to report marketing campaign results and make recommendations. This course provides students with real-world application to prepare them for the marketing industry."
     },
     "Ethics in Technology": {
-        "name": "Ethics in Technology ",
+        "name": "Ethics in Technology",
         "code": "C961",
         "units": "3",
         "description": "Ethics in Technology examines the ethical considerations of technology in each of four categories: privacy, accuracy, property, and access. The course presents a range of technologies and issues that challenge technologists in the field of information ethics. Candidates are introduced to a decision-making process as informed by ethical frameworks that outline key ethical considerations within the technologies presented. Candidates will study specific cases to help inform their professional responsibilities in how to navigate the important controversies in topics such as surveillance, social media, hacking, data manipulation, plagiarism and piracy, artificial intelligence, responsible innovation, and the digital divide. This course has no prerequisites."
@@ -1028,16 +1028,16 @@ const popupData = {
     "Financial Management I": {"name": "Financial Management I", "code": "D364", "units": "3", "description": ""},
     "Financial Management II": {"name": "Financial Management II", "code": "D365", "units": "3", "description": ""},
     "Enterprise Risk Management": {
-        "name": "Enterprise Risk Management ",
+        "name": "Enterprise Risk Management",
         "code": "D368",
         "units": "3",
         "description": ""
     },
-    "Innovation in Finance": {"name": "Innovation in Finance ", "code": "D367", "units": "3", "description": ""},
-    "Finance Capstone": {"name": "Finance Capstone ", "code": "D369", "units": "3", "description": ""},
+    "Innovation in Finance": {"name": "Innovation in Finance", "code": "D367", "units": "3", "description": ""},
+    "Finance Capstone": {"name": "Finance Capstone", "code": "D369", "units": "3", "description": ""},
     "Introduction to Epidemiology": {
         "name": "Introduction to Epidemiology",
-        "code": "D401 ",
+        "code": "D401",
         "units": "3",
         "description": ""
     },
@@ -1188,7 +1188,7 @@ const popupData = {
         "description": "This course will discuss geographic concepts, places and regions, physical and human systems, and the environment."
     },
     "Advanced Data Management": {
-        "name": "Advanced Data Management ",
+        "name": "Advanced Data Management",
         "code": "D191",
         "units": "3",
         "description": "Advanced Data Management enables organizations to extract and analyze raw data. Skillful data management allows organizations to discover and explore data in ways that uncover trends, issues, and their root causes. In turn, businesses are better equipped to capitalize on opportunities and more accurately plan for the future. As organizations continue to extract larger and more detailed volumes of data, the need is rapidly growing for IT professionals possessing data management skills. These skills include performing advanced relational data modeling as well as designing data marts, lakes, and warehouses. This course will empower software developers with the skills to build business logic at the database layer to employ more stability and higher data-processing speeds. Data analysts will gain the ability to automate common tasks to summarize and integrate data as they prepare it for analysis. Data Management is a prerequisite for this course."
@@ -1200,7 +1200,7 @@ const popupData = {
         "description": "Scripting and Programming - Applications for undergraduates explores the various aspects of the C++ programming language by examining its syntax, the development environment, and tools and techniques to solve some real-world problems."
     },
     "Data Structures and Algorithms": {
-        "name": "Data Structures and Algorithms ",
+        "name": "Data Structures and Algorithms",
         "code": "C949",
         "units": "4",
         "description": "Data Structures and Algorithms I covers the fundamentals of dynamic data structures, such as bags, lists, stacks, queues, trees, hash tables, and their associated algorithms. With Python software as the basis, the course discusses object-oriented design and abstract data types as a design paradigm. The course emphasizes problem solving and techniques for designing efficient, maintainable software applications. Students will implement simple applications using the techniques learned. This course has one prerequisite: Software 1."
@@ -1297,7 +1297,7 @@ const popupData = {
         "description": "Data Visualization covers the application of design principles, human perception, color theory, and effective storytelling in the context of data visualization. It addresses presenting data to others and advancing technology with visualization tools, enabling data scientists to share their findings and support organizational decision-making processes. Additionally, this course focuses on how to visually encode and present data to an audience."
     },
     "Data Analytics": {
-        "name": "Data Analytics ",
+        "name": "Data Analytics",
         "code": "C756",
         "units": "4",
         "description": "This course covers the most common tools, techniques, and procedures involved in data analytics. Students will review all the disciplines involved with data analytics learned in previous courses and get a better understanding of how they all relate to one another."
@@ -1315,7 +1315,7 @@ const popupData = {
         "description": "Version control is critical to maintaining software and enabling scalability solutions. A best practice for any programming project that requires multiple files uses version control. Version control enables teams to have collaborative workflows and enhances the software development lifecycle.â€¯ This course introduces students to the basics of publishing, retrieving, branching, and cloning.â€¯ There are no prerequisites for this course."
     },
     "Introduction to Systems Thinking": {
-        "name": "Introduction to Systems Thinking ",
+        "name": "Introduction to Systems Thinking",
         "code": "D372",
         "units": "3",
         "description": "Introduction to Systems Thinking will provide learners with the skills required to engage in a holistic systems-based approach to analyzing complex problems and solutions. Learners will be introduced to the foundational concepts and principles of systems thinking and will be provided opportunities to use a systems thinking approach to analyze and evaluate real-world case studies. The course will culminate with learners utilizing systems thinking to develop a solution to an authentic complex problem. This course has no prerequisites, but General Education math (C955 or C957) is preferred. "
@@ -1501,7 +1501,7 @@ const popupData = {
         "description": "Discrete Math-Logic is designed to help students develop competence in the use of logic and proofs and Boolean Algebra and Boolean functions. C955 Applied Probability and Statistics and C957 Applied Algebra are prerequisites for this course."
     },
     "Discrete Math: Functions and Regluations": {
-        "name": "Discrete Math: Functions and Regluations ",
+        "name": "Discrete Math: Functions and Regluations",
         "code": "D421",
         "units": "1",
         "description": "Discrete Math: Functions and Relations is designed to help students develop competence in the use of set theory, finite sequences, series, relations, and directed graphs. D420 Discrete Math Logic is a prerequisite for this course"
@@ -1624,19 +1624,19 @@ const popupData = {
         "description": ""
     },
     "Software I â€“ C#": {
-        "name": "Software I â€“ C# ",
+        "name": "Software I â€“ C#",
         "code": "C968",
         "units": "6",
         "description": "Software I builds object-oriented programming expertise and introduces powerful new tools for C# application development. You will learn about and put into action class design, exception handling, and other object-oriented principles and constructs to develop software that meets business requirements. This course requires foundational knowledge of object-oriented programming. Scripting and Programming: Foundations and Scripting and Programming: Applications are prerequisites for this course."
     },
     "Mobile Application Development Using C#": {
-        "name": "Mobile Application Development Using C# ",
+        "name": "Mobile Application Development Using C#",
         "code": "C971",
         "units": "3",
         "description": "Mobile Application Development Using C# introduces students to programming for mobile devices. Building on students' previous knowledge of programming in C#, this course investigates Xamarin.Forms and how it can be used to build a mobile application. This course explores a broad range of topics, including mobile user interface design and development, building applications that adapt to different mobile devices and platforms, managing data using a local database, and consuming REST-based web services. There are several prerequisites for this course: Software I, Software II, and UI Design."
     },
     "Software II â€“ Advanced C#": {
-        "name": "Software II â€“ Advanced C# ",
+        "name": "Software II â€“ Advanced C#",
         "code": "C969",
         "units": "6",
         "description": "Software II - Advanced C# refines object-oriented programming expertise and builds database and file server application development skills. You will learn about and put into action lambda expressions, collections, and input/output to develop software with C# that meets business requirements. This course requires intermediate expertise in object-oriented programming and the C# language. The prerequisite for this course is Software I - C#."
@@ -1660,20 +1660,20 @@ const popupData = {
         "description": "Educational Psychology and Development of Children and Adolescents is a key component of WGUâ€™s Professional Core and is a required course for all initial licensure candidates. This course prepares candidates to support classroom practices grounded in research-validated principles from the areas of educational psychology and child/adolescent development. Candidates will be introduced to learning theories that equip them with the knowledge and skills necessary to support the diverse populations of students with whom they will interact. This course addresses theories of human development, spanning early childhood through adolescence, and candidates completing this course will be able to explain and analyze the guiding perspectives on linguistic, physical, cognitive, and social development. This course will also cover appropriate instructional and assessment strategies to support student learning and development. Candidates will engage in four hours of virtual classroom observations related to issues in educational psychology and learner development. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Educational Foundations course."
     },
     "Fundamentals of Diverse Learners": {
-        "name": "Fundamentals of Diverse Learners ",
+        "name": "Fundamentals of Diverse Learners",
         "code": "D096",
         "units": "4",
         "description": "Fundamentals of Diverse Learners is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course prepares candidates to consider and address the wide range of learning needs in the classrooms of today. This course teaches candidates to identify and support the needs of diverse populations of learners, including, for example, students with disabilities (INCLUDING DYSLEXIA), English language learners, and gifted and talented students. Practical strategies for differentiating instruction while creating a safe, inclusive, and culturally responsive learning environment are explored. This course helps candidates develop skills for partnering with parents and advocating for all students, particularly those impacted by provisions of IDEA and Section 504 of the Rehabilitation Act. Multitiered systems of supports are addressed to prepare candidates for their future classrooms as they seek to select appropriate instructional practices and interventions to best serve their students. Candidates will engage in four hours of preclinical experiences that includes a simulated teaching experience in which skills learned can be applied. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the School as a Community of Care course."
     },
     "Managing Engaging Learning Environments": {
-        "name": "Managing Engaging Learning Environments ",
+        "name": "Managing Engaging Learning Environments",
         "code": "D095",
         "units": "3",
         "description": "Managing Engaging Learning Environments is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course prepares candidates to establish and contribute to safe and productive learning environments that support the success of all learners by ensuring student engagement and motivation for learning. Candidates will learn strategies, such as incorporating consistent routines and expectations, to provide positive behavior supports, increase learner motivation, promote active learning and self-direction, and ensure a safe and productive classroom setting that fosters a sense of community through collaborative educational practices. The course will culminate in evidence-based, practical application of current strategies, theories, or philosophical perspectives related to motivating and engaging all students in a learning community. Candidates will engage in seven hours of preclinical experiences that include both virtual observations of classroom settings and time in a simulated classroom environment where theory can be put into practice. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Fundamentals of Diverse Learners course."
     },
     "Assessing Impact on Student Learning": {
-        "name": "Assessing Impact on Student Learning ",
-        "code": "D093 ",
+        "name": "Assessing Impact on Student Learning",
+        "code": "D093",
         "units": "3",
         "description": "Assessing Impact on Student Learning is a key component of WGU's Professional Core and is a required cAssessing Impact on Student Learning is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course equips candidates to evaluate student learning and their own professional practice, ensuring candidates are prepared to ensure all learners' success. In this course, candidates learn multiple methods of assessment to ensure they are able to implement a balanced approach to assessment while monitoring their studentsâ€™ progress. Assessments types such as formative, summative, standardized, and common assessments are addressed so candidates understand their purposes and can apply them within the context of a lesson to determine impact on learning. Data literacy skills are taught to ensure candidates interpret and analyze individual and classroom data and apply their knowledge in ways that support academic success. Candidates will engage in three hours of preclinical experiences that include virtual classroom observations. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Introduction to Curriculum, Instruction, and Assessmentâ€¯course."
     },
@@ -2002,7 +2002,7 @@ const popupData = {
         "description": "Through a thematic approach, this course explores the history of human societies over 5,000 years. Candidates examine political and social structures, religious beliefs, economic systems, and patterns in trade, as well as many cultural attributes that came to distinguish different societies around the globe over time. Special attention is given to relationships between these societies and the way geographic and environmental factors influence human development."
     },
     "Childrenâ€™s Literature": {
-        "name": "Childrenâ€™s Literature ",
+        "name": "Childrenâ€™s Literature",
         "code": "C970",
         "units": "3",
         "description": "Children's Literature is an introduction to and exploration of children's literature. Students will consider and analyze children's literature as a lens through which to view the world. Students will experience multiple genres, historical perspectives, cultural representations, and current applications in the field of children's literature. This course is designed to be taken after successful completion of Introduction to Curriculum, Instruction, and Assessmentâ€¯OR Introduction to Instructional Planning and Presentation AND Instructional Planning and Presentation in Elementary or Special Education."
