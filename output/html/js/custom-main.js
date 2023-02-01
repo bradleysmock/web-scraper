@@ -2354,7 +2354,20 @@ const popupData = {
         "code": "C991",
         "units": "4",
         "description": "The capstone is a student-designed project intended to illustrate the studentâ€™s ability to effect change in the industry and demonstrate competence in all five program outcomes: transformational leader, value innovator, tactical manager, analyst, and integrated systems expert. Students are required to collaborate with leaders in the healthcare industry to identify opportunities for improvement in healthcare, propose a solution, and perform a business analysis to evaluate its feasibility. In addition, the capstone encourages work in the healthcare industry that will be showcased in the studentâ€™s collection of work and help solidify professional relationships in the industry. This course has no prerequisites."
-    }
+    },
+    "Fundamentals of Diverse Learners": {
+        "name": "Fundamentals of Diverse Learners",
+        "code": "D096",
+        "units": "4",
+        "description": "Fundamentals of Diverse Learners is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course prepares candidates to consider and address the wide range of learning needs in the classrooms of today. This course teaches candidates to identify and support the needs of diverse populations of learners, including, for example, students with disabilities (INCLUDING DYSLEXIA), English language learners, and gifted and talented students. Practical strategies for differentiating instruction while creating a safe, inclusive, and culturally responsive learning environment are explored. This course helps candidates develop skills for partnering with parents and advocating for all students, particularly those impacted by provisions of IDEA and Section 504 of the Rehabilitation Act. Multitiered systems of supports are addressed to prepare candidates for their future classrooms as they seek to select appropriate instructional practices and interventions to best serve their students. Candidates will engage in four hours of preclinical experiences that includes a simulated teaching experience in which skills learned can be applied. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the School as a Community of Care course."
+    },
+    "Assessing Impact on Student Learning": {
+        "name": "Assessing Impact on Student Learning",
+        "code": "D093",
+        "units": "3",
+        "description": "Assessing Impact on Student Learning is a key component of WGU's Professional Core and is a required cAssessing Impact on Student Learning is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course equips candidates to evaluate student learning and their own professional practice, ensuring candidates are prepared to ensure all learners' success. In this course, candidates learn multiple methods of assessment to ensure they are able to implement a balanced approach to assessment while monitoring their students’ progress. Assessments types such as formative, summative, standardized, and common assessments are addressed so candidates understand their purposes and can apply them within the context of a lesson to determine impact on learning. Data literacy skills are taught to ensure candidates interpret and analyze individual and classroom data and apply their knowledge in ways that support academic success. Candidates will engage in three hours of preclinical experiences that include virtual classroom observations. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Introduction to Curriculum, Instruction, and Assessment course."
+    },
+
 };
 
 $(function () {
