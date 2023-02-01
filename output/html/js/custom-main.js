@@ -2365,7 +2365,7 @@ $(function () {
     function details(event) {
         event.preventDefault();
 
-        const courseTitle = $(event.currentTarget).text();
+        const courseTitle = $(event.currentTarget).text().trim();
         const courseData = popupData[courseTitle];
         const $modalBody = $('#dlgDetails .modal-body span');
 
