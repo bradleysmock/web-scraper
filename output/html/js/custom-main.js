@@ -48,8 +48,8 @@ const popupData = {
         "units": "3",
         "description": "This is a Global Arts and Humanities course that contains three modules with corresponding lessons. This course is an invitation to see the world through the humanities, examine the humanities during the Information Age, and explore the global origins of musicâ€”essentially questioning what makes us human, and how people are connected across culture and time. Each module includes learning opportunities through readings, videos, audio, and other relevant resources."
     },
-    "World History; Divers Cultures and Global Connections": {
-        "name": "World History; Divers Cultures and Global Connections",
+    "World History; Diverse Cultures and Global Connections": {
+        "name": "World History; Diverse Cultures and Global Connections",
         "code": "D266",
         "units": "3",
         "description": "This course will prepare you to demonstrate achievement of four competencies, which will earn you three competency units towards your degree. You will demonstrate competency through a performance assessment. There is no prerequisite for this course and no specific technical knowledge needed."
@@ -2354,8 +2354,55 @@ const popupData = {
         "code": "C991",
         "units": "4",
         "description": "The capstone is a student-designed project intended to illustrate the studentâ€™s ability to effect change in the industry and demonstrate competence in all five program outcomes: transformational leader, value innovator, tactical manager, analyst, and integrated systems expert. Students are required to collaborate with leaders in the healthcare industry to identify opportunities for improvement in healthcare, propose a solution, and perform a business analysis to evaluate its feasibility. In addition, the capstone encourages work in the healthcare industry that will be showcased in the studentâ€™s collection of work and help solidify professional relationships in the industry. This course has no prerequisites."
+    },
+    "Behavioral Support Strategies for K-12 Learners with Mild to Moderate Exceptionalities": {
+        "name": "Behavioral Support Strategies for K-12 Learners with Mild to Moderate Exceptionalities",
+        "code": "D001",
+        "units": "4",
+        "description": "Behavioral Support Strategies for K–12 Learners with Mild to Moderate Exceptionalities prepares candidates to work effectively with students exhibiting behavior in the classroom that is below age norms and cultural norms. This course provides an overview of behavior disorders and their causes, and appropriate research-based intervention strategies, including positive behavior intervention and supports, multitiered systems of support (MTSS), applied behavior analysis, replacement behavior and reward strategies, culturally responsive practices, and data collection and assessment methods. Candidates emerge prepared to strategize and recommend adjustments to the learning environment that support positive behavior and student success in the classroom and beyond. This course also examines behavioral assessment and analysis, including the creation of functional behavior assessment (FBA) and the creation and monitoring of behavioral improvement plans (BIP) in an authentic learning environment. This course is designed to be taken by candidates after they have completed the following courses: C847: Fundamentals of Diversity, Inclusion, and Exceptional Learners; D002: Professional, Ethical, and Legal Practices for Special Education; and C572: Classroom Management, Engagement, and Motivation."
+    },
+    "Considerations for Instructional Planning for Learners with Mild to Moderate Exceptionalities": {
+        "name": "Considerations for Instructional Planning for Learners with Mild to Moderate Exceptionalities",
+        "code": "D005",
+        "units": "3",
+        "description": "Considerations for Instructional Planning for Learners with Mild to Moderate Exceptionalities introduces candidates to a repertoire of evidence-based instructional strategies to advance the learning of students with exceptionalities. The course focuses specifically on strategies for intensifying and individualizing instructional interventions; making instructional decisions based on progress-monitoring data; collaborating with general education teachers and paraeducators; teaching to mastery; promoting generalization of learning; and teaching students with exceptionalities how to use self-assessment, problem solving, and other cognitive strategies to organize critical content and meet their needs. This course is designed to be taken by candidates after they have completed NHC1: Introduction to Instructional Planning and Presentation and D011: Instructional Planning and Presentation in Special Education."
+    },
+    "Instructional Strategies and Technologies for Elementary Learners with Mild to Moderate Exceptionalities": {
+        "name": "Instructional Strategies and Technologies for Elementary Learners with Mild to Moderate Exceptionalities",
+        "code": "D006",
+        "units": "2",
+        "description": "Instructional Strategies and Technologies for Elementary Learners with Mild to Moderate Exceptionalities prepares candidates to use evidence-based instructional practices appropriate for elementary students receiving special education services. The course includes cognitive and metacognitive strategies that elementary students can use to acquire new content knowledge and generalize skills across learning environments. It also provides opportunities for candidates to incorporate intensive instructional strategies and practice making accommodations to elementary math and English language arts lesson plans based on learner characteristics, performance data, and Individualized Education Program (IEP) goals. In addition to discussing how to make appropriate accommodations, the course teaches candidates how to assess student learning through progress monitoring and apply intensive interventions when warranted. This course is designed to be taken by candidates after they have completed D005: Considerations for Instructional Planning for Learners with Mild to Moderate Exceptionalities."
+    },
+    "Instructional Strategies and Technologies for Secondary Learners with Mild to Moderate Exceptionalities": {
+        "name": "Instructional Strategies and Technologies for Secondary Learners with Mild to Moderate Exceptionalities",
+        "code": "D007",
+        "units": "2",
+        "description": "Instructional Strategies and Technologies for Secondary Learners with Mild to Moderate Exceptionalities prepares candidates to use evidence-based instructional practices appropriate for use with secondary students receiving special education services. Strategies taught in this course focus on intensive instruction and making accommodations to secondary lesson plans in order to develop critical thinking and problem-solving skills to enhance acquisition of age-appropriate secondary content across academic disciplines. This course also promotes the achievement of Individualized Education Program (IEP) and transition goals for independent living and career preparation through demonstration of strategies that increase students' self-awareness, self-regulation, self-management, self-control, and self-esteem. This course is designed to be taken by candidates after they have completed D005: Considerations for Instructional Planning for Learners with Mild to Moderate Exceptionalities."
+    },
+    "Supervised Demonstration Teaching in Elementary and Special Education, Obs 1 and 2": {
+        "name": "Supervised Demonstration Teaching in Elementary and Special Education, Obs 1 and 2",
+        "code": "C311",
+        "units": "3",
+        "description": "Supervised Demonstration Teaching in Elementary and Special Education involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate’s skills."
+    },
+    "Supervised Demonstration Teaching in Elementary and Special Education, Obs 3 and Midterm": {
+        "name": "Supervised Demonstration Teaching in Elementary and Special Education, Obs 3 and Midterm",
+        "code": "C312",
+        "units": "3",
+        "description": "Supervised Demonstration Teaching in Elementary and Special Education involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate’s skills."
+    },
+    "Supervised Demonstration Teaching in Elementary and Special Education, Obs 4 and 5": {
+        "name": "Supervised Demonstration Teaching in Elementary and Special Education, Obs 4 and 5",
+        "code": "C313",
+        "units": "3",
+        "description": "Supervised Demonstration Teaching in Elementary and Special Education involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate’s skills."
+    },
+    "Supervised Demonstration Teaching in Elementary and Special Education, Obs 6 and Final": {
+        "name": "Supervised Demonstration Teaching in Elementary and Special Education, Obs 6 and Final",
+        "code": "C314",
+        "units": "3",
+        "description": "Supervised Demonstration Teaching in Elementary and Special Education involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate’s skills."
     }
-
 };
 
 $(function () {
