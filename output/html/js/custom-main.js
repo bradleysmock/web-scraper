@@ -46,7 +46,7 @@ const popupData = {
         "name": "Global Arts and Humanities",
         "code": "D198",
         "units": "3",
-        "description": "This is a Global Arts and Humanities course that contains three modules with corresponding lessons. This course is an invitation to see the world through the humanities, examine the humanities during the Information Age, and explore the global origins of musicâ€”essentially questioning what makes us human, and how people are connected across culture and time. Each module includes learning opportunities through readings, videos, audio, and other relevant resources."
+        "description": "This is a Global Arts and Humanities course that contains three modules with corresponding lessons. This course is an invitation to see the world through the humanities, examine the humanities during the Information Age, and explore the global origins of music essentially questioning what makes us human, and how people are connected across culture and time. Each module includes learning opportunities through readings, videos, audio, and other relevant resources."
     },
     "World History; Diverse Cultures and Global Connections": {
         "name": "World History; Diverse Cultures and Global Connections",
@@ -76,19 +76,19 @@ const popupData = {
         "name": "Anatomy and Physiology I with Lab",
         "code": "D312",
         "units": "4",
-        "description": "This is Anatomy and Physiology I, a six-section, 4 CU course that enables students to develop an understanding of the relationships between the structures and function of the integumentary, skeletal, muscular, nervous and endocrine systems in the human body. This course will involve laboratory activities, simulated dissections, textbook material, models, and diagrams. Because the course is self-paced, you may move through the material as quickly or as slowly as you need to, with the goal of demonstrating proficiency in the four competencies covered in the final assessment. If you have no prior knowledge of this material, you can expect to spend 40â€“60 hours on the course content."
+        "description": "This is Anatomy and Physiology I, a six-section, 4 CU course that enables students to develop an understanding of the relationships between the structures and function of the integumentary, skeletal, muscular, nervous and endocrine systems in the human body. This course will involve laboratory activities, simulated dissections, textbook material, models, and diagrams. Because the course is self-paced, you may move through the material as quickly or as slowly as you need to, with the goal of demonstrating proficiency in the four competencies covered in the final assessment. If you have no prior knowledge of this material, you can expect to spend 40-60 hours on the course content."
     },
     "Anatomy and Physiology II with Lab": {
         "name": "Anatomy and Physiology II with Lab",
         "code": "D313",
         "units": "4",
-        "description": "This is Anatomy and Physiology II, a six section, four CEU course that enables students to develop an understanding of the relationships between the structures and functions of the cardiovascular, respiratory, digestive, urinary, reproductive, and lymphatic systems in the human body. This course will involve laboratory activities, simulated dissections, textbook material, models, and diagrams. Because the course is self-paced, you may move through the material as quickly or as slowly as you need to, with the goal of demonstrating proficiency in the four competencies covered in the final assessment. If you have no prior knowledge of this material, you can expect to spend 40â€“60 hours on the course content."
+        "description": "This is Anatomy and Physiology II, a six section, four CEU course that enables students to develop an understanding of the relationships between the structures and functions of the cardiovascular, respiratory, digestive, urinary, reproductive, and lymphatic systems in the human body. This course will involve laboratory activities, simulated dissections, textbook material, models, and diagrams. Because the course is self-paced, you may move through the material as quickly or as slowly as you need to, with the goal of demonstrating proficiency in the four competencies covered in the final assessment. If you have no prior knowledge of this material, you can expect to spend 40-60 hours on the course content."
     },
     "Microbiology with Lab: A Fundamental Approach": {
         "name": "Microbiology with Lab: A Fundamental Approach",
         "code": "D311",
         "units": "4",
-        "description": "Microbiology with Lab: A Fundamental Approach explores the science that microorganisms are everywhere, and they have positive and negative effects on the community. The course examines the structure and function of microorganisms, disease transmission and progression, and immune responses and other interventions, and it identifies key global diseases. The course consists of an introduction and four major sections. Each section includes learning opportunities through readings, videos, and other relevant resources. Assessment activities with feedback also provide opportunities for students to check their learning, practice, and show how well they understand course content. To assist students in developing an applied, evidence-based understanding of microbiology, this course integrates several lab experiments to help determine the specific characteristic of an unknown microbial sample and a treatment plan. Because the course is self-paced, students may move through the material as quickly or as slowly as needed to gain proficiency in the four competencies that will be covered in the final assessment. Students who have no prior knowledge of or experience with this topic can expect to spend 48â€“60 hours on the course content. There are no prerequisites for this course."
+        "description": "Microbiology with Lab: A Fundamental Approach explores the science that microorganisms are everywhere, and they have positive and negative effects on the community. The course examines the structure and function of microorganisms, disease transmission and progression, and immune responses and other interventions, and it identifies key global diseases. The course consists of an introduction and four major sections. Each section includes learning opportunities through readings, videos, and other relevant resources. Assessment activities with feedback also provide opportunities for students to check their learning, practice, and show how well they understand course content. To assist students in developing an applied, evidence-based understanding of microbiology, this course integrates several lab experiments to help determine the specific characteristic of an unknown microbial sample and a treatment plan. Because the course is self-paced, students may move through the material as quickly or as slowly as needed to gain proficiency in the four competencies that will be covered in the final assessment. Students who have no prior knowledge of or experience with this topic can expect to spend 48-60 hours on the course content. There are no prerequisites for this course."
     },
     "Pathophysiology": {
         "name": "Pathophysiology",
@@ -142,7 +142,7 @@ const popupData = {
         "name": "Comprehensive Health Assessment",
         "code": "D222",
         "units": "3",
-        "description": "Comprehensive Health Assessment builds upon studentsâ€™ existing knowledge of nursing assessment. The course presents current and innovative assessment techniques of the physical, mental, emotional, and spiritual well-being of patients. Use of assessment data and shared decision-making are discussed throughout the course. This course also outlines the concepts of a head-to-toe assessment, providing students with an understanding of how to critically think about the different aspects of the assessment and analyze patient cues to determine the implications of findings. Students will also analyze lifestyle and cultural implications of health. All prior courses in the sequence for this program serve as prerequisites for this course."
+        "description": "Comprehensive Health Assessment builds upon students' existing knowledge of nursing assessment. The course presents current and innovative assessment techniques of the physical, mental, emotional, and spiritual well-being of patients. Use of assessment data and shared decision-making are discussed throughout the course. This course also outlines the concepts of a head-to-toe assessment, providing students with an understanding of how to critically think about the different aspects of the assessment and analyze patient cues to determine the implications of findings. Students will also analyze lifestyle and cultural implications of health. All prior courses in the sequence for this program serve as prerequisites for this course."
     },
     "Healthcare Policy and Economics": {
         "name": "Healthcare Policy and Economics",
@@ -208,7 +208,7 @@ const popupData = {
         "name": "American Politics and the US Constitution",
         "code": "C963",
         "units": "3",
-        "description": "American Politics and the U.S. Constitution examines the evolution of representative government in the United States and the changing interpretations of the civil rights and civil liberties protected by the Constitution. This course will give candidates an understanding of the powers of the branches of the federal government, the continual tensions inherent in a federal system, the shifting relationship between state and federal governments, and the interactions between elected officials and the ever-changing electorate. This course will focus on such topics as the role of a free press in a democracy, the impact of changing demographics on American politics, and the debates over and expansion of civil rights. Upon completion of the course, candidates should be able to explain the basic functions of the federal government, describe the forces that shape American policy and politics, and be better prepared to participate in Americaâ€™s civic institutions. This course has no prerequisite."
+        "description": "American Politics and the U.S. Constitution examines the evolution of representative government in the United States and the changing interpretations of the civil rights and civil liberties protected by the Constitution. This course will give candidates an understanding of the powers of the branches of the federal government, the continual tensions inherent in a federal system, the shifting relationship between state and federal governments, and the interactions between elected officials and the ever-changing electorate. This course will focus on such topics as the role of a free press in a democracy, the impact of changing demographics on American politics, and the debates over and expansion of civil rights. Upon completion of the course, candidates should be able to explain the basic functions of the federal government, describe the forces that shape American policy and politics, and be better prepared to participate in America's civic institutions. This course has no prerequisite."
     },
     "Applied Algebra": {
         "name": "Applied Algebra",
@@ -250,7 +250,7 @@ const popupData = {
         "name": "Introduction to Pharmacology",
         "code": "D398",
         "units": "3",
-        "description": ""
+        "description": "Introduction to Pharmacology will introduce learners to medication and supplement regulations and safety protocols. It provides an overview of the use, benefits, effects, and contraindications of commonly used drugs to treat conditions of the cardiovascular, respiratory, endocrine, nervous, and renal body systems. It also explores the types of anti-infective, antineoplastic, psychotropic drugs, and dietary supplements and their effects on the body."
     },
     "Professional Practice Experience I: Technical": {
         "name": "Professional Practice Experience I: Technical",
@@ -424,13 +424,13 @@ const popupData = {
         "name": "Introduction to Care Coordination",
         "code": "D046",
         "units": "3",
-        "description": "Introduction to Care Coordination explores the importance of understanding a patientâ€™s illness, patientâ€™s needs, and care of the patient as it relates to cultural and ethical norms. This course explores role development as a care coordinator, teaches understanding of the patientâ€™s health goals in alignment with activities of daily living, and explores the influences of an interdisciplinary approach to care and how a team approach facilitates a patientâ€™s desired outcome. This course investigates the importance of a patient- and family-centered care approach as it relates to a desired health outcome. There are no prerequisites for this course."
+        "description": "Introduction to Care Coordination explores the importance of understanding a patient's illness, patient's needs, and care of the patient as it relates to cultural and ethical norms. This course explores role development as a care coordinator, teaches understanding of the patient's health goals in alignment with activities of daily living, and explores the influences of an interdisciplinary approach to care and how a team approach facilitates a patient's desired outcome. This course investigates the importance of a patient- and family-centered care approach as it relates to a desired health outcome. There are no prerequisites for this course."
     },
     "Roles and Responsibilities in an Interdisciplinary Team": {
         "name": "Roles and Responsibilities in an Interdisciplinary Team",
         "code": "D047",
         "units": "3",
-        "description": "Roles and Responsibilities in an Interdisciplinary Team helps students understand their role as an interdisciplinary team member. This course explores attributes of an effective team and challenges traditional professional boundaries in assembling an interdisciplinary team. The course also requires students to analyze the relationship of an individualâ€™s expertise, knowledge, and skill base with the impact on care coordination and patient outcomes. There are no prerequisites for this course."
+        "description": "Roles and Responsibilities in an Interdisciplinary Team helps students understand their role as an interdisciplinary team member. This course explores attributes of an effective team and challenges traditional professional boundaries in assembling an interdisciplinary team. The course also requires students to analyze the relationship of an individual's expertise, knowledge, and skill base with the impact on care coordination and patient outcomes. There are no prerequisites for this course."
     },
     "Critical Thinking and Strategic Decision Making": {
         "name": "Critical Thinking and Strategic Decision Making",
@@ -448,7 +448,7 @@ const popupData = {
         "name": "Care for Individuals and Families",
         "code": "D394",
         "units": "3",
-        "description": ""
+        "description": "Care for Individuals and Families focuses on the holistic care of individuals, families, and populations with multifaceted healthcare needs. This course improves critical thinking and interdisciplinary communication skills to provide information to individuals or groups in a variety of settings. The focus of the course is on managing the transition of an individual, family, or group through a variety of healthcare settings, which can include acute care hospitals, extended stay facilities, ambulatory care clinics, home care, outreach, or wellness. This course helps students develop effective professional communication skills and appropriate behaviors to ensure an individual, family, or group is successful in meeting its healthcare goals. There are no prerequisites for this course."
     },
     "Navigating Care Across the Continuum": {
         "name": "Navigating Care Across the Continuum",
@@ -466,7 +466,7 @@ const popupData = {
         "name": "History of Healthcare in America",
         "code": "D393",
         "units": "3",
-        "description": ""
+        "description": "History of Healthcare in America will examine individuals such as Henrietta Lacks, Elizabeth Stern, Rita Levi-Montalcini, Bennet Omalu, Gertrude B. Elion, and J. Robin Warren who contributed to the development of healthcare in the United States, from its inception to present day. This course examines how specific individuals and their scientific contributions influenced healthcare delivery and the continued evolution of healthcare, teaching from a systems or a value-based care perspective. The course also focuses on the way healthcare interacted with culture, politics, and society throughout U.S. history and how the evolution of healthcare may not have been possible without these individuals and others. There are no prerequisites for this course."
     },
     "Cultural Awareness for the Healthcare Professional": {
         "name": "Cultural Awareness for the Healthcare Professional",
@@ -484,19 +484,19 @@ const popupData = {
         "name": "Care at the End of Life",
         "code": "D056",
         "units": "3",
-        "description": "Care at the End of Life focuses on examining strategies for coping with dying and bereavement within the context of individual and cultural variations. This course will explore ethnic and cultural factors that affect an individualâ€™s response to loss. This course will cover planning and implementing ideal interventions to help individuals, families, and groups cope with loss and grief. This course will also analyze the influences of the life cycle on an individual's reaction to death. There are no prerequisites for this course."
+        "description": "Care at the End of Life focuses on examining strategies for coping with dying and bereavement within the context of individual and cultural variations. This course will explore ethnic and cultural factors that affect an individual's response to loss. This course will cover planning and implementing ideal interventions to help individuals, families, and groups cope with loss and grief. This course will also analyze the influences of the life cycle on an individual's reaction to death. There are no prerequisites for this course."
     },
     "Health Equity and Social Determinants of Health": {
         "name": "Health Equity and Social Determinants of Health",
         "code": "D397",
         "units": "3",
-        "description": ""
+        "description": "Health Equity and Social Determinants of Health introduces students to the concept of health equity and social determinants of health. This course analyses gaps in the delivery of healthcare related to race, ethnicity, social class, gender, nationality, and migration status.This course helps students gain an understanding of health disparities and interventions that promote health equity by overcoming social barriers.There are no prerequisites for this course."
     },
     "Health Literacy for the Client and Family": {
         "name": "Health Literacy for the Client and Family",
         "code": "D406",
         "units": "3",
-        "description": ""
+        "description": "Health Literacy for the Client and Family helps students recognize the importance of health literacy in overcoming healthcare barriers and creating patient-focused changes through family and patient empowerment. This course demonstrates how education, research, and technology all integrate and serve as a foundation for students as they create effective resources to improve health literacy for patients and families. This course helps students become advocates for their patients and their patients’ families. There are no prerequisites for this course."
     },
     "Healthcare Values and Ethics": {
         "name": "Healthcare Values and Ethics",
@@ -508,7 +508,7 @@ const popupData = {
         "name": "Community Relations and Leadership",
         "code": "D408",
         "units": "3",
-        "description": ""
+        "description": "Community Relations and Leadership focuses on leadership principles and how to apply them in real-world contexts. The course prepares students to analyze community needs and create change through community engagement. As leaders, the students' job is to engage in collaborative approaches with an understanding that the overarching goal is sustained success. This course helps students develop their abilities to negotiate challenges, make decisions, and act to bring stakeholders together to create transformation within communities. There are no prerequisites for this course."
     },
     "Health Services Coordination Field Experience": {
         "name": "Health Services Coordination Field Experience",
@@ -520,7 +520,7 @@ const popupData = {
         "name": "Models of Care and Healthcare Trends",
         "code": "D407",
         "units": "3",
-        "description": ""
+        "description": "Models of Care and Healthcare Trends examines the unique characteristics of healthcare models in the United States. The course explores the evolution of healthcare models from fragmented systems to cohesive, quality-centric, and patient-focused systems. The focus of the course is on emerging trends created by social and political drivers and subsequent shifts in the continuum of care as it relates to patient outcomes. This course has no prerequisites."
     },
     "Health Services Coordination Capstone": {
         "name": "Health Services Coordination Capstone",
@@ -532,7 +532,7 @@ const popupData = {
         "name": "Health, Fitness and Wellness",
         "code": "C458",
         "units": "4",
-        "description": "Health, Fitness, and Wellness focuses on the importance and foundations of good health and physical fitnessâ€”particularly for children and adolescentsâ€”addressing health, nutrition, fitness, and substance use and abuse."
+        "description": "Health, Fitness, and Wellness focuses on the importance and foundations of good health and physical fitness particularly for children and adolescents addressing health, nutrition, fitness, and substance use and abuse."
     },
     "Fundamentals of Anatomy and Physiology": {
         "name": "Fundamentals of Anatomy and Physiology",
@@ -544,63 +544,62 @@ const popupData = {
         "name": "Introduction to Systems Thinking for Health Professional",
         "code": "D458",
         "units": "3",
-        "description": ""
+        "description": "Introduction to Systems Thinking for Health Professionals provides learners with the skills required to engage in a holistic systems-based approach to analyzing complex problems and solutions. This course introduces the foundational concepts and principles of systems thinking and provides opportunities to use a systems thinking approach to analyze and evaluate real-world case studies. The course will culminate with using systems thinking to develop a solution to an authentic complex problem. This course has no prerequisites, but general education math (C955 or C957) is preferred. Because the course is self-paced, learners may move through the material as quickly or as slowly as needed, with the goal of demonstrating proficiency in the five competencies covered in the final assessment. If learners have no prior knowledge of this material, they can expect to spend 30 to 40 hours on the course content."
     },
     "Introduction to Health and Human Services": {
         "name": "Introduction to Health and Human Services",
         "code": "D390",
         "units": "3",
-        "description": "Introduction to Health and Human Services explores representative roles and responsibilities of health and human service professionals and key governmental entities involved in Health and Human Services delivery. The course also examines the importance of understanding clientsâ€™ illnesses and disabilities, building trust with clients, and engagement models that promote client outcomes. There are no prerequisites for this course."
+        "description": "Introduction to Health and Human Services explores representative roles and responsibilities of health and human service professionals and key governmental entities involved in Health and Human Services delivery. The course also examines the importance of understanding clients' illnesses and disabilities, building trust with clients, and engagement models that promote client outcomes. There are no prerequisites for this course."
     },
     "Interdisciplinary Team Dynamics": {
         "name": "Interdisciplinary Team Dynamics",
         "code": "D392",
         "units": "3",
-        "description": ""
+        "description": "Interdisciplinary Team Dynamics explores interpersonal communication strategies, collaborative team interactions methods, and problem-solving techniques to promote effective communication and improve quality client outcomes in a team environment. There are no prerequisites for this course."
     },
     "Introduction to Gerontology": {
         "name": "Introduction to Gerontology",
         "code": "D399",
         "units": "3",
-        "description": ""
+        "description": "Introduction to Gerontology will introduce learners to health issues that are typically associated with the older adult population so they can become familiar with health challenges this population may face. The learners will gain an understanding of the effects that policy and legislation have on the older adult population. Emphasis is placed on the importance of maintaining the dignity of older adults by focusing on cultural and communication needs, and by collaborating on care with older adults, families, and caregivers. There are no prerequisites for this course."
     },
     "Community and Public Health": {
         "name": "Community and Public Health",
         "code": "D402",
         "units": "4",
-        "description": ""
+        "description": "Community and Public Health provides learners with an understanding of the benefits community health offers individuals and families. The course also will identify barriers that will impact health and healthcare access, leading to improved community health. There are no prerequisites for this course."
     },
     "Learning Strategies in Higher Education": {
         "name": "Learning Strategies in Higher Education",
         "code": "D389",
         "units": "4",
-        "description": ""
+        "description": "Learning Strategies in Higher Education provides students with a toolbox of skills that will support student academic growth as they advance in their academic journey. Students will be introduced to the WGU Library; how to use it and best practices for research strategies. Students will learn how to be professional in written communication and how to correctly use current APA format. In this course, students also will learn about setting goals, time-management, study strategies, making and keeping appointments, professional decorum, and test-taking skills. Learning these skills, strategies, and methods will establish an academic foundation for students to be successful in higher education. There are no prerequisites for this course."
     },
-    "Cultural Awareness": {"name": "Cultural Awareness", "code": "D395", "units": "3", "description": ""},
     "Evidenced-Based Practice for Health and Human Services": {
         "name": "Evidenced-Based Practice for Health and Human Services",
         "code": "D396",
         "units": "3",
-        "description": ""
+        "description": "Evidence-Based Practice for Health and Human Services prepares the learner to apply evidence-based practice (EBP) to inform healthcare recommendations in out-patient, organizational, and other public health settings. Learners will be introduced to an EBP framework to guide them through the steps of EBP using real world scenarios. There are no prerequisites for this course."
     },
-    "End of Life Care": {"name": "End of Life Care", "code": "D400", "units": "3", "description": ""},
+    "End of Life Care": {"name": "End of Life Care", "code": "D400", "units": "3", "description": "End of Life Care focuses on the Connected Care model as it applies to the final stage of life. This course will explore ethnic and cultural factors that affect an individual’s response to death and dying. This course will cover planning and implementing ideal interventions to help individuals, families, and groups cope and agree on a common care goal. This course will also discuss empathy and compassion in healthcare. There are no prerequisites for this course."},
     "Understanding Substance Abuse and Addiction": {
         "name": "Understanding Substance Abuse and Addiction",
         "code": "D403",
         "units": "3",
-        "description": ""
+        "description": "Community Relations and Leadership focuses on analyzing community health and human services’ needs to create change. As emerging leaders, students will learn to engage in collaborative approaches with various stakeholders to achieve positive outcomes. This course helps students develop their abilities to interpret community health needs assessments, make decisions, and bring stakeholders together to advance access to health and human services.This course has no prerequisites."
     },
     "Health and Human Services Professional Field Experience": {
         "name": "Health and Human Services Professional Field Experience",
         "code": "D409",
         "units": "3",
-        "description": ""
+        "description": "Community Relations and Leadership focuses on analyzing community health and human services’ needs to create change. As emerging leaders, students will learn to engage in collaborative approaches with various stakeholders to achieve positive outcomes. This course helps students develop their abilities to interpret community health needs assessments, make decisions, and bring stakeholders together to advance access to health and human services.This course has no prerequisites."
     },
     "Health & Human Services Professional Capstone": {
         "name": "Health & Human Services Professional Capstone",
         "code": "D410",
         "units": "3",
-        "description": ""
+        "description": "Health Services Professional Capstone will provide learners the opportunity to demonstrate their ability to communicate in a professional manner that supports high quality, safe client services. Learners will also engage in career and professional development within the health and human services industry."
     },
     "English Composition II": {
         "name": "English Composition II",
@@ -654,7 +653,7 @@ const popupData = {
         "name": "Business Environment Applications 2: Process, Logistics, and Operations",
         "code": "D079",
         "units": "2",
-        "description": "Business Environment II: Logistics, Process, and Operations provides students with a generalist overview of the business environment as they explore themes of ethics, problem-solving, and innovative thinking. This course adds to the studentsâ€™ business skills and knowledge in a number of professional areas. The first part of the course uncovers a series of business processes like project and risk management. The second part gives an introductory-level look at the specialized areas of operations management, supply chains, and logistics. The course finishes with models of change management and how to use them to overcome barriers in organizations."
+        "description": "Business Environment II: Logistics, Process, and Operations provides students with a generalist overview of the business environment as they explore themes of ethics, problem-solving, and innovative thinking. This course adds to the students' business skills and knowledge in a number of professional areas. The first part of the course uncovers a series of business processes like project and risk management. The second part gives an introductory-level look at the specialized areas of operations management, supply chains, and logistics. The course finishes with models of change management and how to use them to overcome barriers in organizations."
     },
     "Concepts in Marketing, Sales, and Customer Contact": {
         "name": "Concepts in Marketing, Sales, and Customer Contact",
@@ -714,7 +713,7 @@ const popupData = {
         "name": "Emotional and Cultural Intelligence",
         "code": "D082",
         "units": "3",
-        "description": "Emotional and Cultural Intelligence focuses on key personal awareness skills that businesses request when hiring personnel. Key among those abilities is communication. Students will increase their skills in written, verbal, and nonverbal communication skills. The course then looks at three areas of personal awareness including emotional intelligence (EI), cultural awareness, and ethical self-awareness â€“ building on previously acquired competencies and adding new ones. This course helps start students on a road of self-discovery, cultivating awareness to improve both as a business professional and personally."
+        "description": "Emotional and Cultural Intelligence focuses on key personal awareness skills that businesses request when hiring personnel. Key among those abilities is communication. Students will increase their skills in written, verbal, and nonverbal communication skills. The course then looks at three areas of personal awareness including emotional intelligence (EI), cultural awareness, and ethical self-awareness - building on previously acquired competencies and adding new ones. This course helps start students on a road of self-discovery, cultivating awareness to improve both as a business professional and personally."
     },
     "Introduction to Human Resource Management": {
         "name": "Introduction to Human Resource Management",
@@ -774,13 +773,13 @@ const popupData = {
         "name": "Accounting Information Systems",
         "code": "D217",
         "units": "3",
-        "description": "Accounting Information Systems (AIS for short) introduces students to AIS, with particular emphasis on the accountantâ€™s role in management and financial reporting systems. Topics include transaction cycles and related information technology (IT) controls, data management, enterprise resource planning (ERP) and e-commerce systems, systems development and acquisition, documentation, and IT auditing. D103 Intermediate Accounting I and D104 Intermediate Accounting II are the prerequisites to this course."
+        "description": "Accounting Information Systems (AIS for short) introduces students to AIS, with particular emphasis on the accountant's role in management and financial reporting systems. Topics include transaction cycles and related information technology (IT) controls, data management, enterprise resource planning (ERP) and e-commerce systems, systems development and acquisition, documentation, and IT auditing. D103 Intermediate Accounting I and D104 Intermediate Accounting II are the prerequisites to this course."
     },
     "Auditing": {
         "name": "Auditing",
         "code": "D215",
         "units": "3",
-        "description": "Auditing covers the entire auditing process. This course will help students gain an understanding of the different assurance services, the AICPA Code of Professional Conduct, and the conceptual framework for members in public practice. The course will teach students how to assess for audit risk, develop an audit strategy, and gain an understanding of the audit client. Audit evidence and a clientâ€™s system of internal control will be discussed in depth. The course requires students to assess risk response by identifying and evaluating tests of controls and substantive procedures. In addition, the course will have students evaluate risk response using data analytics and audit sampling for substantive tests. The course concludes with the completion of the audit through subsequent events, engagement wrap-up and management representation, and reporting on the audit with an unqualified audit report or a modification of the audit report. The prerequisites to this course are Intermediate Accounting I, II, and III, Accounting Information Systems, and Business Law for Accountants."
+        "description": "Auditing covers the entire auditing process. This course will help students gain an understanding of the different assurance services, the AICPA Code of Professional Conduct, and the conceptual framework for members in public practice. The course will teach students how to assess for audit risk, develop an audit strategy, and gain an understanding of the audit client. Audit evidence and a client's system of internal control will be discussed in depth. The course requires students to assess risk response by identifying and evaluating tests of controls and substantive procedures. In addition, the course will have students evaluate risk response using data analytics and audit sampling for substantive tests. The course concludes with the completion of the audit through subsequent events, engagement wrap-up and management representation, and reporting on the audit with an unqualified audit report or a modification of the audit report. The prerequisites to this course are Intermediate Accounting I, II, and III, Accounting Information Systems, and Business Law for Accountants."
     },
     "Business Law for Accountants": {
         "name": "Business Law for Accountants",
@@ -900,7 +899,7 @@ const popupData = {
         "name": "Data Management - Foundations",
         "code": "C175",
         "units": "3",
-        "description": "This course introduces students to the concepts and terminology used in the field of data management. Students will be introduced to Structured Query Language (SQL) and will learn how to use Data Definition Language (DDL) and Data Manipulation Language (DML) commands to define, retrieve, and manipulate data. This course covers differentiations of dataâ€”structured vs. unstructured and quasi-structured (relational, hierarchical, XML, textual, visual, etc); it also covers aspects of data management (quality, policy, storage methodologies). Foundational concepts of data security are included."
+        "description": "This course introduces students to the concepts and terminology used in the field of data management. Students will be introduced to Structured Query Language (SQL) and will learn how to use Data Definition Language (DDL) and Data Manipulation Language (DML) commands to define, retrieve, and manipulate data. This course covers differentiations of data structured vs. unstructured and quasi-structured (relational, hierarchical, XML, textual, visual, etc); it also covers aspects of data management (quality, policy, storage methodologies). Foundational concepts of data security are included."
     },
     "Network and Security - Foundations": {
         "name": "Network and Security - Foundations",
@@ -930,7 +929,7 @@ const popupData = {
         "name": "Business - IT Management Portfolio Requirement",
         "code": "PFIT",
         "units": "3",
-        "description": "Business - IT Management Portfolio Requirement is designed to help the learner complete the culminating Undergraduate Business Portfolio assessment; it focuses on developing a business portfolio containing a strengths essay, a career report, a reflection essay, a resume, and exhibits that support oneâ€™s strengths in the work place."
+        "description": "Business - IT Management Portfolio Requirement is designed to help the learner complete the culminating Undergraduate Business Portfolio assessment; it focuses on developing a business portfolio containing a strengths essay, a career report, a reflection essay, a resume, and exhibits that support one's strengths in the work place."
     },
     "Marketing Applications": {
         "name": "Marketing Applications",
@@ -942,7 +941,7 @@ const popupData = {
         "name": "Digital Marketing",
         "code": "D098",
         "units": "3",
-        "description": "This course provides students with a knowledge of digital marketing and an introduction to specializations within digital marketing. Foundationalâ€¯knowledge in the areas of content marketing, digital advertising, search engine optimization, social media, web development and analysis, and marketing automation is provided. Students gain a broad overview of digital marketing and an opportunity to explore specific areas of specialization within the field of digital marketing to understand how digital marketing is integrated within a firmâ€™s overall marketing strategy."
+        "description": "This course provides students with a knowledge of digital marketing and an introduction to specializations within digital marketing. Foundationalknowledge in the areas of content marketing, digital advertising, search engine optimization, social media, web development and analysis, and marketing automation is provided. Students gain a broad overview of digital marketing and an opportunity to explore specific areas of specialization within the field of digital marketing to understand how digital marketing is integrated within a firm's overall marketing strategy."
     },
     "Sales Management": {
         "name": "Sales Management",
@@ -960,7 +959,7 @@ const popupData = {
         "name": "Marketing Management",
         "code": "D174",
         "units": "3",
-        "description": "Marketing Management examines foundational marketing concepts. Marketing is ever-present in our daily lives and this course will help students understand how organizations use marketing activities to create value for their customers. Students will study the strategic marketing planning process and the marketing mix of product, price, place, and promotion. Students will gain knowledge about the market research process and how data are used to inform marketing decisions. Emphasis will be placed on ethical and sustainable marketing practices, along with a focus on service marketing in todayâ€™s service economy. This course will provide students with a basic marketing understanding to prepare them for specialized major courses."
+        "description": "Marketing Management examines foundational marketing concepts. Marketing is ever-present in our daily lives and this course will help students understand how organizations use marketing activities to create value for their customers. Students will study the strategic marketing planning process and the marketing mix of product, price, place, and promotion. Students will gain knowledge about the market research process and how data are used to inform marketing decisions. Emphasis will be placed on ethical and sustainable marketing practices, along with a focus on service marketing in today's service economy. This course will provide students with a basic marketing understanding to prepare them for specialized major courses."
     },
     "Consumer Behavior": {
         "name": "Consumer Behavior",
@@ -972,13 +971,13 @@ const popupData = {
         "name": "Content Marketing",
         "code": "D176",
         "units": "3",
-        "description": "Content Marketing examines how organizations create and distribute marketing communications to attract and retain customers. Students will gain knowledge of the content planning process and how content marketing supports brand and organizational goals by learning how to create, distribute, promote, and measure relevant and valuable content. Students will learn content ideation and will write compelling copy that creates relationships with customers to build trust and enhance an organizationâ€™s reputation and authority."
+        "description": "Content Marketing examines how organizations create and distribute marketing communications to attract and retain customers. Students will gain knowledge of the content planning process and how content marketing supports brand and organizational goals by learning how to create, distribute, promote, and measure relevant and valuable content. Students will learn content ideation and will write compelling copy that creates relationships with customers to build trust and enhance an organization's reputation and authority."
     },
     "Brand Management": {
         "name": "Brand Management",
         "code": "D177",
         "units": "3",
-        "description": "Brand Management examines how brands provide value to both consumers and organizations. Brands are a part of a consumerâ€™s everyday life and organizationâ€™s strategically plan, measure, and manage brands. In this course, students will apply the strategic brand management process using a customer-based brand equity model. Students will identify how brand strategies are used and how brand associations are leveraged to create a competitive advantage. Brand equity measurement systems are explored, including brand audits and tracking studies that use qualitative and quantitative brand research techniques. Students will construct a brand architecture strategy by identifying brand extension opportunities to develop an appropriate branding strategy in a global marketplace. Reputation-management strategies and crisis management techniques are also taught to assist in preserving and protecting an organizationâ€™s brand equity."
+        "description": "Brand Management examines how brands provide value to both consumers and organizations. Brands are a part of a consumer's everyday life and organization's strategically plan, measure, and manage brands. In this course, students will apply the strategic brand management process using a customer-based brand equity model. Students will identify how brand strategies are used and how brand associations are leveraged to create a competitive advantage. Brand equity measurement systems are explored, including brand audits and tracking studies that use qualitative and quantitative brand research techniques. Students will construct a brand architecture strategy by identifying brand extension opportunities to develop an appropriate branding strategy in a global marketplace. Reputation-management strategies and crisis management techniques are also taught to assist in preserving and protecting an organization's brand equity."
     },
     "Marketing Strategy and Analytics": {
         "name": "Marketing Strategy and Analytics",
@@ -1039,7 +1038,7 @@ const popupData = {
         "name": "Introduction to Epidemiology",
         "code": "D401",
         "units": "3",
-        "description": ""
+        "description": "Introduction to Epidemiology provides an overview of the determinants of communicable, viral, and chronic diseases. Students also will study various other conditions and the impact to public health. Using problem-based inquiry, students will analyze real-world public health problems by examining the distribution and patterns of data, selecting the methods to gather evidence, interpreting the information, and analyzing the trends to support decision making. There are no prerequisites to this course, but students are highly encouraged to adhere to the standard path, whose content is scaffolded to enhance the learning experience of this course."
     },
     "Introduction to Chemistry": {"name": "Introduction to Chemistry", "code": "D425", "units": "3", "description": ""},
     "Health & Wellness Through Nutritional Science": {
@@ -1071,7 +1070,7 @@ const popupData = {
         "name": "Introduction to Physical and Human Geography",
         "code": "D199",
         "units": "3",
-        "description": "This is Introduction to Physical and Human Geography, a three-module course that addresses the question of what geography really is in today's complex world; how migration affectsâ€”and has been affected byâ€”geography; and one of the biggest present problems related to geography: climate change. Because the course is self-paced, you may move through the material as quickly or as slowly as you need to, with the goal of demonstrating proficiency in the five competencies covered in the final assessment. If you have no prior knowledge of this material, you can expect to spend 30â€“40 hours on the course content."
+        "description": "This is Introduction to Physical and Human Geography, a three-module course that addresses the question of what geography really is in today's complex world; how migration affects and has been affected by geography; and one of the biggest present problems related to geography: climate change. Because the course is self-paced, you may move through the material as quickly or as slowly as you need to, with the goal of demonstrating proficiency in the five competencies covered in the final assessment. If you have no prior knowledge of this material, you can expect to spend 30-40 hours on the course content."
     },
     "Finite Mathematics": {
         "name": "Finite Mathematics",
@@ -1095,13 +1094,13 @@ const popupData = {
         "name": "Web Development Foundations",
         "code": "D276",
         "units": "3",
-        "description": "Web Development Foundationsâ€¯introduces students to web design and development using HTML, XML,â€¯andâ€¯Cascading Styleâ€¯Sheets (CSS), the foundational languages of the web.â€¯Thisâ€¯course also covers how toâ€¯troubleshoot problems using developer tools and integrated development environments commonly employed in web development.â€¯There are no prerequisites for this course."
+        "description": "Web Development Foundationsintroduces students to web design and development using HTML, XML,andCascading StyleSheets (CSS), the foundational languages of the web.Thiscourse also covers how totroubleshoot problems using developer tools and integrated development environments commonly employed in web development.There are no prerequisites for this course."
     },
     "Data Management - Applications": {
         "name": "Data Management - Applications",
         "code": "D427",
         "units": "4",
-        "description": "Data Management - Applications covers conceptual data modeling and introduces MySQL. Students will learn how to create simple to complex SELECT queries, including subqueries and joins, and how to use SQL to update and delete data. Topics covered in this course include exposure to MySQL; creating and modifying databases, tables, views, foreign keys/primary keys (FKs/PKs), and indexes; populating tables; and developing simple Select-From-Where (SFW) queries to complex 3+ table join queries. The following course is a prerequisite: Data Management â€“ Foundations."
+        "description": "Data Management - Applications covers conceptual data modeling and introduces MySQL. Students will learn how to create simple to complex SELECT queries, including subqueries and joins, and how to use SQL to update and delete data. Topics covered in this course include exposure to MySQL; creating and modifying databases, tables, views, foreign keys/primary keys (FKs/PKs), and indexes; populating tables; and developing simple Select-From-Where (SFW) queries to complex 3+ table join queries. The following course is a prerequisite: Data Management - Foundations."
     },
     "Web Development Applications": {
         "name": "Web Development Applications",
@@ -1179,7 +1178,7 @@ const popupData = {
         "name": "IT Capstone Written Project",
         "code": "C769",
         "units": "4",
-        "description": "The capstone project consists of a technical work proposal, the proposalâ€™s implementation, and a post-implementation report that describes the graduateâ€™s experience in developing and implementing the capstone project. The capstone project should be presented and approved by the program mentor in relation to the graduateâ€™s technical emphasis."
+        "description": "The capstone project consists of a technical work proposal, the proposal's implementation, and a post-implementation report that describes the graduate's experience in developing and implementing the capstone project. The capstone project should be presented and approved by the program mentor in relation to the graduate's technical emphasis."
     },
     "Introduction to Geography": {
         "name": "Introduction to Geography",
@@ -1211,7 +1210,7 @@ const popupData = {
         "units": "3",
         "description": "This course introduces students to programming for mobile devices using a software development kit (SDK). Students with previous knowledge of programming will learn how to install and utilize a SDK, build a basic mobile application, build a mobile application using a graphical user interface (GUI), adapt applications to different mobile devices, save data, execute and debug mobile applications using emulators, and deploy a mobile application."
     },
-    "Software Engineering": {"name": "Software Engineering", "code": "D284", "units": "4", "description": ""},
+    "Software Engineering": {"name": "Software Engineering", "code": "D284", "units": "4", "description": "This course introduces the concepts of software engineering to students who have completed the core courses in programming and project management. The principles build on previously acquired concepts, switching the emphasis from programming simple routines to engineering robust and scalable software solutions. This course does not cover programming, but provides an overview of software engineering processes and their challenging nature, focusing on the need for a disciplined approach to software engineering. A generic process framework provides the groundwork for formal process models. Prescriptive process models such as the waterfall model and agile development are included. An introduction to the elements and phases of software engineering is included, which explores requirements for engineering, design concepts, and software quality."},
     "Software Quality Assurance": {
         "name": "Software Quality Assurance",
         "code": "C857",
@@ -1276,7 +1275,7 @@ const popupData = {
         "name": "Data Wrangling",
         "code": "D309",
         "units": "3",
-        "description": "This course elaborates on concepts covered in Introduction to Data Science, helping to develop skills crucial to the field of data science and analysis. It explores how to wrangle data from diverse sources and shape it to enable data-driven applicationsâ€”a common activity in many data scientists' routine. Topics covered include gathering and extracting data from widely-used data formats, assessing the quality of data, and exploring best practices for data cleaning."
+        "description": "This course elaborates on concepts covered in Introduction to Data Science, helping to develop skills crucial to the field of data science and analysis. It explores how to wrangle data from diverse sources and shape it to enable data-driven applications a common activity in many data scientists' routine. Topics covered include gathering and extracting data from widely-used data formats, assessing the quality of data, and exploring best practices for data cleaning."
     },
     "Data Analysis with R": {
         "name": "Data Analysis with R",
@@ -1312,7 +1311,7 @@ const popupData = {
         "name": "Version Control",
         "code": "D197",
         "units": "1",
-        "description": "Version control is critical to maintaining software and enabling scalability solutions. A best practice for any programming project that requires multiple files uses version control. Version control enables teams to have collaborative workflows and enhances the software development lifecycle.â€¯ This course introduces students to the basics of publishing, retrieving, branching, and cloning.â€¯ There are no prerequisites for this course."
+        "description": "Version control is critical to maintaining software and enabling scalability solutions. A best practice for any programming project that requires multiple files uses version control. Version control enables teams to have collaborative workflows and enhances the software development lifecycle. This course introduces students to the basics of publishing, retrieving, branching, and cloning. There are no prerequisites for this course."
     },
     "Introduction to Systems Thinking": {
         "name": "Introduction to Systems Thinking",
@@ -1336,7 +1335,7 @@ const popupData = {
         "name": "Cyber Defense and Countermeasures",
         "code": "D340",
         "units": "4",
-        "description": "Traditional defensesâ€”such as firewalls, security protocols, and encryptionâ€”sometimes fail to stop attackers determined to access and compromise data. This course provides the fundamental skills to handle and respond to computer security incidents in an information system. The course addresses various underlying principles and techniques for detecting and responding to current and emerging computer security threats. Students learn how to leverage intelligence and threat detection techniques; analyze and interpret data; identify and address vulnerabilities; suggest preventative measures; effectively respond to and recover from incidents; and handle various types of incidents, risk assessment methodologies, and various laws and policies related to incident handling. This course prepares students for the CompTIA Cybersecurity Analyst (CySA+) certification exam. The following courses are prerequisites: Networks and Network and Security â€“ Applications."
+        "description": "Traditional defenses such as firewalls, security protocols, and encryption sometimes fail to stop attackers determined to access and compromise data. This course provides the fundamental skills to handle and respond to computer security incidents in an information system. The course addresses various underlying principles and techniques for detecting and responding to current and emerging computer security threats. Students learn how to leverage intelligence and threat detection techniques; analyze and interpret data; identify and address vulnerabilities; suggest preventative measures; effectively respond to and recover from incidents; and handle various types of incidents, risk assessment methodologies, and various laws and policies related to incident handling. This course prepares students for the CompTIA Cybersecurity Analyst (CySA+) certification exam. The following courses are prerequisites: Networks and Network and Security - Applications."
     },
     "Digital Forensics in Cybersecurity": {
         "name": "Digital Forensics in Cybersecurity",
@@ -1384,7 +1383,7 @@ const popupData = {
         "name": "Penetration Testing and Vulnerability Analysis",
         "code": "D332",
         "units": "4",
-        "description": ""
+        "description": "Penetration Testing and Vulnerability Analysis introduces learners to the skills necessary to perform penetration testing and vulnerability management within an organization. Learners will gain skills in defining the scope and planning for procurement of penetration testing engagements and in performing cyber reconnaissance for information gathering and vulnerability identification. Learners will also gain skills in developing penetration testing techniques in exploitation of physical, digital, and social vulnerabilities, and to simulate attacks and responses on an organization's security infrastructure. Lastly, learners will gain skills in reporting the results of cybersecurity assessments with recommended actions."
     },
     "Calculus I": {
         "name": "Calculus I",
@@ -1623,8 +1622,8 @@ const popupData = {
         "units": "4",
         "description": ""
     },
-    "Software I â€“ C#": {
-        "name": "Software I â€“ C#",
+    "Software I - C#": {
+        "name": "Software I - C#",
         "code": "C968",
         "units": "6",
         "description": "Software I builds object-oriented programming expertise and introduces powerful new tools for C# application development. You will learn about and put into action class design, exception handling, and other object-oriented principles and constructs to develop software that meets business requirements. This course requires foundational knowledge of object-oriented programming. Scripting and Programming: Foundations and Scripting and Programming: Applications are prerequisites for this course."
@@ -1635,8 +1634,8 @@ const popupData = {
         "units": "3",
         "description": "Mobile Application Development Using C# introduces students to programming for mobile devices. Building on students' previous knowledge of programming in C#, this course investigates Xamarin.Forms and how it can be used to build a mobile application. This course explores a broad range of topics, including mobile user interface design and development, building applications that adapt to different mobile devices and platforms, managing data using a local database, and consuming REST-based web services. There are several prerequisites for this course: Software I, Software II, and UI Design."
     },
-    "Software II â€“ Advanced C#": {
-        "name": "Software II â€“ Advanced C#",
+    "Software II - Advanced C#": {
+        "name": "Software II - Advanced C#",
         "code": "C969",
         "units": "6",
         "description": "Software II - Advanced C# refines object-oriented programming expertise and builds database and file server application development skills. You will learn about and put into action lambda expressions, collections, and input/output to develop software with C# that meets business requirements. This course requires intermediate expertise in object-oriented programming and the C# language. The prerequisite for this course is Software I - C#."
@@ -1651,13 +1650,13 @@ const popupData = {
         "name": "Educational Foundations",
         "code": "D097",
         "units": "2",
-        "description": "Educational Foundations is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. The course provides candidates with early classroom experience where they observe multiple school settings at three different levels of schooling and interview an educator to learn how state standards and various legal and ethical issues affect classrooms today. The course also provides candidates with opportunities to gain foundational knowledge about what it means to be a teacher in the current educational context while exploring their future role within the larger landscape of historical and cultural influences. This course ensures candidates have a firm grasp on important issues affecting educators including state standards-based curriculum, legal and ethical requirements affecting educational opportunities, and professionalism, preparing them for subsequent coursework within the Professional Core and their content area major courses. Five preclinical hours are interwoven throughout this course, and cross-cutting themes of technology and diversity are introduced for further development throughout the candidateâ€™s programs."
+        "description": "Educational Foundations is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. The course provides candidates with early classroom experience where they observe multiple school settings at three different levels of schooling and interview an educator to learn how state standards and various legal and ethical issues affect classrooms today. The course also provides candidates with opportunities to gain foundational knowledge about what it means to be a teacher in the current educational context while exploring their future role within the larger landscape of historical and cultural influences. This course ensures candidates have a firm grasp on important issues affecting educators including state standards-based curriculum, legal and ethical requirements affecting educational opportunities, and professionalism, preparing them for subsequent coursework within the Professional Core and their content area major courses. Five preclinical hours are interwoven throughout this course, and cross-cutting themes of technology and diversity are introduced for further development throughout the candidate's programs."
     },
     "Educational Psychology and Development of Children and Adolescents": {
         "name": "Educational Psychology and Development of Children and Adolescents",
         "code": "D094",
         "units": "4",
-        "description": "Educational Psychology and Development of Children and Adolescents is a key component of WGUâ€™s Professional Core and is a required course for all initial licensure candidates. This course prepares candidates to support classroom practices grounded in research-validated principles from the areas of educational psychology and child/adolescent development. Candidates will be introduced to learning theories that equip them with the knowledge and skills necessary to support the diverse populations of students with whom they will interact. This course addresses theories of human development, spanning early childhood through adolescence, and candidates completing this course will be able to explain and analyze the guiding perspectives on linguistic, physical, cognitive, and social development. This course will also cover appropriate instructional and assessment strategies to support student learning and development. Candidates will engage in four hours of virtual classroom observations related to issues in educational psychology and learner development. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Educational Foundations course."
+        "description": "Educational Psychology and Development of Children and Adolescents is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course prepares candidates to support classroom practices grounded in research-validated principles from the areas of educational psychology and child/adolescent development. Candidates will be introduced to learning theories that equip them with the knowledge and skills necessary to support the diverse populations of students with whom they will interact. This course addresses theories of human development, spanning early childhood through adolescence, and candidates completing this course will be able to explain and analyze the guiding perspectives on linguistic, physical, cognitive, and social development. This course will also cover appropriate instructional and assessment strategies to support student learning and development. Candidates will engage in four hours of virtual classroom observations related to issues in educational psychology and learner development. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Educational Foundations course."
     },
     "Fundamentals of Diverse Learners": {
         "name": "Fundamentals of Diverse Learners",
@@ -1675,13 +1674,13 @@ const popupData = {
         "name": "Assessing Impact on Student Learning",
         "code": "D093",
         "units": "3",
-        "description": "Assessing Impact on Student Learning is a key component of WGU's Professional Core and is a required cAssessing Impact on Student Learning is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course equips candidates to evaluate student learning and their own professional practice, ensuring candidates are prepared to ensure all learners' success. In this course, candidates learn multiple methods of assessment to ensure they are able to implement a balanced approach to assessment while monitoring their studentsâ€™ progress. Assessments types such as formative, summative, standardized, and common assessments are addressed so candidates understand their purposes and can apply them within the context of a lesson to determine impact on learning. Data literacy skills are taught to ensure candidates interpret and analyze individual and classroom data and apply their knowledge in ways that support academic success. Candidates will engage in three hours of preclinical experiences that include virtual classroom observations. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Introduction to Curriculum, Instruction, and Assessmentâ€¯course."
+        "description": "Assessing Impact on Student Learning is a key component of WGU's Professional Core and is a required cAssessing Impact on Student Learning is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course equips candidates to evaluate student learning and their own professional practice, ensuring candidates are prepared to ensure all learners' success. In this course, candidates learn multiple methods of assessment to ensure they are able to implement a balanced approach to assessment while monitoring their students' progress. Assessments types such as formative, summative, standardized, and common assessments are addressed so candidates understand their purposes and can apply them within the context of a lesson to determine impact on learning. Data literacy skills are taught to ensure candidates interpret and analyze individual and classroom data and apply their knowledge in ways that support academic success. Candidates will engage in three hours of preclinical experiences that include virtual classroom observations. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Introduction to Curriculum, Instruction, and Assessmentcourse."
     },
     "Educational Technology for Teaching and Learning": {
         "name": "Educational Technology for Teaching and Learning",
         "code": "D092",
         "units": "3",
-        "description": "Educational Technology for Teaching and Learning is a key component of WGU's professional core and is a required course for all initial licensure candidates. This course prepares candidates to incorporate technology into their classroom practices in ways that improve teaching and learning. The ISTE standards will form the basis for their practice. The material will teach candidates to critically evaluate software and hardware options that may positively impact the classroom environment, while also increasing their awareness of ethical usage and considerations related to equity, access to technology, and appropriate use of technology by Pâ€“12 students. Assistive technologies to meet the needs of a diverse learner population also will be taught in this course. Candidates will engage in three hours of preclinical experience that include virtual observations of classroom practices incorporating technology to support educational goals. Crosscutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Assessing Impact on Student Learning course."
+        "description": "Educational Technology for Teaching and Learning is a key component of WGU's professional core and is a required course for all initial licensure candidates. This course prepares candidates to incorporate technology into their classroom practices in ways that improve teaching and learning. The ISTE standards will form the basis for their practice. The material will teach candidates to critically evaluate software and hardware options that may positively impact the classroom environment, while also increasing their awareness of ethical usage and considerations related to equity, access to technology, and appropriate use of technology by P-12 students. Assistive technologies to meet the needs of a diverse learner population also will be taught in this course. Candidates will engage in three hours of preclinical experience that include virtual observations of classroom practices incorporating technology to support educational goals. Crosscutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Assessing Impact on Student Learning course."
     },
     "General Physics": {
         "name": "General Physics",
@@ -1729,7 +1728,7 @@ const popupData = {
         "name": "Introduction to Curriculum, Instruction, and Assessment",
         "code": "D091",
         "units": "3",
-        "description": "Introduction to Curriculum, Instruction, and Assessment is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course provides candidates with the knowledge and skills necessary to create engaging and standards-aligned lessons that meet the needs of all learners. Candidates will learn to analyze learner needs based on a variety of inputs, including their state Pâ€“12 standards, assessment results, and knowledge of learner differences. This course will help candidates design, deliver, and modify instruction in accordance to needs and educational requirements. Candidates will engage in three hours of preclinical experiences that include virtual classroom observations. They also will record a short teaching segment, allowing for authentic teaching experience. Crosscutting themes of technology and diversity are interwoven for continued development. This course is designed to be taken after successful completion of the Managing Engaging Learning Environments course."
+        "description": "Introduction to Curriculum, Instruction, and Assessment is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course provides candidates with the knowledge and skills necessary to create engaging and standards-aligned lessons that meet the needs of all learners. Candidates will learn to analyze learner needs based on a variety of inputs, including their state P-12 standards, assessment results, and knowledge of learner differences. This course will help candidates design, deliver, and modify instruction in accordance to needs and educational requirements. Candidates will engage in three hours of preclinical experiences that include virtual classroom observations. They also will record a short teaching segment, allowing for authentic teaching experience. Crosscutting themes of technology and diversity are interwoven for continued development. This course is designed to be taken after successful completion of the Managing Engaging Learning Environments course."
     },
     "Secondary Reading Instruction and Interventions": {
         "name": "Secondary Reading Instruction and Interventions",
@@ -1765,7 +1764,7 @@ const popupData = {
         "name": "Science Methods - Middle Grades General Science",
         "code": "C974",
         "units": "4",
-        "description": "Science Methodsâ€”Middle Grades General Science provides an introduction to teaching methods specific to science for undergraduate students seeking initial licensure or endorsement in Middle School Science. Course content focuses on the design and teaching of standards-based lessons using the three dimensions of science (science and engineering practices, crosscutting concepts, and disciplinary core ideas) and the appropriate integration of technology into those lessons. Students in this course work within their content areas to evaluate, enhance, and plan appropriate science instruction. This course includes laboratory safety training and certification, which includes safe laboratory practices and procedures for science classrooms and the proper use of personal protective equipment. A prerequisite for this course is Instructional Planning and Presentation."
+        "description": "Science Methods Middle Grades General Science provides an introduction to teaching methods specific to science for undergraduate students seeking initial licensure or endorsement in Middle School Science. Course content focuses on the design and teaching of standards-based lessons using the three dimensions of science (science and engineering practices, crosscutting concepts, and disciplinary core ideas) and the appropriate integration of technology into those lessons. Students in this course work within their content areas to evaluate, enhance, and plan appropriate science instruction. This course includes laboratory safety training and certification, which includes safe laboratory practices and procedures for science classrooms and the proper use of personal protective equipment. A prerequisite for this course is Instructional Planning and Presentation."
     },
     "Teaching in the Middle School": {
         "name": "Teaching in the Middle School",
@@ -1783,19 +1782,19 @@ const popupData = {
         "name": "Supervised Demonstration Teaching in Science, Observations 1 and 2",
         "code": "C319",
         "units": "3",
-        "description": "Supervised Demonstration Teaching in Science involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidateâ€™s skills."
+        "description": "Supervised Demonstration Teaching in Science involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate's skills."
     },
     "Supervised Demonstration Teaching in Science, Observations 4 and 5": {
         "name": "Supervised Demonstration Teaching in Science, Observations 4 and 5",
         "code": "C321",
         "units": "3",
-        "description": "Supervised Demonstration Teaching in Science involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidateâ€™s skills."
+        "description": "Supervised Demonstration Teaching in Science involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate's skills."
     },
     "Supervised Demonstration Teaching in Science, Observation 6 and Final": {
         "name": "Supervised Demonstration Teaching in Science, Observation 6 and Final",
         "code": "C322",
         "units": "3",
-        "description": "Supervised Demonstration Teaching in Science involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidateâ€™s skills."
+        "description": "Supervised Demonstration Teaching in Science involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate's skills."
     },
     "Teacher Performance Assessment in Science": {
         "name": "Teacher Performance Assessment in Science",
@@ -1849,7 +1848,7 @@ const popupData = {
         "name": "Science Methods - Secondary Biology",
         "code": "C940",
         "units": "4",
-        "description": "Science Methodsâ€”Secondary Biology provides an introduction to teaching methods specific to science for undergraduate students seeking initial licensure or endorsement in secondary biology. Course content focuses on the design and teaching of standards-based lessons using the three dimensions of science (science and engineering practices, crosscutting concepts, and disciplinary core ideas) and the appropriate integration of technology into those lessons. Students in this course work within their content areas to evaluate, enhance, and plan appropriate science instruction. This course includes laboratory safety training and certification, which includes safe laboratory practices and procedures for science classrooms and the proper use of personal protective equipment. A prerequisite for this course is Instructional Planning and Presentation."
+        "description": "Science Methods Secondary Biology provides an introduction to teaching methods specific to science for undergraduate students seeking initial licensure or endorsement in secondary biology. Course content focuses on the design and teaching of standards-based lessons using the three dimensions of science (science and engineering practices, crosscutting concepts, and disciplinary core ideas) and the appropriate integration of technology into those lessons. Students in this course work within their content areas to evaluate, enhance, and plan appropriate science instruction. This course includes laboratory safety training and certification, which includes safe laboratory practices and procedures for science classrooms and the proper use of personal protective equipment. A prerequisite for this course is Instructional Planning and Presentation."
     },
     "Geology I: Physical": {
         "name": "Geology I: Physical",
@@ -1861,7 +1860,7 @@ const popupData = {
         "name": "The Ocean Systems",
         "code": "C263",
         "units": "4",
-        "description": "In this course, learners investigate the complex ocean system by looking at the way its componentsâ€”atmosphere, biosphere, geosphere, and hydrosphereâ€”interact. Specific topics include: origins of Earth's oceans and the early history of life; physical characteristics and geologic processes of the ocean floor; chemistry of the water molecule; energy flow between air and water, and how ocean surface currents and deep circulation patterns affect weather and climate; marine biology and why ecosystems are an integral part of the ocean system; the effects of human activity; and the role of professional educators in teaching about ocean systems."
+        "description": "In this course, learners investigate the complex ocean system by looking at the way its components atmosphere, biosphere, geosphere, and hydrosphere interact. Specific topics include: origins of Earth's oceans and the early history of life; physical characteristics and geologic processes of the ocean floor; chemistry of the water molecule; energy flow between air and water, and how ocean surface currents and deep circulation patterns affect weather and climate; marine biology and why ecosystems are an integral part of the ocean system; the effects of human activity; and the role of professional educators in teaching about ocean systems."
     },
     "Geology II: Earth Systems": {
         "name": "Geology II: Earth Systems",
@@ -1879,7 +1878,7 @@ const popupData = {
         "name": "Science Methods - Secondary Earth Science",
         "code": "C942",
         "units": "4",
-        "description": "Science Methodsâ€”Secondary Earth Science provides an introduction to teaching methods specific to science for undergraduate students seeking initial licensure or endorsement in secondary earth science. Course content focuses on the design and teaching of standards-based lessons using the three dimensions of science (science and engineering practices, crosscutting concepts, and disciplinary core ideas) and the appropriate integration of technology into those lessons. Students in this course work within their content areas to evaluate, enhance, and plan appropriate science instruction. This course includes laboratory safety training and certification, which includes safe laboratory practices and procedures for science classrooms and the proper use of personal protective equipment. A prerequisite for this course is Instructional Planning and Presentation."
+        "description": "Science Methods Secondary Earth Science provides an introduction to teaching methods specific to science for undergraduate students seeking initial licensure or endorsement in secondary earth science. Course content focuses on the design and teaching of standards-based lessons using the three dimensions of science (science and engineering practices, crosscutting concepts, and disciplinary core ideas) and the appropriate integration of technology into those lessons. Students in this course work within their content areas to evaluate, enhance, and plan appropriate science instruction. This course includes laboratory safety training and certification, which includes safe laboratory practices and procedures for science classrooms and the proper use of personal protective equipment. A prerequisite for this course is Instructional Planning and Presentation."
     },
     "Trigonometry and Precalculus": {
         "name": "Trigonometry and Precalculus",
@@ -1915,7 +1914,7 @@ const popupData = {
         "name": "Inorganic Chemistry",
         "code": "BWT1",
         "units": "3",
-        "description": "Inorganic Chemistry introduces the concepts of inorganic chemistryâ€”the branch of chemistry that studies the properties and behavior of any compound avoiding a specific focus on carbon. It will focus on the three most important areas of inorganic chemistry: the structure, properties, and reactions of various groups of inorganic compounds."
+        "description": "Inorganic Chemistry introduces the concepts of inorganic chemistry the branch of chemistry that studies the properties and behavior of any compound avoiding a specific focus on carbon. It will focus on the three most important areas of inorganic chemistry: the structure, properties, and reactions of various groups of inorganic compounds."
     },
     "Physical Chemistry": {
         "name": "Physical Chemistry",
@@ -1939,13 +1938,13 @@ const popupData = {
         "name": "Science Methods - Secondary Chemistry",
         "code": "C941",
         "units": "4",
-        "description": "Science Methodsâ€”Secondary Chemistry provides an introduction to teaching methods specific to science for undergraduate students seeking initial licensure or endorsement in secondary chemistry. Course content focuses on the design and teaching of standards-based lessons using the three dimensions of science (science and engineering practices, crosscutting concepts, and disciplinary core ideas) and the appropriate integration of technology into those lessons. Students in this course work within their content areas to evaluate, enhance, and plan appropriate science instruction. This course includes laboratory safety training and certification, which includes safe laboratory practices and procedures for science classrooms and the proper use of personal protective equipment. A prerequisite for this course is Instructional Planning and Presentation."
+        "description": "Science Methods Secondary Chemistry provides an introduction to teaching methods specific to science for undergraduate students seeking initial licensure or endorsement in secondary chemistry. Course content focuses on the design and teaching of standards-based lessons using the three dimensions of science (science and engineering practices, crosscutting concepts, and disciplinary core ideas) and the appropriate integration of technology into those lessons. Students in this course work within their content areas to evaluate, enhance, and plan appropriate science instruction. This course includes laboratory safety training and certification, which includes safe laboratory practices and procedures for science classrooms and the proper use of personal protective equipment. A prerequisite for this course is Instructional Planning and Presentation."
     },
     "Supervised Demonstration Teaching in Science, Observation 3 and Midterm": {
         "name": "Supervised Demonstration Teaching in Science, Observation 3 and Midterm",
         "code": "C320",
         "units": "3",
-        "description": "Supervised Demonstration Teaching in Science involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidateâ€™s skills."
+        "description": "Supervised Demonstration Teaching in Science involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate's skills."
     },
     "Calculus II": {
         "name": "Calculus II",
@@ -1993,7 +1992,7 @@ const popupData = {
         "name": "Science Methods - Secondary Physics",
         "code": "C943",
         "units": "4",
-        "description": "Science Methodsâ€”Secondary Physics provides an introduction to teaching methods specific to science for undergraduate students seeking initial licensure or endorsement in secondary physics. Course content focuses on the design and teaching of standards-based lessons using the three dimensions of science (science and engineering practices, crosscutting concepts, and disciplinary core ideas) and the appropriate integration of technology into those lessons. Students in this course work within their content areas to evaluate, enhance, and plan appropriate science instruction. This course includes laboratory safety training and certification, which includes safe laboratory practices and procedures for science classrooms and the proper use of personal protective equipment. A prerequisite for this course is Instructional Planning and Presentation."
+        "description": "Science Methods-Secondary Physics provides an introduction to teaching methods specific to science for undergraduate students seeking initial licensure or endorsement in secondary physics. Course content focuses on the design and teaching of standards-based lessons using the three dimensions of science (science and engineering practices, crosscutting concepts, and disciplinary core ideas) and the appropriate integration of technology into those lessons. Students in this course work within their content areas to evaluate, enhance, and plan appropriate science instruction. This course includes laboratory safety training and certification, which includes safe laboratory practices and procedures for science classrooms and the proper use of personal protective equipment. A prerequisite for this course is Instructional Planning and Presentation."
     },
     "Survey of World History": {
         "name": "Survey of World History",
@@ -2005,31 +2004,31 @@ const popupData = {
         "name": "Children's Literature",
         "code": "C970",
         "units": "3",
-        "description": "Children's Literature is an introduction to and exploration of children's literature. Students will consider and analyze children's literature as a lens through which to view the world. Students will experience multiple genres, historical perspectives, cultural representations, and current applications in the field of children's literature. This course is designed to be taken after successful completion of Introduction to Curriculum, Instruction, and Assessmentâ€¯OR Introduction to Instructional Planning and Presentation AND Instructional Planning and Presentation in Elementary or Special Education."
+        "description": "Children's Literature is an introduction to and exploration of children's literature. Students will consider and analyze children's literature as a lens through which to view the world. Students will experience multiple genres, historical perspectives, cultural representations, and current applications in the field of children's literature. This course is designed to be taken after successful completion of Introduction to Curriculum, Instruction, and AssessmentOR Introduction to Instructional Planning and Presentation AND Instructional Planning and Presentation in Elementary or Special Education."
     },
     "Mathematics for Elementary Educators I": {
         "name": "Mathematics for Elementary Educators I",
         "code": "D125",
         "units": "3",
-        "description": "Mathematics for Elementary Educators I guides preservice elementary teachers in an investigation of number systems, place value, number theory, and ratio and proportion. This is the first course in a three-course sequence.â€¯ There are no prerequisites for this course."
+        "description": "Mathematics for Elementary Educators I guides preservice elementary teachers in an investigation of number systems, place value, number theory, and ratio and proportion. This is the first course in a three-course sequence. There are no prerequisites for this course."
     },
     "Mathematics for Elementary Educators II": {
         "name": "Mathematics for Elementary Educators II",
         "code": "D126",
         "units": "3",
-        "description": "Mathematics for Elementary Educators II engages preservice elementary school teachers in mathematical practices of algebraic reasoning. This course explores important algebraic topics such as patterns, expressions and equations, linear equations, inequalities, and functions. This is the second course in a three-course sequence.â€¯"
+        "description": "Mathematics for Elementary Educators II engages preservice elementary school teachers in mathematical practices of algebraic reasoning. This course explores important algebraic topics such as patterns, expressions and equations, linear equations, inequalities, and functions. This is the second course in a three-course sequence."
     },
     "Mathematics for Elementary Educators III": {
         "name": "Mathematics for Elementary Educators III",
         "code": "D127",
         "units": "3",
-        "description": "Mathematics for Elementary Educators III engages preservice elementary teachers in important concepts in geometry, measurement, data analysis and statistics, and probability. This is the third course in a three-course sequence.â€¯"
+        "description": "Mathematics for Elementary Educators III engages preservice elementary teachers in important concepts in geometry, measurement, data analysis and statistics, and probability. This is the third course in a three-course sequence."
     },
     "Teacher Performance Assessment in Elementary Education": {
         "name": "Teacher Performance Assessment in Elementary Education",
         "code": "D146",
         "units": "3",
-        "description": "The Teacher Performance Assessment is a culmination of the wide variety of skills learned during a studentâ€™s time in the Teachers College at WGU. In order to be a competent and independent classroom teacher, students will showcase a collection of their content, planning, instructional, and reflective skills in this professional assessment."
+        "description": "The Teacher Performance Assessment is a culmination of the wide variety of skills learned during a student's time in the Teachers College at WGU. In order to be a competent and independent classroom teacher, students will showcase a collection of their content, planning, instructional, and reflective skills in this professional assessment."
     },
     "Inclusive Classroom": {
         "name": "Inclusive Classroom",
@@ -2053,13 +2052,13 @@ const popupData = {
         "name": "Elementary Disciplinary Literacy",
         "code": "C732",
         "units": "3",
-        "description": "Elementary Disciplinary Literacy examines teaching strategies designed to help learners in grades Kâ€“6 develop the literacy skills necessary to read, write, and think critically while engaging content in different academic disciplines. Course content highlights strategies to help learners distinguish between the unique characteristics of informational texts while improving comprehension and writing proficiency across the curriculum. Strategies to encourage inquiry and cultivate skills in critical thinking, collaboration, and creativity also are addressed. This course has no prerequisites."
+        "description": "Elementary Disciplinary Literacy examines teaching strategies designed to help learners in grades K-6 develop the literacy skills necessary to read, write, and think critically while engaging content in different academic disciplines. Course content highlights strategies to help learners distinguish between the unique characteristics of informational texts while improving comprehension and writing proficiency across the curriculum. Strategies to encourage inquiry and cultivate skills in critical thinking, collaboration, and creativity also are addressed. This course has no prerequisites."
     },
     "Elementary Mathematics Methods": {
         "name": "Elementary Mathematics Methods",
         "code": "C109",
         "units": "3",
-        "description": "Elementary Mathematics Methods helps students learn how to implement effective math instruction in the elementary classroom. Topics include differentiated math instruction, mathematical communication, mathematical tools for instruction, assessing math understanding, integrating math across the curriculum, critical thinking development, standards-based mathematics instruction, and mathematical models and representation. This course is designed to be taken after successful completion of Introduction to Curriculum, Instruction, and Assessmentâ€¯OR Introduction to Instructional Planning and Presentation AND Instructional Planning and Presentation in Elementary or Special Education."
+        "description": "Elementary Mathematics Methods helps students learn how to implement effective math instruction in the elementary classroom. Topics include differentiated math instruction, mathematical communication, mathematical tools for instruction, assessing math understanding, integrating math across the curriculum, critical thinking development, standards-based mathematics instruction, and mathematical models and representation. This course is designed to be taken after successful completion of Introduction to Curriculum, Instruction, and AssessmentOR Introduction to Instructional Planning and Presentation AND Instructional Planning and Presentation in Elementary or Special Education."
     },
     "Elementary Science Methods": {
         "name": "Elementary Science Methods",
@@ -2137,13 +2136,13 @@ const popupData = {
         "name": "Supervised Demonstration Teaching in Mathematics, Observations 1 and 2",
         "code": "C315",
         "units": "3",
-        "description": "Supervised Demonstration Teaching in Mathematics involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidateâ€™s skills."
+        "description": "Supervised Demonstration Teaching in Mathematics involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate's skills."
     },
     "Supervised Demonstration Teaching in Mathematics, Observations 4 and 5": {
         "name": "Supervised Demonstration Teaching in Mathematics, Observations 4 and 5",
         "code": "C317",
         "units": "3",
-        "description": "Supervised Demonstration Teaching in Mathematics involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidateâ€™s skills."
+        "description": "Supervised Demonstration Teaching in Mathematics involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate's skills."
     },
     "Teacher Performance Assessment in Mathematics Education": {
         "name": "Teacher Performance Assessment in Mathematics Education",
@@ -2173,7 +2172,7 @@ const popupData = {
         "name": "Mathematical Modeling and Applications",
         "code": "C877",
         "units": "3",
-        "description": "Mathematical Modeling and Applications applies mathematics, such as differential equations, discrete structures, and statistics to formulate models and solve real-world problems. This course emphasizes improving studentsâ€™ critical thinking to help them understand the process and application of mathematical modeling. Probability and Statistics II and Calculus II are prerequisites."
+        "description": "Mathematical Modeling and Applications applies mathematics, such as differential equations, discrete structures, and statistics to formulate models and solve real-world problems. This course emphasizes improving students' critical thinking to help them understand the process and application of mathematical modeling. Probability and Statistics II and Calculus II are prerequisites."
     },
     "Linear Algebra": {
         "name": "Linear Algebra",
@@ -2197,13 +2196,13 @@ const popupData = {
         "name": "Geometry for Secondary Mathematics Teaching",
         "code": "C881",
         "units": "3",
-        "description": "Geometry for Secondary Mathematics Teaching explores important conceptual underpinnings, common misconceptions and studentsâ€™ ways of thinking, appropriate use of technology, and instructional practices to support and assess the learning of geometry. Secondary teachers in this course will develop a deep understanding of constructions and transformations, congruence and similarity, analytic geometry, solid geometry, conics, trigonometry, and the historical development of content. Calculus I and College Geometry are prerequisites for this course.Calculus I and College Geometry are prerequisites for this course."
+        "description": "Geometry for Secondary Mathematics Teaching explores important conceptual underpinnings, common misconceptions and students' ways of thinking, appropriate use of technology, and instructional practices to support and assess the learning of geometry. Secondary teachers in this course will develop a deep understanding of constructions and transformations, congruence and similarity, analytic geometry, solid geometry, conics, trigonometry, and the historical development of content. Calculus I and College Geometry are prerequisites for this course.Calculus I and College Geometry are prerequisites for this course."
     },
     "Statistics and Probability for Secondary Mathematics Teaching": {
         "name": "Statistics and Probability for Secondary Mathematics Teaching",
         "code": "C883",
         "units": "3",
-        "description": "Statistics and Probability for Secondary Mathematics Teaching explores important conceptual underpinnings, common misconceptions and studentsâ€™ ways of thinking, appropriate use of technology, and instructional practices to support and assess the learning of statistics and probability. Secondary teachers should have a deep understanding of summarizing and representing data, study design and sampling, probability, testing claims and drawing conclusions, and the historical development of content and perspectives from diverse cultures. Calculus I and Probability and Statistics I and II are prerequisites for this course."
+        "description": "Statistics and Probability for Secondary Mathematics Teaching explores important conceptual underpinnings, common misconceptions and students' ways of thinking, appropriate use of technology, and instructional practices to support and assess the learning of statistics and probability. Secondary teachers should have a deep understanding of summarizing and representing data, study design and sampling, probability, testing claims and drawing conclusions, and the historical development of content and perspectives from diverse cultures. Calculus I and Probability and Statistics I and II are prerequisites for this course."
     },
     "Professional, Ethical, and Legal Practices for Special Education": {
         "name": "Professional, Ethical, and Legal Practices for Special Education",
@@ -2239,25 +2238,25 @@ const popupData = {
         "name": "Supervised Demonstration Teaching in Special Education, Obs 1 and 2",
         "code": "D012",
         "units": "3",
-        "description": "Supervised Demonstration Teaching in Special Education, Obs 1 and 2 involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidateâ€™s skills."
+        "description": "Supervised Demonstration Teaching in Special Education, Obs 1 and 2 involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate's skills."
     },
     "Supervised Demonstration Teaching in Special Education, Obs 3 and Midterm": {
         "name": "Supervised Demonstration Teaching in Special Education, Obs 3 and Midterm",
         "code": "D013",
         "units": "3",
-        "description": "Supervised Demonstration Teaching in Special Education, Obs 3 and Midterm involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidateâ€™s skills."
+        "description": "Supervised Demonstration Teaching in Special Education, Obs 3 and Midterm involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate's skills."
     },
     "Supervised Demonstration Teaching in Special Education, Obs 4 and 5": {
         "name": "Supervised Demonstration Teaching in Special Education, Obs 4 and 5",
         "code": "D014",
         "units": "3",
-        "description": "Supervised Demonstration Teaching in Special Education, Obs 4 and 5 involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidateâ€™s skills."
+        "description": "Supervised Demonstration Teaching in Special Education, Obs 4 and 5 involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate's skills."
     },
     "Supervised Demonstration Teaching in Special Education, Obs 6 and Final": {
         "name": "Supervised Demonstration Teaching in Special Education, Obs 6 and Final",
         "code": "D015",
         "units": "3",
-        "description": "Supervised Demonstration Teaching in Special Education, Obs 6 and Final involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidateâ€™s skills."
+        "description": "Supervised Demonstration Teaching in Special Education, Obs 6 and Final involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate's skills."
     },
     "Teacher Performance Assessment in Special Education": {
         "name": "Teacher Performance Assessment in Special Education",
@@ -2353,7 +2352,7 @@ const popupData = {
         "name": "Health Leadership Capstone",
         "code": "C991",
         "units": "4",
-        "description": "The capstone is a student-designed project intended to illustrate the studentâ€™s ability to effect change in the industry and demonstrate competence in all five program outcomes: transformational leader, value innovator, tactical manager, analyst, and integrated systems expert. Students are required to collaborate with leaders in the healthcare industry to identify opportunities for improvement in healthcare, propose a solution, and perform a business analysis to evaluate its feasibility. In addition, the capstone encourages work in the healthcare industry that will be showcased in the studentâ€™s collection of work and help solidify professional relationships in the industry. This course has no prerequisites."
+        "description": "The capstone is a student-designed project intended to illustrate the student's ability to effect change in the industry and demonstrate competence in all five program outcomes: transformational leader, value innovator, tactical manager, analyst, and integrated systems expert. Students are required to collaborate with leaders in the healthcare industry to identify opportunities for improvement in healthcare, propose a solution, and perform a business analysis to evaluate its feasibility. In addition, the capstone encourages work in the healthcare industry that will be showcased in the student's collection of work and help solidify professional relationships in the industry. This course has no prerequisites."
     },
     "Behavioral Support Strategies for K-12 Learners with Mild to Moderate Exceptionalities": {
         "name": "Behavioral Support Strategies for K-12 Learners with Mild to Moderate Exceptionalities",
@@ -2402,6 +2401,18 @@ const popupData = {
         "code": "C314",
         "units": "3",
         "description": "Supervised Demonstration Teaching in Elementary and Special Education involves a series of classroom performance observations by the host teacher and clinical supervisor that develop comprehensive performance data about the teacher candidate’s skills."
+    },
+    "Financial Resource Management and Healthcare Reimbursement": {
+        "name": "Financial Resource Management and Healthcare Reimbursement",
+        "code": "D405",
+        "units": "4",
+        "description": "Financial Resource Management and Healthcare Reimbursement examines financial practices and reimbursement types within the healthcare industry. This course covers the analysis of regulations required for health reimbursements. This course also covers the evaluation of effective revenue cycle management, focusing on the organization’s financial stability. There are no prerequisites for this course."
+    },
+    "Cultural Awareness": {
+        "name": "Cultural Awareness",
+        "code": "D395",
+        "units": "3",
+        "description": "Cultural Awareness is a course for the healthcare professional providing learners with the understanding of what it means to have personal, explicit and implicit cultural biases and how they can affect client outcomes in the health and human services industry. The course also will explore strategies for responding to personal biases and for promoting cultural awareness in health and human services. Through critical readings, videos, and activities, the learner will gain knowledge in this essential subject. There are no prerequisites for this course."
     }
 };
 
