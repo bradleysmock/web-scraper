@@ -1659,19 +1659,19 @@ const popupData = {
         "units": "4",
         "description": "Educational Psychology and Development of Children and Adolescents is a key component of WGUâ€™s Professional Core and is a required course for all initial licensure candidates. This course prepares candidates to support classroom practices grounded in research-validated principles from the areas of educational psychology and child/adolescent development. Candidates will be introduced to learning theories that equip them with the knowledge and skills necessary to support the diverse populations of students with whom they will interact. This course addresses theories of human development, spanning early childhood through adolescence, and candidates completing this course will be able to explain and analyze the guiding perspectives on linguistic, physical, cognitive, and social development. This course will also cover appropriate instructional and assessment strategies to support student learning and development. Candidates will engage in four hours of virtual classroom observations related to issues in educational psychology and learner development. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Educational Foundations course."
     },
-    "Fundamentals of Diverse Learners ": {
+    "Fundamentals of Diverse Learners": {
         "name": "Fundamentals of Diverse Learners ",
         "code": "D096",
         "units": "4",
         "description": "Fundamentals of Diverse Learners is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course prepares candidates to consider and address the wide range of learning needs in the classrooms of today. This course teaches candidates to identify and support the needs of diverse populations of learners, including, for example, students with disabilities (INCLUDING DYSLEXIA), English language learners, and gifted and talented students. Practical strategies for differentiating instruction while creating a safe, inclusive, and culturally responsive learning environment are explored. This course helps candidates develop skills for partnering with parents and advocating for all students, particularly those impacted by provisions of IDEA and Section 504 of the Rehabilitation Act. Multitiered systems of supports are addressed to prepare candidates for their future classrooms as they seek to select appropriate instructional practices and interventions to best serve their students. Candidates will engage in four hours of preclinical experiences that includes a simulated teaching experience in which skills learned can be applied. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the School as a Community of Care course."
     },
-    "Managing Engaging Learning Environments ": {
+    "Managing Engaging Learning Environments": {
         "name": "Managing Engaging Learning Environments ",
         "code": "D095",
         "units": "3",
         "description": "Managing Engaging Learning Environments is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course prepares candidates to establish and contribute to safe and productive learning environments that support the success of all learners by ensuring student engagement and motivation for learning. Candidates will learn strategies, such as incorporating consistent routines and expectations, to provide positive behavior supports, increase learner motivation, promote active learning and self-direction, and ensure a safe and productive classroom setting that fosters a sense of community through collaborative educational practices. The course will culminate in evidence-based, practical application of current strategies, theories, or philosophical perspectives related to motivating and engaging all students in a learning community. Candidates will engage in seven hours of preclinical experiences that include both virtual observations of classroom settings and time in a simulated classroom environment where theory can be put into practice. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Fundamentals of Diverse Learners course."
     },
-    "Assessing Impact on Student Learning ": {
+    "Assessing Impact on Student Learning": {
         "name": "Assessing Impact on Student Learning ",
         "code": "D093 ",
         "units": "3",
@@ -2354,19 +2354,7 @@ const popupData = {
         "code": "C991",
         "units": "4",
         "description": "The capstone is a student-designed project intended to illustrate the studentâ€™s ability to effect change in the industry and demonstrate competence in all five program outcomes: transformational leader, value innovator, tactical manager, analyst, and integrated systems expert. Students are required to collaborate with leaders in the healthcare industry to identify opportunities for improvement in healthcare, propose a solution, and perform a business analysis to evaluate its feasibility. In addition, the capstone encourages work in the healthcare industry that will be showcased in the studentâ€™s collection of work and help solidify professional relationships in the industry. This course has no prerequisites."
-    },
-    "Fundamentals of Diverse Learners": {
-        "name": "Fundamentals of Diverse Learners",
-        "code": "D096",
-        "units": "4",
-        "description": "Fundamentals of Diverse Learners is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course prepares candidates to consider and address the wide range of learning needs in the classrooms of today. This course teaches candidates to identify and support the needs of diverse populations of learners, including, for example, students with disabilities (INCLUDING DYSLEXIA), English language learners, and gifted and talented students. Practical strategies for differentiating instruction while creating a safe, inclusive, and culturally responsive learning environment are explored. This course helps candidates develop skills for partnering with parents and advocating for all students, particularly those impacted by provisions of IDEA and Section 504 of the Rehabilitation Act. Multitiered systems of supports are addressed to prepare candidates for their future classrooms as they seek to select appropriate instructional practices and interventions to best serve their students. Candidates will engage in four hours of preclinical experiences that includes a simulated teaching experience in which skills learned can be applied. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the School as a Community of Care course."
-    },
-    "Assessing Impact on Student Learning": {
-        "name": "Assessing Impact on Student Learning",
-        "code": "D093",
-        "units": "3",
-        "description": "Assessing Impact on Student Learning is a key component of WGU's Professional Core and is a required cAssessing Impact on Student Learning is a key component of WGU's Professional Core and is a required course for all initial licensure candidates. This course equips candidates to evaluate student learning and their own professional practice, ensuring candidates are prepared to ensure all learners' success. In this course, candidates learn multiple methods of assessment to ensure they are able to implement a balanced approach to assessment while monitoring their students’ progress. Assessments types such as formative, summative, standardized, and common assessments are addressed so candidates understand their purposes and can apply them within the context of a lesson to determine impact on learning. Data literacy skills are taught to ensure candidates interpret and analyze individual and classroom data and apply their knowledge in ways that support academic success. Candidates will engage in three hours of preclinical experiences that include virtual classroom observations. Cross-cutting themes of technology and diversity are interwoven for further development. This course is designed to be taken after successful completion of the Introduction to Curriculum, Instruction, and Assessment course."
-    },
+    }
 
 };
 
