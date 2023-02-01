@@ -2001,8 +2001,8 @@ const popupData = {
         "units": "3",
         "description": "Through a thematic approach, this course explores the history of human societies over 5,000 years. Candidates examine political and social structures, religious beliefs, economic systems, and patterns in trade, as well as many cultural attributes that came to distinguish different societies around the globe over time. Special attention is given to relationships between these societies and the way geographic and environmental factors influence human development."
     },
-    "Childrenâ€™s Literature": {
-        "name": "Childrenâ€™s Literature",
+    "Children's Literature": {
+        "name": "Children's Literature",
         "code": "C970",
         "units": "3",
         "description": "Children's Literature is an introduction to and exploration of children's literature. Students will consider and analyze children's literature as a lens through which to view the world. Students will experience multiple genres, historical perspectives, cultural representations, and current applications in the field of children's literature. This course is designed to be taken after successful completion of Introduction to Curriculum, Instruction, and Assessmentâ€¯OR Introduction to Instructional Planning and Presentation AND Instructional Planning and Presentation in Elementary or Special Education."
